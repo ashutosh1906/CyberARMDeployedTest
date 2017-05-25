@@ -1,0 +1,6023 @@
+Documents,malware,Spam
+Documents,malware,Unknown
+Documents,malware,Packet sniffer
+Documents,malware,Backdoor
+Documents,malware,Exploit vuln
+Documents,malware,Other
+Documents,malware,Password dumper
+Documents,malware,Scan network
+Documents,malware,Downloader
+Documents,malware,Adminware
+Documents,malware,Click fraud
+Documents,malware,Adware
+Documents,malware,C2
+Documents,malware,Worm
+Documents,malware,Spyware/Keylogger
+Documents,malware,Brute force
+Documents,malware,Capture app data
+Documents,malware,DoS
+Documents,malware,Disable controls
+Documents,malware,Capture stored data
+Documents,malware,Ransomware
+Documents,malware,Export data
+Documents,malware,Client-side attack
+Documents,malware,Rootkit
+Documents,malware,Destroy data
+Documents,malware,Ram scraper
+Documents,error,Loss
+Documents,error,Physical accidents
+Documents,error,Misconfiguration
+Documents,error,Unknown
+Documents,error,Misdelivery
+Documents,error,Misinformation
+Documents,error,Publishing error
+Documents,error,Malfunction
+Documents,error,Disposal error
+Documents,error,Other
+Documents,error,Programming error
+Documents,error,Data entry error
+Documents,error,Omission
+Documents,error,Gaffe
+Documents,error,Maintenance error
+Documents,error,Classification error
+Documents,environmental,Unknown
+Documents,environmental,Power failure
+Documents,environmental,Humidity
+Documents,social,Scam
+Documents,social,Phishing
+Documents,social,Unknown
+Documents,social,Influence
+Documents,social,Propaganda
+Documents,social,Forgery
+Documents,social,Bribery
+Documents,social,Other
+Documents,social,Pretexting
+Documents,social,Extortion
+Documents,social,Elicitation
+Documents,social,Baiting
+Documents,misuse,Unapproved software
+Documents,misuse,Illicit content
+Documents,misuse,Unapproved workaround
+Documents,misuse,Unapproved hardware
+Documents,misuse,Unknown
+Documents,misuse,Email misuse
+Documents,misuse,Possession abuse
+Documents,misuse,Other
+Documents,misuse,Net misuse
+Documents,misuse,Data mishandling
+Documents,misuse,Privilege abuse
+Documents,misuse,Knowledge abuse
+Documents,hacking,MitM
+Documents,hacking,XSS
+Documents,hacking,Footprinting
+Documents,hacking,Forced browsing
+Documents,hacking,SSI injection
+Documents,hacking,Unknown
+Documents,hacking,Buffer overflow
+Documents,hacking,Use of stolen creds
+Documents,hacking,Cryptanalysis
+Documents,hacking,SQLi
+Documents,hacking,Brute force
+Documents,hacking,Other
+Documents,hacking,Path traversal
+Documents,hacking,URL redirector abuse
+Documents,hacking,DoS
+Documents,hacking,Use of backdoor or C2
+Documents,hacking,Mail command injection
+Documents,hacking,Session fixation
+Documents,hacking,RFI
+Documents,hacking,Abuse of functionality
+Documents,physical,Skimmer
+Documents,physical,Bypassed controls
+Documents,physical,Snooping
+Documents,physical,Tampering
+Documents,physical,Unknown
+Documents,physical,Assault
+Documents,physical,Surveillance
+Documents,physical,Connection
+Documents,physical,Other
+Documents,physical,Wiretapping
+Documents,physical,Theft
+Documents,physical,Destruction
+Documents,physical,Disabled controls
+WLAN,malware,Spam
+WLAN,malware,Unknown
+WLAN,malware,Packet sniffer
+WLAN,malware,Backdoor
+WLAN,malware,Exploit vuln
+WLAN,malware,Other
+WLAN,malware,Password dumper
+WLAN,malware,Scan network
+WLAN,malware,Downloader
+WLAN,malware,Click fraud
+WLAN,malware,Adware
+WLAN,malware,C2
+WLAN,malware,Worm
+WLAN,malware,Spyware/Keylogger
+WLAN,malware,Brute force
+WLAN,malware,Capture app data
+WLAN,malware,DoS
+WLAN,malware,Disable controls
+WLAN,malware,Capture stored data
+WLAN,malware,Ransomware
+WLAN,malware,Export data
+WLAN,malware,Client-side attack
+WLAN,malware,Rootkit
+WLAN,malware,Destroy data
+WLAN,malware,Ram scraper
+WLAN,error,Disposal error
+WLAN,error,Physical accidents
+WLAN,error,Loss
+WLAN,error,Unknown
+WLAN,error,Misdelivery
+WLAN,error,Misinformation
+WLAN,error,Publishing error
+WLAN,error,Malfunction
+WLAN,error,Other
+WLAN,error,Programming error
+WLAN,error,Data entry error
+WLAN,error,Omission
+WLAN,error,Gaffe
+WLAN,error,Misconfiguration
+WLAN,error,Maintenance error
+WLAN,error,Classification error
+WLAN,environmental,Unknown
+WLAN,environmental,Power failure
+WLAN,environmental,Humidity
+WLAN,social,Scam
+WLAN,social,Phishing
+WLAN,social,Unknown
+WLAN,social,Influence
+WLAN,social,Forgery
+WLAN,social,Bribery
+WLAN,social,Other
+WLAN,social,Pretexting
+WLAN,social,Extortion
+WLAN,social,Elicitation
+WLAN,social,Baiting
+WLAN,misuse,Unapproved software
+WLAN,misuse,Illicit content
+WLAN,misuse,Unapproved workaround
+WLAN,misuse,Unapproved hardware
+WLAN,misuse,Unknown
+WLAN,misuse,Email misuse
+WLAN,misuse,Possession abuse
+WLAN,misuse,Other
+WLAN,misuse,Net misuse
+WLAN,misuse,Data mishandling
+WLAN,misuse,Privilege abuse
+WLAN,misuse,Knowledge abuse
+WLAN,hacking,MitM
+WLAN,hacking,XSS
+WLAN,hacking,Footprinting
+WLAN,hacking,Forced browsing
+WLAN,hacking,SSI injection
+WLAN,hacking,Unknown
+WLAN,hacking,Buffer overflow
+WLAN,hacking,Use of stolen creds
+WLAN,hacking,Cryptanalysis
+WLAN,hacking,SQLi
+WLAN,hacking,Brute force
+WLAN,hacking,Other
+WLAN,hacking,Path traversal
+WLAN,hacking,URL redirector abuse
+WLAN,hacking,DoS
+WLAN,hacking,Use of backdoor or C2
+WLAN,hacking,Mail command injection
+WLAN,hacking,Session fixation
+WLAN,hacking,RFI
+WLAN,hacking,Abuse of functionality
+WLAN,physical,Skimmer
+WLAN,physical,Theft
+WLAN,physical,Snooping
+WLAN,physical,Tampering
+WLAN,physical,Unknown
+WLAN,physical,Connection
+WLAN,physical,Surveillance
+WLAN,physical,Assault
+WLAN,physical,Other
+WLAN,physical,Wiretapping
+WLAN,physical,Bypassed controls
+WLAN,physical,Destruction
+WLAN,physical,Disabled controls
+Disk drive,malware,Spam
+Disk drive,malware,Unknown
+Disk drive,malware,Packet sniffer
+Disk drive,malware,Backdoor
+Disk drive,malware,Exploit vuln
+Disk drive,malware,Other
+Disk drive,malware,Password dumper
+Disk drive,malware,Scan network
+Disk drive,malware,Downloader
+Disk drive,malware,Adminware
+Disk drive,malware,Click fraud
+Disk drive,malware,Adware
+Disk drive,malware,C2
+Disk drive,malware,Worm
+Disk drive,malware,Spyware/Keylogger
+Disk drive,malware,Brute force
+Disk drive,malware,Capture app data
+Disk drive,malware,DoS
+Disk drive,malware,Disable controls
+Disk drive,malware,Capture stored data
+Disk drive,malware,Ransomware
+Disk drive,malware,Export data
+Disk drive,malware,Client-side attack
+Disk drive,malware,Rootkit
+Disk drive,malware,Destroy data
+Disk drive,malware,Ram scraper
+Disk drive,social,Scam
+Disk drive,social,Phishing
+Disk drive,social,Unknown
+Disk drive,social,Influence
+Disk drive,social,Extortion
+Disk drive,social,Forgery
+Disk drive,social,Bribery
+Disk drive,social,Other
+Disk drive,social,Pretexting
+Disk drive,social,Propaganda
+Disk drive,social,Elicitation
+Disk drive,social,Baiting
+Disk drive,environmental,Unknown
+Disk drive,environmental,Power failure
+Disk drive,environmental,Humidity
+Disk drive,error,Loss
+Disk drive,error,Physical accidents
+Disk drive,error,Misconfiguration
+Disk drive,error,Unknown
+Disk drive,error,Misdelivery
+Disk drive,error,Misinformation
+Disk drive,error,Publishing error
+Disk drive,error,Malfunction
+Disk drive,error,Disposal error
+Disk drive,error,Other
+Disk drive,error,Programming error
+Disk drive,error,Data entry error
+Disk drive,error,Omission
+Disk drive,error,Gaffe
+Disk drive,error,Maintenance error
+Disk drive,error,Classification error
+Disk drive,misuse,Unapproved software
+Disk drive,misuse,Illicit content
+Disk drive,misuse,Unapproved workaround
+Disk drive,misuse,Unapproved hardware
+Disk drive,misuse,Unknown
+Disk drive,misuse,Email misuse
+Disk drive,misuse,Possession abuse
+Disk drive,misuse,Other
+Disk drive,misuse,Net misuse
+Disk drive,misuse,Data mishandling
+Disk drive,misuse,Privilege abuse
+Disk drive,misuse,Knowledge abuse
+Disk drive,hacking,MitM
+Disk drive,hacking,XSS
+Disk drive,hacking,Footprinting
+Disk drive,hacking,Forced browsing
+Disk drive,hacking,SSI injection
+Disk drive,hacking,Unknown
+Disk drive,hacking,Buffer overflow
+Disk drive,hacking,Use of stolen creds
+Disk drive,hacking,Cryptanalysis
+Disk drive,hacking,SQLi
+Disk drive,hacking,Brute force
+Disk drive,hacking,Other
+Disk drive,hacking,Path traversal
+Disk drive,hacking,URL redirector abuse
+Disk drive,hacking,DoS
+Disk drive,hacking,Use of backdoor or C2
+Disk drive,hacking,Mail command injection
+Disk drive,hacking,Session fixation
+Disk drive,hacking,RFI
+Disk drive,hacking,Abuse of functionality
+Disk drive,physical,Skimmer
+Disk drive,physical,Theft
+Disk drive,physical,Snooping
+Disk drive,physical,Tampering
+Disk drive,physical,Unknown
+Disk drive,physical,Assault
+Disk drive,physical,Surveillance
+Disk drive,physical,Connection
+Disk drive,physical,Other
+Disk drive,physical,Wiretapping
+Disk drive,physical,Bypassed controls
+Disk drive,physical,Destruction
+Disk drive,physical,Disabled controls
+Tablet,malware,Spam
+Tablet,malware,Unknown
+Tablet,malware,Packet sniffer
+Tablet,malware,Backdoor
+Tablet,malware,Exploit vuln
+Tablet,malware,Other
+Tablet,malware,Password dumper
+Tablet,malware,Scan network
+Tablet,malware,Downloader
+Tablet,malware,Click fraud
+Tablet,malware,Adware
+Tablet,malware,C2
+Tablet,malware,Worm
+Tablet,malware,Spyware/Keylogger
+Tablet,malware,Brute force
+Tablet,malware,Capture app data
+Tablet,malware,DoS
+Tablet,malware,Disable controls
+Tablet,malware,Capture stored data
+Tablet,malware,Ransomware
+Tablet,malware,Export data
+Tablet,malware,Client-side attack
+Tablet,malware,Rootkit
+Tablet,malware,Destroy data
+Tablet,malware,Ram scraper
+Tablet,error,Loss
+Tablet,error,Physical accidents
+Tablet,error,Misconfiguration
+Tablet,error,Unknown
+Tablet,error,Misdelivery
+Tablet,error,Misinformation
+Tablet,error,Publishing error
+Tablet,error,Malfunction
+Tablet,error,Disposal error
+Tablet,error,Other
+Tablet,error,Programming error
+Tablet,error,Data entry error
+Tablet,error,Omission
+Tablet,error,Gaffe
+Tablet,error,Classification error
+Tablet,environmental,Unknown
+Tablet,environmental,Power failure
+Tablet,social,Scam
+Tablet,social,Forgery
+Tablet,social,Phishing
+Tablet,social,Unknown
+Tablet,social,Influence
+Tablet,social,Pretexting
+Tablet,social,Bribery
+Tablet,social,Other
+Tablet,social,Extortion
+Tablet,social,Elicitation
+Tablet,social,Baiting
+Tablet,misuse,Unapproved software
+Tablet,misuse,Illicit content
+Tablet,misuse,Unapproved workaround
+Tablet,misuse,Unapproved hardware
+Tablet,misuse,Unknown
+Tablet,misuse,Email misuse
+Tablet,misuse,Possession abuse
+Tablet,misuse,Other
+Tablet,misuse,Net misuse
+Tablet,misuse,Data mishandling
+Tablet,misuse,Privilege abuse
+Tablet,misuse,Knowledge abuse
+Tablet,hacking,MitM
+Tablet,hacking,XSS
+Tablet,hacking,Footprinting
+Tablet,hacking,Forced browsing
+Tablet,hacking,SSI injection
+Tablet,hacking,Unknown
+Tablet,hacking,Buffer overflow
+Tablet,hacking,Use of stolen creds
+Tablet,hacking,Cryptanalysis
+Tablet,hacking,SQLi
+Tablet,hacking,Brute force
+Tablet,hacking,Other
+Tablet,hacking,Path traversal
+Tablet,hacking,URL redirector abuse
+Tablet,hacking,DoS
+Tablet,hacking,Use of backdoor or C2
+Tablet,hacking,Mail command injection
+Tablet,hacking,Session fixation
+Tablet,hacking,RFI
+Tablet,hacking,Abuse of functionality
+Tablet,physical,Skimmer
+Tablet,physical,Theft
+Tablet,physical,Snooping
+Tablet,physical,Tampering
+Tablet,physical,Unknown
+Tablet,physical,Assault
+Tablet,physical,Surveillance
+Tablet,physical,Connection
+Tablet,physical,Other
+Tablet,physical,Wiretapping
+Tablet,physical,Bypassed controls
+Tablet,physical,Destruction
+Tablet,physical,Disabled controls
+Broadband,malware,Spam
+Broadband,malware,Unknown
+Broadband,malware,Packet sniffer
+Broadband,malware,Backdoor
+Broadband,malware,Exploit vuln
+Broadband,malware,Other
+Broadband,malware,Password dumper
+Broadband,malware,Scan network
+Broadband,malware,Downloader
+Broadband,malware,Click fraud
+Broadband,malware,Adware
+Broadband,malware,C2
+Broadband,malware,Worm
+Broadband,malware,Spyware/Keylogger
+Broadband,malware,Brute force
+Broadband,malware,Capture app data
+Broadband,malware,DoS
+Broadband,malware,Disable controls
+Broadband,malware,Capture stored data
+Broadband,malware,Ransomware
+Broadband,malware,Export data
+Broadband,malware,Client-side attack
+Broadband,malware,Rootkit
+Broadband,malware,Destroy data
+Broadband,malware,Ram scraper
+Broadband,error,Disposal error
+Broadband,error,Physical accidents
+Broadband,error,Loss
+Broadband,error,Unknown
+Broadband,error,Misdelivery
+Broadband,error,Misinformation
+Broadband,error,Publishing error
+Broadband,error,Malfunction
+Broadband,error,Other
+Broadband,error,Programming error
+Broadband,error,Data entry error
+Broadband,error,Omission
+Broadband,error,Gaffe
+Broadband,error,Misconfiguration
+Broadband,error,Classification error
+Broadband,environmental,Unknown
+Broadband,environmental,Power failure
+Broadband,social,Scam
+Broadband,social,Forgery
+Broadband,social,Phishing
+Broadband,social,Unknown
+Broadband,social,Influence
+Broadband,social,Pretexting
+Broadband,social,Bribery
+Broadband,social,Other
+Broadband,social,Extortion
+Broadband,social,Elicitation
+Broadband,social,Baiting
+Broadband,misuse,Unapproved software
+Broadband,misuse,Illicit content
+Broadband,misuse,Unapproved workaround
+Broadband,misuse,Unapproved hardware
+Broadband,misuse,Unknown
+Broadband,misuse,Email misuse
+Broadband,misuse,Possession abuse
+Broadband,misuse,Other
+Broadband,misuse,Net misuse
+Broadband,misuse,Data mishandling
+Broadband,misuse,Privilege abuse
+Broadband,misuse,Knowledge abuse
+Broadband,hacking,MitM
+Broadband,hacking,XSS
+Broadband,hacking,Footprinting
+Broadband,hacking,Forced browsing
+Broadband,hacking,SSI injection
+Broadband,hacking,Unknown
+Broadband,hacking,Buffer overflow
+Broadband,hacking,Use of stolen creds
+Broadband,hacking,Cryptanalysis
+Broadband,hacking,SQLi
+Broadband,hacking,Brute force
+Broadband,hacking,Other
+Broadband,hacking,Path traversal
+Broadband,hacking,URL redirector abuse
+Broadband,hacking,DoS
+Broadband,hacking,Use of backdoor or C2
+Broadband,hacking,Mail command injection
+Broadband,hacking,Session fixation
+Broadband,hacking,RFI
+Broadband,hacking,Abuse of functionality
+Broadband,physical,Skimmer
+Broadband,physical,Theft
+Broadband,physical,Snooping
+Broadband,physical,Tampering
+Broadband,physical,Unknown
+Broadband,physical,Connection
+Broadband,physical,Surveillance
+Broadband,physical,Assault
+Broadband,physical,Other
+Broadband,physical,Wiretapping
+Broadband,physical,Bypassed controls
+Broadband,physical,Destruction
+Broadband,physical,Disabled controls
+Cashier,malware,Spam
+Cashier,malware,Unknown
+Cashier,malware,Packet sniffer
+Cashier,malware,Backdoor
+Cashier,malware,Exploit vuln
+Cashier,malware,Other
+Cashier,malware,Password dumper
+Cashier,malware,Scan network
+Cashier,malware,Downloader
+Cashier,malware,Adminware
+Cashier,malware,Click fraud
+Cashier,malware,Adware
+Cashier,malware,C2
+Cashier,malware,Worm
+Cashier,malware,Spyware/Keylogger
+Cashier,malware,Brute force
+Cashier,malware,Capture app data
+Cashier,malware,DoS
+Cashier,malware,Disable controls
+Cashier,malware,Capture stored data
+Cashier,malware,Ransomware
+Cashier,malware,Export data
+Cashier,malware,Client-side attack
+Cashier,malware,Rootkit
+Cashier,malware,Destroy data
+Cashier,malware,Ram scraper
+Cashier,social,Scam
+Cashier,social,Phishing
+Cashier,social,Pretexting
+Cashier,social,Unknown
+Cashier,social,Influence
+Cashier,social,Propaganda
+Cashier,social,Forgery
+Cashier,social,Bribery
+Cashier,social,Other
+Cashier,social,Extortion
+Cashier,social,Elicitation
+Cashier,social,Baiting
+Cashier,environmental,Unknown
+Cashier,environmental,Power failure
+Cashier,environmental,Humidity
+Cashier,error,Disposal error
+Cashier,error,Loss
+Cashier,error,Physical accidents
+Cashier,error,Misconfiguration
+Cashier,error,Unknown
+Cashier,error,Misdelivery
+Cashier,error,Misinformation
+Cashier,error,Publishing error
+Cashier,error,Malfunction
+Cashier,error,Other
+Cashier,error,Programming error
+Cashier,error,Data entry error
+Cashier,error,Omission
+Cashier,error,Gaffe
+Cashier,error,Maintenance error
+Cashier,error,Classification error
+Cashier,misuse,Unapproved software
+Cashier,misuse,Illicit content
+Cashier,misuse,Unapproved workaround
+Cashier,misuse,Unapproved hardware
+Cashier,misuse,Unknown
+Cashier,misuse,Email misuse
+Cashier,misuse,Possession abuse
+Cashier,misuse,Other
+Cashier,misuse,Net misuse
+Cashier,misuse,Data mishandling
+Cashier,misuse,Privilege abuse
+Cashier,misuse,Knowledge abuse
+Cashier,hacking,MitM
+Cashier,hacking,XSS
+Cashier,hacking,Footprinting
+Cashier,hacking,Forced browsing
+Cashier,hacking,SSI injection
+Cashier,hacking,Unknown
+Cashier,hacking,Buffer overflow
+Cashier,hacking,Use of stolen creds
+Cashier,hacking,Cryptanalysis
+Cashier,hacking,SQLi
+Cashier,hacking,Brute force
+Cashier,hacking,Other
+Cashier,hacking,Path traversal
+Cashier,hacking,URL redirector abuse
+Cashier,hacking,DoS
+Cashier,hacking,Use of backdoor or C2
+Cashier,hacking,Mail command injection
+Cashier,hacking,Session fixation
+Cashier,hacking,RFI
+Cashier,hacking,Abuse of functionality
+Cashier,physical,Skimmer
+Cashier,physical,Bypassed controls
+Cashier,physical,Snooping
+Cashier,physical,Tampering
+Cashier,physical,Unknown
+Cashier,physical,Assault
+Cashier,physical,Surveillance
+Cashier,physical,Connection
+Cashier,physical,Other
+Cashier,physical,Wiretapping
+Cashier,physical,Theft
+Cashier,physical,Destruction
+Cashier,physical,Disabled controls
+Helpdesk,malware,Spam
+Helpdesk,malware,Unknown
+Helpdesk,malware,Packet sniffer
+Helpdesk,malware,Backdoor
+Helpdesk,malware,Exploit vuln
+Helpdesk,malware,Other
+Helpdesk,malware,Password dumper
+Helpdesk,malware,Scan network
+Helpdesk,malware,Downloader
+Helpdesk,malware,Adware
+Helpdesk,malware,C2
+Helpdesk,malware,Worm
+Helpdesk,malware,Spyware/Keylogger
+Helpdesk,malware,Brute force
+Helpdesk,malware,Capture app data
+Helpdesk,malware,Ram scraper
+Helpdesk,malware,Disable controls
+Helpdesk,malware,Capture stored data
+Helpdesk,malware,Ransomware
+Helpdesk,malware,Export data
+Helpdesk,malware,Client-side attack
+Helpdesk,malware,Rootkit
+Helpdesk,malware,Destroy data
+Helpdesk,malware,DoS
+Helpdesk,social,Forgery
+Helpdesk,social,Pretexting
+Helpdesk,social,Unknown
+Helpdesk,social,Influence
+Helpdesk,social,Phishing
+Helpdesk,social,Bribery
+Helpdesk,social,Other
+Helpdesk,social,Extortion
+Helpdesk,social,Elicitation
+Helpdesk,social,Baiting
+Helpdesk,environmental,Unknown
+Helpdesk,environmental,Power failure
+Helpdesk,error,Loss
+Helpdesk,error,Omission
+Helpdesk,error,Misconfiguration
+Helpdesk,error,Unknown
+Helpdesk,error,Misdelivery
+Helpdesk,error,Physical accidents
+Helpdesk,error,Publishing error
+Helpdesk,error,Malfunction
+Helpdesk,error,Disposal error
+Helpdesk,error,Other
+Helpdesk,error,Programming error
+Helpdesk,error,Data entry error
+Helpdesk,error,Gaffe
+Helpdesk,error,Classification error
+Helpdesk,misuse,Unapproved software
+Helpdesk,misuse,Unapproved workaround
+Helpdesk,misuse,Unapproved hardware
+Helpdesk,misuse,Unknown
+Helpdesk,misuse,Email misuse
+Helpdesk,misuse,Possession abuse
+Helpdesk,misuse,Other
+Helpdesk,misuse,Net misuse
+Helpdesk,misuse,Data mishandling
+Helpdesk,misuse,Privilege abuse
+Helpdesk,misuse,Knowledge abuse
+Helpdesk,hacking,XSS
+Helpdesk,hacking,Footprinting
+Helpdesk,hacking,Forced browsing
+Helpdesk,hacking,SSI injection
+Helpdesk,hacking,Unknown
+Helpdesk,hacking,Buffer overflow
+Helpdesk,hacking,Use of stolen creds
+Helpdesk,hacking,Cryptanalysis
+Helpdesk,hacking,SQLi
+Helpdesk,hacking,Brute force
+Helpdesk,hacking,MitM
+Helpdesk,hacking,Path traversal
+Helpdesk,hacking,DoS
+Helpdesk,hacking,Use of backdoor or C2
+Helpdesk,hacking,Mail command injection
+Helpdesk,hacking,Other
+Helpdesk,hacking,RFI
+Helpdesk,hacking,Abuse of functionality
+Helpdesk,physical,Skimmer
+Helpdesk,physical,Theft
+Helpdesk,physical,Snooping
+Helpdesk,physical,Tampering
+Helpdesk,physical,Unknown
+Helpdesk,physical,Surveillance
+Helpdesk,physical,Other
+Helpdesk,physical,Wiretapping
+Helpdesk,physical,Bypassed controls
+Helpdesk,physical,Destruction
+Helpdesk,physical,Disabled controls
+ATM,malware,Spam
+ATM,malware,Unknown
+ATM,malware,Packet sniffer
+ATM,malware,Backdoor
+ATM,malware,Exploit vuln
+ATM,malware,Other
+ATM,malware,Password dumper
+ATM,malware,Scan network
+ATM,malware,Downloader
+ATM,malware,Adminware
+ATM,malware,Click fraud
+ATM,malware,Adware
+ATM,malware,C2
+ATM,malware,Worm
+ATM,malware,Spyware/Keylogger
+ATM,malware,Brute force
+ATM,malware,Capture app data
+ATM,malware,DoS
+ATM,malware,Disable controls
+ATM,malware,Capture stored data
+ATM,malware,Ransomware
+ATM,malware,Export data
+ATM,malware,Client-side attack
+ATM,malware,Rootkit
+ATM,malware,Destroy data
+ATM,malware,Ram scraper
+ATM,social,Scam
+ATM,social,Phishing
+ATM,social,Unknown
+ATM,social,Influence
+ATM,social,Extortion
+ATM,social,Forgery
+ATM,social,Bribery
+ATM,social,Other
+ATM,social,Pretexting
+ATM,social,Propaganda
+ATM,social,Elicitation
+ATM,social,Baiting
+ATM,environmental,Unknown
+ATM,environmental,Power failure
+ATM,environmental,Humidity
+ATM,error,Loss
+ATM,error,Physical accidents
+ATM,error,Misconfiguration
+ATM,error,Unknown
+ATM,error,Misdelivery
+ATM,error,Misinformation
+ATM,error,Publishing error
+ATM,error,Malfunction
+ATM,error,Disposal error
+ATM,error,Other
+ATM,error,Programming error
+ATM,error,Data entry error
+ATM,error,Omission
+ATM,error,Gaffe
+ATM,error,Maintenance error
+ATM,error,Classification error
+ATM,misuse,Unapproved software
+ATM,misuse,Illicit content
+ATM,misuse,Unapproved workaround
+ATM,misuse,Unapproved hardware
+ATM,misuse,Unknown
+ATM,misuse,Email misuse
+ATM,misuse,Possession abuse
+ATM,misuse,Other
+ATM,misuse,Net misuse
+ATM,misuse,Data mishandling
+ATM,misuse,Privilege abuse
+ATM,misuse,Knowledge abuse
+ATM,hacking,MitM
+ATM,hacking,XSS
+ATM,hacking,Footprinting
+ATM,hacking,Forced browsing
+ATM,hacking,SSI injection
+ATM,hacking,Unknown
+ATM,hacking,Buffer overflow
+ATM,hacking,Use of stolen creds
+ATM,hacking,Cryptanalysis
+ATM,hacking,SQLi
+ATM,hacking,Brute force
+ATM,hacking,Other
+ATM,hacking,Path traversal
+ATM,hacking,URL redirector abuse
+ATM,hacking,DoS
+ATM,hacking,Use of backdoor or C2
+ATM,hacking,Mail command injection
+ATM,hacking,Session fixation
+ATM,hacking,RFI
+ATM,hacking,Abuse of functionality
+ATM,physical,Skimmer
+ATM,physical,Theft
+ATM,physical,Snooping
+ATM,physical,Tampering
+ATM,physical,Unknown
+ATM,physical,Connection
+ATM,physical,Surveillance
+ATM,physical,Assault
+ATM,physical,Other
+ATM,physical,Wiretapping
+ATM,physical,Bypassed controls
+ATM,physical,Destruction
+ATM,physical,Disabled controls
+SCADA,malware,Spam
+SCADA,malware,Unknown
+SCADA,malware,Packet sniffer
+SCADA,malware,Backdoor
+SCADA,malware,Exploit vuln
+SCADA,malware,Other
+SCADA,malware,Password dumper
+SCADA,malware,Scan network
+SCADA,malware,Downloader
+SCADA,malware,Adware
+SCADA,malware,C2
+SCADA,malware,Worm
+SCADA,malware,Spyware/Keylogger
+SCADA,malware,Brute force
+SCADA,malware,Capture app data
+SCADA,malware,Ram scraper
+SCADA,malware,Disable controls
+SCADA,malware,Capture stored data
+SCADA,malware,Ransomware
+SCADA,malware,Export data
+SCADA,malware,Client-side attack
+SCADA,malware,Rootkit
+SCADA,malware,Destroy data
+SCADA,malware,DoS
+SCADA,social,Phishing
+SCADA,social,Unknown
+SCADA,social,Influence
+SCADA,social,Forgery
+SCADA,social,Bribery
+SCADA,social,Other
+SCADA,social,Pretexting
+SCADA,social,Extortion
+SCADA,social,Elicitation
+SCADA,social,Baiting
+SCADA,environmental,Unknown
+SCADA,environmental,Power failure
+SCADA,error,Loss
+SCADA,error,Omission
+SCADA,error,Disposal error
+SCADA,error,Unknown
+SCADA,error,Misdelivery
+SCADA,error,Physical accidents
+SCADA,error,Publishing error
+SCADA,error,Malfunction
+SCADA,error,Other
+SCADA,error,Programming error
+SCADA,error,Data entry error
+SCADA,error,Gaffe
+SCADA,error,Misconfiguration
+SCADA,error,Classification error
+SCADA,misuse,Unapproved software
+SCADA,misuse,Unapproved workaround
+SCADA,misuse,Unapproved hardware
+SCADA,misuse,Unknown
+SCADA,misuse,Email misuse
+SCADA,misuse,Possession abuse
+SCADA,misuse,Other
+SCADA,misuse,Net misuse
+SCADA,misuse,Data mishandling
+SCADA,misuse,Privilege abuse
+SCADA,misuse,Knowledge abuse
+SCADA,hacking,XSS
+SCADA,hacking,Footprinting
+SCADA,hacking,Forced browsing
+SCADA,hacking,SSI injection
+SCADA,hacking,Unknown
+SCADA,hacking,Buffer overflow
+SCADA,hacking,Use of stolen creds
+SCADA,hacking,Cryptanalysis
+SCADA,hacking,SQLi
+SCADA,hacking,Brute force
+SCADA,hacking,MitM
+SCADA,hacking,Path traversal
+SCADA,hacking,DoS
+SCADA,hacking,Use of backdoor or C2
+SCADA,hacking,Mail command injection
+SCADA,hacking,Other
+SCADA,hacking,RFI
+SCADA,hacking,Abuse of functionality
+SCADA,physical,Skimmer
+SCADA,physical,Theft
+SCADA,physical,Snooping
+SCADA,physical,Tampering
+SCADA,physical,Unknown
+SCADA,physical,Surveillance
+SCADA,physical,Other
+SCADA,physical,Wiretapping
+SCADA,physical,Bypassed controls
+SCADA,physical,Destruction
+SCADA,physical,Disabled controls
+Smart card,malware,Spam
+Smart card,malware,Unknown
+Smart card,malware,Packet sniffer
+Smart card,malware,Backdoor
+Smart card,malware,Exploit vuln
+Smart card,malware,Other
+Smart card,malware,Password dumper
+Smart card,malware,Scan network
+Smart card,malware,Downloader
+Smart card,malware,Adminware
+Smart card,malware,Click fraud
+Smart card,malware,Adware
+Smart card,malware,C2
+Smart card,malware,Worm
+Smart card,malware,Spyware/Keylogger
+Smart card,malware,Brute force
+Smart card,malware,Capture app data
+Smart card,malware,DoS
+Smart card,malware,Disable controls
+Smart card,malware,Capture stored data
+Smart card,malware,Ransomware
+Smart card,malware,Export data
+Smart card,malware,Client-side attack
+Smart card,malware,Rootkit
+Smart card,malware,Destroy data
+Smart card,malware,Ram scraper
+Smart card,social,Scam
+Smart card,social,Forgery
+Smart card,social,Phishing
+Smart card,social,Unknown
+Smart card,social,Influence
+Smart card,social,Propaganda
+Smart card,social,Pretexting
+Smart card,social,Bribery
+Smart card,social,Other
+Smart card,social,Extortion
+Smart card,social,Elicitation
+Smart card,social,Baiting
+Smart card,environmental,Unknown
+Smart card,environmental,Power failure
+Smart card,environmental,Humidity
+Smart card,error,Loss
+Smart card,error,Physical accidents
+Smart card,error,Malfunction
+Smart card,error,Unknown
+Smart card,error,Misdelivery
+Smart card,error,Misinformation
+Smart card,error,Publishing error
+Smart card,error,Disposal error
+Smart card,error,Other
+Smart card,error,Programming error
+Smart card,error,Data entry error
+Smart card,error,Omission
+Smart card,error,Gaffe
+Smart card,error,Misconfiguration
+Smart card,error,Maintenance error
+Smart card,error,Classification error
+Smart card,misuse,Unapproved software
+Smart card,misuse,Illicit content
+Smart card,misuse,Unapproved workaround
+Smart card,misuse,Unapproved hardware
+Smart card,misuse,Unknown
+Smart card,misuse,Email misuse
+Smart card,misuse,Possession abuse
+Smart card,misuse,Other
+Smart card,misuse,Net misuse
+Smart card,misuse,Data mishandling
+Smart card,misuse,Privilege abuse
+Smart card,misuse,Knowledge abuse
+Smart card,hacking,MitM
+Smart card,hacking,XSS
+Smart card,hacking,Footprinting
+Smart card,hacking,Forced browsing
+Smart card,hacking,SSI injection
+Smart card,hacking,Unknown
+Smart card,hacking,Buffer overflow
+Smart card,hacking,Use of stolen creds
+Smart card,hacking,Cryptanalysis
+Smart card,hacking,SQLi
+Smart card,hacking,Brute force
+Smart card,hacking,Other
+Smart card,hacking,Path traversal
+Smart card,hacking,URL redirector abuse
+Smart card,hacking,DoS
+Smart card,hacking,Use of backdoor or C2
+Smart card,hacking,Mail command injection
+Smart card,hacking,Session fixation
+Smart card,hacking,RFI
+Smart card,hacking,Abuse of functionality
+Smart card,physical,Skimmer
+Smart card,physical,Bypassed controls
+Smart card,physical,Snooping
+Smart card,physical,Tampering
+Smart card,physical,Unknown
+Smart card,physical,Assault
+Smart card,physical,Surveillance
+Smart card,physical,Connection
+Smart card,physical,Other
+Smart card,physical,Wiretapping
+Smart card,physical,Theft
+Smart card,physical,Destruction
+Smart card,physical,Disabled controls
+Desktop,malware,Spam
+Desktop,malware,Unknown
+Desktop,malware,Packet sniffer
+Desktop,malware,Backdoor
+Desktop,malware,Exploit vuln
+Desktop,malware,Other
+Desktop,malware,Password dumper
+Desktop,malware,Scan network
+Desktop,malware,Downloader
+Desktop,malware,Adminware
+Desktop,malware,Click fraud
+Desktop,malware,Adware
+Desktop,malware,C2
+Desktop,malware,Worm
+Desktop,malware,Spyware/Keylogger
+Desktop,malware,Brute force
+Desktop,malware,Capture app data
+Desktop,malware,DoS
+Desktop,malware,Disable controls
+Desktop,malware,Capture stored data
+Desktop,malware,Ransomware
+Desktop,malware,Export data
+Desktop,malware,Client-side attack
+Desktop,malware,Rootkit
+Desktop,malware,Destroy data
+Desktop,malware,Ram scraper
+Desktop,social,Scam
+Desktop,social,Phishing
+Desktop,social,Unknown
+Desktop,social,Influence
+Desktop,social,Propaganda
+Desktop,social,Forgery
+Desktop,social,Bribery
+Desktop,social,Other
+Desktop,social,Pretexting
+Desktop,social,Extortion
+Desktop,social,Elicitation
+Desktop,social,Baiting
+Desktop,environmental,Unknown
+Desktop,environmental,Power failure
+Desktop,environmental,Humidity
+Desktop,error,Loss
+Desktop,error,Physical accidents
+Desktop,error,Misconfiguration
+Desktop,error,Unknown
+Desktop,error,Misdelivery
+Desktop,error,Misinformation
+Desktop,error,Publishing error
+Desktop,error,Malfunction
+Desktop,error,Disposal error
+Desktop,error,Other
+Desktop,error,Programming error
+Desktop,error,Data entry error
+Desktop,error,Omission
+Desktop,error,Gaffe
+Desktop,error,Maintenance error
+Desktop,error,Classification error
+Desktop,misuse,Unapproved software
+Desktop,misuse,Illicit content
+Desktop,misuse,Unapproved workaround
+Desktop,misuse,Unapproved hardware
+Desktop,misuse,Unknown
+Desktop,misuse,Email misuse
+Desktop,misuse,Possession abuse
+Desktop,misuse,Other
+Desktop,misuse,Net misuse
+Desktop,misuse,Data mishandling
+Desktop,misuse,Privilege abuse
+Desktop,misuse,Knowledge abuse
+Desktop,hacking,MitM
+Desktop,hacking,XSS
+Desktop,hacking,Footprinting
+Desktop,hacking,Forced browsing
+Desktop,hacking,SSI injection
+Desktop,hacking,Unknown
+Desktop,hacking,Buffer overflow
+Desktop,hacking,Use of stolen creds
+Desktop,hacking,Cryptanalysis
+Desktop,hacking,SQLi
+Desktop,hacking,Brute force
+Desktop,hacking,Other
+Desktop,hacking,Path traversal
+Desktop,hacking,URL redirector abuse
+Desktop,hacking,DoS
+Desktop,hacking,Use of backdoor or C2
+Desktop,hacking,Mail command injection
+Desktop,hacking,Session fixation
+Desktop,hacking,RFI
+Desktop,hacking,Abuse of functionality
+Desktop,physical,Skimmer
+Desktop,physical,Bypassed controls
+Desktop,physical,Snooping
+Desktop,physical,Tampering
+Desktop,physical,Unknown
+Desktop,physical,Assault
+Desktop,physical,Surveillance
+Desktop,physical,Connection
+Desktop,physical,Other
+Desktop,physical,Wiretapping
+Desktop,physical,Theft
+Desktop,physical,Destruction
+Desktop,physical,Disabled controls
+Authentication,malware,Spam
+Authentication,malware,Unknown
+Authentication,malware,Packet sniffer
+Authentication,malware,Backdoor
+Authentication,malware,Exploit vuln
+Authentication,malware,Other
+Authentication,malware,Password dumper
+Authentication,malware,Scan network
+Authentication,malware,Downloader
+Authentication,malware,Adminware
+Authentication,malware,Click fraud
+Authentication,malware,Adware
+Authentication,malware,C2
+Authentication,malware,Worm
+Authentication,malware,Spyware/Keylogger
+Authentication,malware,Brute force
+Authentication,malware,Capture app data
+Authentication,malware,DoS
+Authentication,malware,Disable controls
+Authentication,malware,Capture stored data
+Authentication,malware,Ransomware
+Authentication,malware,Export data
+Authentication,malware,Client-side attack
+Authentication,malware,Rootkit
+Authentication,malware,Destroy data
+Authentication,malware,Ram scraper
+Authentication,social,Scam
+Authentication,social,Phishing
+Authentication,social,Unknown
+Authentication,social,Influence
+Authentication,social,Propaganda
+Authentication,social,Forgery
+Authentication,social,Bribery
+Authentication,social,Other
+Authentication,social,Pretexting
+Authentication,social,Extortion
+Authentication,social,Elicitation
+Authentication,social,Baiting
+Authentication,environmental,Unknown
+Authentication,environmental,Power failure
+Authentication,environmental,Humidity
+Authentication,error,Disposal error
+Authentication,error,Loss
+Authentication,error,Physical accidents
+Authentication,error,Misconfiguration
+Authentication,error,Unknown
+Authentication,error,Misdelivery
+Authentication,error,Misinformation
+Authentication,error,Publishing error
+Authentication,error,Malfunction
+Authentication,error,Other
+Authentication,error,Programming error
+Authentication,error,Data entry error
+Authentication,error,Omission
+Authentication,error,Gaffe
+Authentication,error,Maintenance error
+Authentication,error,Classification error
+Authentication,misuse,Unapproved software
+Authentication,misuse,Illicit content
+Authentication,misuse,Unapproved workaround
+Authentication,misuse,Unapproved hardware
+Authentication,misuse,Unknown
+Authentication,misuse,Email misuse
+Authentication,misuse,Possession abuse
+Authentication,misuse,Other
+Authentication,misuse,Net misuse
+Authentication,misuse,Data mishandling
+Authentication,misuse,Privilege abuse
+Authentication,misuse,Knowledge abuse
+Authentication,hacking,MitM
+Authentication,hacking,XSS
+Authentication,hacking,Footprinting
+Authentication,hacking,Forced browsing
+Authentication,hacking,SSI injection
+Authentication,hacking,Unknown
+Authentication,hacking,Buffer overflow
+Authentication,hacking,Use of stolen creds
+Authentication,hacking,Cryptanalysis
+Authentication,hacking,SQLi
+Authentication,hacking,Brute force
+Authentication,hacking,Other
+Authentication,hacking,Path traversal
+Authentication,hacking,URL redirector abuse
+Authentication,hacking,DoS
+Authentication,hacking,Use of backdoor or C2
+Authentication,hacking,Mail command injection
+Authentication,hacking,Session fixation
+Authentication,hacking,RFI
+Authentication,hacking,Abuse of functionality
+Authentication,physical,Skimmer
+Authentication,physical,Theft
+Authentication,physical,Snooping
+Authentication,physical,Tampering
+Authentication,physical,Unknown
+Authentication,physical,Connection
+Authentication,physical,Surveillance
+Authentication,physical,Assault
+Authentication,physical,Other
+Authentication,physical,Wiretapping
+Authentication,physical,Bypassed controls
+Authentication,physical,Destruction
+Authentication,physical,Disabled controls
+Other,malware,Spam
+Other,malware,Unknown
+Other,malware,Packet sniffer
+Other,malware,Backdoor
+Other,malware,Exploit vuln
+Other,malware,Other
+Other,malware,Password dumper
+Other,malware,Scan network
+Other,malware,Downloader
+Other,malware,Adminware
+Other,malware,Click fraud
+Other,malware,Adware
+Other,malware,C2
+Other,malware,Worm
+Other,malware,Spyware/Keylogger
+Other,malware,Brute force
+Other,malware,Capture app data
+Other,malware,DoS
+Other,malware,Disable controls
+Other,malware,Capture stored data
+Other,malware,Ransomware
+Other,malware,Export data
+Other,malware,Client-side attack
+Other,malware,Rootkit
+Other,malware,Destroy data
+Other,malware,Ram scraper
+Other,error,Malfunction
+Other,error,Physical accidents
+Other,error,Loss
+Other,error,Unknown
+Other,error,Misdelivery
+Other,error,Misinformation
+Other,error,Publishing error
+Other,error,Disposal error
+Other,error,Other
+Other,error,Programming error
+Other,error,Data entry error
+Other,error,Omission
+Other,error,Gaffe
+Other,error,Misconfiguration
+Other,error,Maintenance error
+Other,error,Classification error
+Other,environmental,Unknown
+Other,environmental,Power failure
+Other,environmental,Humidity
+Other,social,Scam
+Other,social,Forgery
+Other,social,Phishing
+Other,social,Unknown
+Other,social,Influence
+Other,social,Propaganda
+Other,social,Pretexting
+Other,social,Bribery
+Other,social,Other
+Other,social,Extortion
+Other,social,Elicitation
+Other,social,Baiting
+Other,misuse,Unapproved software
+Other,misuse,Illicit content
+Other,misuse,Unapproved workaround
+Other,misuse,Unapproved hardware
+Other,misuse,Unknown
+Other,misuse,Email misuse
+Other,misuse,Possession abuse
+Other,misuse,Other
+Other,misuse,Net misuse
+Other,misuse,Data mishandling
+Other,misuse,Privilege abuse
+Other,misuse,Knowledge abuse
+Other,hacking,MitM
+Other,hacking,XSS
+Other,hacking,Footprinting
+Other,hacking,Forced browsing
+Other,hacking,SSI injection
+Other,hacking,Unknown
+Other,hacking,Buffer overflow
+Other,hacking,Use of stolen creds
+Other,hacking,Cryptanalysis
+Other,hacking,SQLi
+Other,hacking,Brute force
+Other,hacking,Other
+Other,hacking,Path traversal
+Other,hacking,URL redirector abuse
+Other,hacking,DoS
+Other,hacking,Use of backdoor or C2
+Other,hacking,Mail command injection
+Other,hacking,Session fixation
+Other,hacking,RFI
+Other,hacking,Abuse of functionality
+Other,physical,Skimmer
+Other,physical,Theft
+Other,physical,Snooping
+Other,physical,Tampering
+Other,physical,Unknown
+Other,physical,Assault
+Other,physical,Surveillance
+Other,physical,Connection
+Other,physical,Other
+Other,physical,Wiretapping
+Other,physical,Bypassed controls
+Other,physical,Destruction
+Other,physical,Disabled controls
+Maintenance,malware,Spam
+Maintenance,malware,Unknown
+Maintenance,malware,Packet sniffer
+Maintenance,malware,Backdoor
+Maintenance,malware,Exploit vuln
+Maintenance,malware,Other
+Maintenance,malware,Password dumper
+Maintenance,malware,Scan network
+Maintenance,malware,Downloader
+Maintenance,malware,Click fraud
+Maintenance,malware,Adware
+Maintenance,malware,C2
+Maintenance,malware,Worm
+Maintenance,malware,Spyware/Keylogger
+Maintenance,malware,Brute force
+Maintenance,malware,Capture app data
+Maintenance,malware,DoS
+Maintenance,malware,Disable controls
+Maintenance,malware,Capture stored data
+Maintenance,malware,Ransomware
+Maintenance,malware,Export data
+Maintenance,malware,Client-side attack
+Maintenance,malware,Rootkit
+Maintenance,malware,Destroy data
+Maintenance,malware,Ram scraper
+Maintenance,social,Phishing
+Maintenance,social,Unknown
+Maintenance,social,Influence
+Maintenance,social,Forgery
+Maintenance,social,Bribery
+Maintenance,social,Other
+Maintenance,social,Pretexting
+Maintenance,social,Extortion
+Maintenance,social,Elicitation
+Maintenance,social,Baiting
+Maintenance,environmental,Unknown
+Maintenance,environmental,Power failure
+Maintenance,error,Loss
+Maintenance,error,Omission
+Maintenance,error,Malfunction
+Maintenance,error,Unknown
+Maintenance,error,Misdelivery
+Maintenance,error,Physical accidents
+Maintenance,error,Publishing error
+Maintenance,error,Disposal error
+Maintenance,error,Other
+Maintenance,error,Programming error
+Maintenance,error,Data entry error
+Maintenance,error,Gaffe
+Maintenance,error,Misconfiguration
+Maintenance,error,Classification error
+Maintenance,misuse,Unapproved software
+Maintenance,misuse,Unapproved workaround
+Maintenance,misuse,Unapproved hardware
+Maintenance,misuse,Unknown
+Maintenance,misuse,Email misuse
+Maintenance,misuse,Possession abuse
+Maintenance,misuse,Other
+Maintenance,misuse,Net misuse
+Maintenance,misuse,Data mishandling
+Maintenance,misuse,Privilege abuse
+Maintenance,misuse,Knowledge abuse
+Maintenance,hacking,MitM
+Maintenance,hacking,XSS
+Maintenance,hacking,Footprinting
+Maintenance,hacking,Forced browsing
+Maintenance,hacking,SSI injection
+Maintenance,hacking,Unknown
+Maintenance,hacking,Buffer overflow
+Maintenance,hacking,Use of stolen creds
+Maintenance,hacking,Cryptanalysis
+Maintenance,hacking,SQLi
+Maintenance,hacking,Brute force
+Maintenance,hacking,Other
+Maintenance,hacking,Path traversal
+Maintenance,hacking,DoS
+Maintenance,hacking,Use of backdoor or C2
+Maintenance,hacking,Mail command injection
+Maintenance,hacking,Session fixation
+Maintenance,hacking,RFI
+Maintenance,hacking,Abuse of functionality
+Maintenance,physical,Skimmer
+Maintenance,physical,Theft
+Maintenance,physical,Snooping
+Maintenance,physical,Tampering
+Maintenance,physical,Unknown
+Maintenance,physical,Surveillance
+Maintenance,physical,Other
+Maintenance,physical,Wiretapping
+Maintenance,physical,Bypassed controls
+Maintenance,physical,Destruction
+Maintenance,physical,Disabled controls
+Disk media,malware,Spam
+Disk media,malware,Unknown
+Disk media,malware,Packet sniffer
+Disk media,malware,Backdoor
+Disk media,malware,Exploit vuln
+Disk media,malware,Other
+Disk media,malware,Password dumper
+Disk media,malware,Scan network
+Disk media,malware,Downloader
+Disk media,malware,Adminware
+Disk media,malware,Click fraud
+Disk media,malware,Adware
+Disk media,malware,C2
+Disk media,malware,Worm
+Disk media,malware,Spyware/Keylogger
+Disk media,malware,Brute force
+Disk media,malware,Capture app data
+Disk media,malware,DoS
+Disk media,malware,Disable controls
+Disk media,malware,Capture stored data
+Disk media,malware,Ransomware
+Disk media,malware,Export data
+Disk media,malware,Client-side attack
+Disk media,malware,Rootkit
+Disk media,malware,Destroy data
+Disk media,malware,Ram scraper
+Disk media,error,Loss
+Disk media,error,Physical accidents
+Disk media,error,Misconfiguration
+Disk media,error,Unknown
+Disk media,error,Misdelivery
+Disk media,error,Misinformation
+Disk media,error,Publishing error
+Disk media,error,Malfunction
+Disk media,error,Disposal error
+Disk media,error,Other
+Disk media,error,Programming error
+Disk media,error,Data entry error
+Disk media,error,Omission
+Disk media,error,Gaffe
+Disk media,error,Maintenance error
+Disk media,error,Classification error
+Disk media,environmental,Unknown
+Disk media,environmental,Power failure
+Disk media,environmental,Humidity
+Disk media,social,Scam
+Disk media,social,Phishing
+Disk media,social,Unknown
+Disk media,social,Influence
+Disk media,social,Propaganda
+Disk media,social,Forgery
+Disk media,social,Bribery
+Disk media,social,Other
+Disk media,social,Pretexting
+Disk media,social,Extortion
+Disk media,social,Elicitation
+Disk media,social,Baiting
+Disk media,misuse,Unapproved software
+Disk media,misuse,Illicit content
+Disk media,misuse,Unapproved workaround
+Disk media,misuse,Unapproved hardware
+Disk media,misuse,Unknown
+Disk media,misuse,Email misuse
+Disk media,misuse,Possession abuse
+Disk media,misuse,Other
+Disk media,misuse,Net misuse
+Disk media,misuse,Data mishandling
+Disk media,misuse,Privilege abuse
+Disk media,misuse,Knowledge abuse
+Disk media,hacking,MitM
+Disk media,hacking,XSS
+Disk media,hacking,Footprinting
+Disk media,hacking,Forced browsing
+Disk media,hacking,SSI injection
+Disk media,hacking,Unknown
+Disk media,hacking,Buffer overflow
+Disk media,hacking,Use of stolen creds
+Disk media,hacking,Cryptanalysis
+Disk media,hacking,SQLi
+Disk media,hacking,Brute force
+Disk media,hacking,Other
+Disk media,hacking,Path traversal
+Disk media,hacking,URL redirector abuse
+Disk media,hacking,DoS
+Disk media,hacking,Use of backdoor or C2
+Disk media,hacking,Mail command injection
+Disk media,hacking,Session fixation
+Disk media,hacking,RFI
+Disk media,hacking,Abuse of functionality
+Disk media,physical,Skimmer
+Disk media,physical,Bypassed controls
+Disk media,physical,Snooping
+Disk media,physical,Tampering
+Disk media,physical,Unknown
+Disk media,physical,Assault
+Disk media,physical,Surveillance
+Disk media,physical,Connection
+Disk media,physical,Other
+Disk media,physical,Wiretapping
+Disk media,physical,Theft
+Disk media,physical,Destruction
+Disk media,physical,Disabled controls
+Mail,malware,Spam
+Mail,malware,Unknown
+Mail,malware,Packet sniffer
+Mail,malware,Backdoor
+Mail,malware,Exploit vuln
+Mail,malware,Other
+Mail,malware,Password dumper
+Mail,malware,Scan network
+Mail,malware,Downloader
+Mail,malware,Adminware
+Mail,malware,Click fraud
+Mail,malware,Adware
+Mail,malware,C2
+Mail,malware,Worm
+Mail,malware,Spyware/Keylogger
+Mail,malware,Brute force
+Mail,malware,Capture app data
+Mail,malware,DoS
+Mail,malware,Disable controls
+Mail,malware,Capture stored data
+Mail,malware,Ransomware
+Mail,malware,Export data
+Mail,malware,Client-side attack
+Mail,malware,Rootkit
+Mail,malware,Destroy data
+Mail,malware,Ram scraper
+Mail,error,Disposal error
+Mail,error,Physical accidents
+Mail,error,Loss
+Mail,error,Unknown
+Mail,error,Misdelivery
+Mail,error,Misinformation
+Mail,error,Publishing error
+Mail,error,Malfunction
+Mail,error,Other
+Mail,error,Programming error
+Mail,error,Data entry error
+Mail,error,Omission
+Mail,error,Gaffe
+Mail,error,Misconfiguration
+Mail,error,Maintenance error
+Mail,error,Classification error
+Mail,environmental,Unknown
+Mail,environmental,Power failure
+Mail,environmental,Humidity
+Mail,social,Scam
+Mail,social,Phishing
+Mail,social,Unknown
+Mail,social,Influence
+Mail,social,Propaganda
+Mail,social,Forgery
+Mail,social,Bribery
+Mail,social,Other
+Mail,social,Pretexting
+Mail,social,Extortion
+Mail,social,Elicitation
+Mail,social,Baiting
+Mail,misuse,Unapproved software
+Mail,misuse,Illicit content
+Mail,misuse,Unapproved workaround
+Mail,misuse,Unapproved hardware
+Mail,misuse,Unknown
+Mail,misuse,Email misuse
+Mail,misuse,Possession abuse
+Mail,misuse,Other
+Mail,misuse,Net misuse
+Mail,misuse,Data mishandling
+Mail,misuse,Privilege abuse
+Mail,misuse,Knowledge abuse
+Mail,hacking,MitM
+Mail,hacking,XSS
+Mail,hacking,Footprinting
+Mail,hacking,Forced browsing
+Mail,hacking,SSI injection
+Mail,hacking,Unknown
+Mail,hacking,Buffer overflow
+Mail,hacking,Use of stolen creds
+Mail,hacking,Cryptanalysis
+Mail,hacking,SQLi
+Mail,hacking,Brute force
+Mail,hacking,Other
+Mail,hacking,Path traversal
+Mail,hacking,URL redirector abuse
+Mail,hacking,DoS
+Mail,hacking,Use of backdoor or C2
+Mail,hacking,Mail command injection
+Mail,hacking,Session fixation
+Mail,hacking,RFI
+Mail,hacking,Abuse of functionality
+Mail,physical,Skimmer
+Mail,physical,Bypassed controls
+Mail,physical,Snooping
+Mail,physical,Tampering
+Mail,physical,Unknown
+Mail,physical,Assault
+Mail,physical,Surveillance
+Mail,physical,Connection
+Mail,physical,Other
+Mail,physical,Wiretapping
+Mail,physical,Theft
+Mail,physical,Destruction
+Mail,physical,Disabled controls
+System admin,malware,Spam
+System admin,malware,Unknown
+System admin,malware,Packet sniffer
+System admin,malware,Backdoor
+System admin,malware,Exploit vuln
+System admin,malware,Other
+System admin,malware,Password dumper
+System admin,malware,Scan network
+System admin,malware,Downloader
+System admin,malware,Adminware
+System admin,malware,Click fraud
+System admin,malware,Adware
+System admin,malware,C2
+System admin,malware,Worm
+System admin,malware,Spyware/Keylogger
+System admin,malware,Brute force
+System admin,malware,Capture app data
+System admin,malware,DoS
+System admin,malware,Disable controls
+System admin,malware,Capture stored data
+System admin,malware,Ransomware
+System admin,malware,Export data
+System admin,malware,Client-side attack
+System admin,malware,Rootkit
+System admin,malware,Destroy data
+System admin,malware,Ram scraper
+System admin,social,Scam
+System admin,social,Phishing
+System admin,social,Unknown
+System admin,social,Influence
+System admin,social,Propaganda
+System admin,social,Forgery
+System admin,social,Bribery
+System admin,social,Other
+System admin,social,Pretexting
+System admin,social,Extortion
+System admin,social,Elicitation
+System admin,social,Baiting
+System admin,environmental,Unknown
+System admin,environmental,Power failure
+System admin,environmental,Humidity
+System admin,error,Disposal error
+System admin,error,Physical accidents
+System admin,error,Loss
+System admin,error,Unknown
+System admin,error,Misdelivery
+System admin,error,Misinformation
+System admin,error,Publishing error
+System admin,error,Malfunction
+System admin,error,Other
+System admin,error,Programming error
+System admin,error,Data entry error
+System admin,error,Omission
+System admin,error,Gaffe
+System admin,error,Misconfiguration
+System admin,error,Maintenance error
+System admin,error,Classification error
+System admin,misuse,Unapproved software
+System admin,misuse,Illicit content
+System admin,misuse,Unapproved workaround
+System admin,misuse,Unapproved hardware
+System admin,misuse,Unknown
+System admin,misuse,Email misuse
+System admin,misuse,Possession abuse
+System admin,misuse,Other
+System admin,misuse,Net misuse
+System admin,misuse,Data mishandling
+System admin,misuse,Privilege abuse
+System admin,misuse,Knowledge abuse
+System admin,hacking,MitM
+System admin,hacking,XSS
+System admin,hacking,Footprinting
+System admin,hacking,Forced browsing
+System admin,hacking,SSI injection
+System admin,hacking,Unknown
+System admin,hacking,Buffer overflow
+System admin,hacking,Use of stolen creds
+System admin,hacking,Cryptanalysis
+System admin,hacking,SQLi
+System admin,hacking,Brute force
+System admin,hacking,Other
+System admin,hacking,Path traversal
+System admin,hacking,URL redirector abuse
+System admin,hacking,DoS
+System admin,hacking,Use of backdoor or C2
+System admin,hacking,Mail command injection
+System admin,hacking,Session fixation
+System admin,hacking,RFI
+System admin,hacking,Abuse of functionality
+System admin,physical,Skimmer
+System admin,physical,Bypassed controls
+System admin,physical,Snooping
+System admin,physical,Tampering
+System admin,physical,Unknown
+System admin,physical,Assault
+System admin,physical,Surveillance
+System admin,physical,Connection
+System admin,physical,Other
+System admin,physical,Wiretapping
+System admin,physical,Theft
+System admin,physical,Destruction
+System admin,physical,Disabled controls
+Log,malware,Spam
+Log,malware,Unknown
+Log,malware,Packet sniffer
+Log,malware,Backdoor
+Log,malware,Exploit vuln
+Log,malware,Other
+Log,malware,Password dumper
+Log,malware,Scan network
+Log,malware,Downloader
+Log,malware,Click fraud
+Log,malware,Adware
+Log,malware,C2
+Log,malware,Worm
+Log,malware,Spyware/Keylogger
+Log,malware,Brute force
+Log,malware,Capture app data
+Log,malware,DoS
+Log,malware,Disable controls
+Log,malware,Capture stored data
+Log,malware,Ransomware
+Log,malware,Export data
+Log,malware,Client-side attack
+Log,malware,Rootkit
+Log,malware,Destroy data
+Log,malware,Ram scraper
+Log,social,Scam
+Log,social,Forgery
+Log,social,Phishing
+Log,social,Unknown
+Log,social,Influence
+Log,social,Pretexting
+Log,social,Bribery
+Log,social,Other
+Log,social,Extortion
+Log,social,Elicitation
+Log,social,Baiting
+Log,environmental,Unknown
+Log,environmental,Power failure
+Log,error,Disposal error
+Log,error,Loss
+Log,error,Physical accidents
+Log,error,Malfunction
+Log,error,Unknown
+Log,error,Misdelivery
+Log,error,Misinformation
+Log,error,Publishing error
+Log,error,Other
+Log,error,Programming error
+Log,error,Data entry error
+Log,error,Omission
+Log,error,Gaffe
+Log,error,Misconfiguration
+Log,error,Maintenance error
+Log,error,Classification error
+Log,misuse,Unapproved software
+Log,misuse,Illicit content
+Log,misuse,Unapproved workaround
+Log,misuse,Unapproved hardware
+Log,misuse,Unknown
+Log,misuse,Email misuse
+Log,misuse,Possession abuse
+Log,misuse,Other
+Log,misuse,Net misuse
+Log,misuse,Data mishandling
+Log,misuse,Privilege abuse
+Log,misuse,Knowledge abuse
+Log,hacking,MitM
+Log,hacking,XSS
+Log,hacking,Footprinting
+Log,hacking,Forced browsing
+Log,hacking,SSI injection
+Log,hacking,Unknown
+Log,hacking,Buffer overflow
+Log,hacking,Use of stolen creds
+Log,hacking,Cryptanalysis
+Log,hacking,SQLi
+Log,hacking,Brute force
+Log,hacking,Other
+Log,hacking,Path traversal
+Log,hacking,URL redirector abuse
+Log,hacking,DoS
+Log,hacking,Use of backdoor or C2
+Log,hacking,Mail command injection
+Log,hacking,Session fixation
+Log,hacking,RFI
+Log,hacking,Abuse of functionality
+Log,physical,Skimmer
+Log,physical,Theft
+Log,physical,Snooping
+Log,physical,Tampering
+Log,physical,Unknown
+Log,physical,Connection
+Log,physical,Surveillance
+Log,physical,Assault
+Log,physical,Other
+Log,physical,Wiretapping
+Log,physical,Bypassed controls
+Log,physical,Destruction
+Log,physical,Disabled controls
+POS controller,malware,Spam
+POS controller,malware,Unknown
+POS controller,malware,Packet sniffer
+POS controller,malware,Backdoor
+POS controller,malware,Exploit vuln
+POS controller,malware,Other
+POS controller,malware,Password dumper
+POS controller,malware,Scan network
+POS controller,malware,Downloader
+POS controller,malware,Click fraud
+POS controller,malware,Adware
+POS controller,malware,C2
+POS controller,malware,Worm
+POS controller,malware,Spyware/Keylogger
+POS controller,malware,Brute force
+POS controller,malware,Capture app data
+POS controller,malware,DoS
+POS controller,malware,Disable controls
+POS controller,malware,Capture stored data
+POS controller,malware,Ransomware
+POS controller,malware,Export data
+POS controller,malware,Client-side attack
+POS controller,malware,Rootkit
+POS controller,malware,Destroy data
+POS controller,malware,Ram scraper
+POS controller,error,Loss
+POS controller,error,Physical accidents
+POS controller,error,Misconfiguration
+POS controller,error,Unknown
+POS controller,error,Misdelivery
+POS controller,error,Misinformation
+POS controller,error,Publishing error
+POS controller,error,Malfunction
+POS controller,error,Disposal error
+POS controller,error,Other
+POS controller,error,Programming error
+POS controller,error,Data entry error
+POS controller,error,Omission
+POS controller,error,Gaffe
+POS controller,error,Maintenance error
+POS controller,error,Classification error
+POS controller,environmental,Unknown
+POS controller,environmental,Power failure
+POS controller,environmental,Humidity
+POS controller,social,Scam
+POS controller,social,Forgery
+POS controller,social,Phishing
+POS controller,social,Unknown
+POS controller,social,Influence
+POS controller,social,Propaganda
+POS controller,social,Pretexting
+POS controller,social,Bribery
+POS controller,social,Other
+POS controller,social,Extortion
+POS controller,social,Elicitation
+POS controller,social,Baiting
+POS controller,misuse,Unapproved software
+POS controller,misuse,Illicit content
+POS controller,misuse,Unapproved workaround
+POS controller,misuse,Unapproved hardware
+POS controller,misuse,Unknown
+POS controller,misuse,Email misuse
+POS controller,misuse,Possession abuse
+POS controller,misuse,Other
+POS controller,misuse,Net misuse
+POS controller,misuse,Data mishandling
+POS controller,misuse,Privilege abuse
+POS controller,misuse,Knowledge abuse
+POS controller,hacking,MitM
+POS controller,hacking,XSS
+POS controller,hacking,Footprinting
+POS controller,hacking,Forced browsing
+POS controller,hacking,SSI injection
+POS controller,hacking,Unknown
+POS controller,hacking,Buffer overflow
+POS controller,hacking,Use of stolen creds
+POS controller,hacking,Cryptanalysis
+POS controller,hacking,SQLi
+POS controller,hacking,Brute force
+POS controller,hacking,Other
+POS controller,hacking,Path traversal
+POS controller,hacking,URL redirector abuse
+POS controller,hacking,DoS
+POS controller,hacking,Use of backdoor or C2
+POS controller,hacking,Mail command injection
+POS controller,hacking,Session fixation
+POS controller,hacking,RFI
+POS controller,hacking,Abuse of functionality
+POS controller,physical,Skimmer
+POS controller,physical,Theft
+POS controller,physical,Snooping
+POS controller,physical,Tampering
+POS controller,physical,Unknown
+POS controller,physical,Connection
+POS controller,physical,Surveillance
+POS controller,physical,Assault
+POS controller,physical,Other
+POS controller,physical,Wiretapping
+POS controller,physical,Bypassed controls
+POS controller,physical,Destruction
+POS controller,physical,Disabled controls
+Gas terminal,malware,Spam
+Gas terminal,malware,Unknown
+Gas terminal,malware,Packet sniffer
+Gas terminal,malware,Backdoor
+Gas terminal,malware,Exploit vuln
+Gas terminal,malware,Other
+Gas terminal,malware,Password dumper
+Gas terminal,malware,Scan network
+Gas terminal,malware,Downloader
+Gas terminal,malware,Adminware
+Gas terminal,malware,Click fraud
+Gas terminal,malware,Adware
+Gas terminal,malware,C2
+Gas terminal,malware,Worm
+Gas terminal,malware,Spyware/Keylogger
+Gas terminal,malware,Brute force
+Gas terminal,malware,Capture app data
+Gas terminal,malware,DoS
+Gas terminal,malware,Disable controls
+Gas terminal,malware,Capture stored data
+Gas terminal,malware,Ransomware
+Gas terminal,malware,Export data
+Gas terminal,malware,Client-side attack
+Gas terminal,malware,Rootkit
+Gas terminal,malware,Destroy data
+Gas terminal,malware,Ram scraper
+Gas terminal,error,Loss
+Gas terminal,error,Physical accidents
+Gas terminal,error,Misconfiguration
+Gas terminal,error,Unknown
+Gas terminal,error,Misdelivery
+Gas terminal,error,Misinformation
+Gas terminal,error,Publishing error
+Gas terminal,error,Malfunction
+Gas terminal,error,Disposal error
+Gas terminal,error,Other
+Gas terminal,error,Programming error
+Gas terminal,error,Data entry error
+Gas terminal,error,Omission
+Gas terminal,error,Gaffe
+Gas terminal,error,Maintenance error
+Gas terminal,error,Classification error
+Gas terminal,environmental,Unknown
+Gas terminal,environmental,Power failure
+Gas terminal,environmental,Humidity
+Gas terminal,social,Scam
+Gas terminal,social,Phishing
+Gas terminal,social,Unknown
+Gas terminal,social,Influence
+Gas terminal,social,Extortion
+Gas terminal,social,Forgery
+Gas terminal,social,Bribery
+Gas terminal,social,Other
+Gas terminal,social,Pretexting
+Gas terminal,social,Propaganda
+Gas terminal,social,Elicitation
+Gas terminal,social,Baiting
+Gas terminal,misuse,Unapproved software
+Gas terminal,misuse,Illicit content
+Gas terminal,misuse,Unapproved workaround
+Gas terminal,misuse,Unapproved hardware
+Gas terminal,misuse,Unknown
+Gas terminal,misuse,Email misuse
+Gas terminal,misuse,Possession abuse
+Gas terminal,misuse,Other
+Gas terminal,misuse,Net misuse
+Gas terminal,misuse,Data mishandling
+Gas terminal,misuse,Privilege abuse
+Gas terminal,misuse,Knowledge abuse
+Gas terminal,hacking,MitM
+Gas terminal,hacking,XSS
+Gas terminal,hacking,Footprinting
+Gas terminal,hacking,Forced browsing
+Gas terminal,hacking,SSI injection
+Gas terminal,hacking,Unknown
+Gas terminal,hacking,Buffer overflow
+Gas terminal,hacking,Use of stolen creds
+Gas terminal,hacking,Cryptanalysis
+Gas terminal,hacking,SQLi
+Gas terminal,hacking,Brute force
+Gas terminal,hacking,Other
+Gas terminal,hacking,Path traversal
+Gas terminal,hacking,URL redirector abuse
+Gas terminal,hacking,DoS
+Gas terminal,hacking,Use of backdoor or C2
+Gas terminal,hacking,Mail command injection
+Gas terminal,hacking,Session fixation
+Gas terminal,hacking,RFI
+Gas terminal,hacking,Abuse of functionality
+Gas terminal,physical,Skimmer
+Gas terminal,physical,Theft
+Gas terminal,physical,Snooping
+Gas terminal,physical,Tampering
+Gas terminal,physical,Unknown
+Gas terminal,physical,Assault
+Gas terminal,physical,Surveillance
+Gas terminal,physical,Connection
+Gas terminal,physical,Other
+Gas terminal,physical,Wiretapping
+Gas terminal,physical,Bypassed controls
+Gas terminal,physical,Destruction
+Gas terminal,physical,Disabled controls
+Kiosk,malware,Spam
+Kiosk,malware,Unknown
+Kiosk,malware,Packet sniffer
+Kiosk,malware,Backdoor
+Kiosk,malware,Exploit vuln
+Kiosk,malware,Other
+Kiosk,malware,Password dumper
+Kiosk,malware,Scan network
+Kiosk,malware,Downloader
+Kiosk,malware,Adminware
+Kiosk,malware,Click fraud
+Kiosk,malware,Adware
+Kiosk,malware,C2
+Kiosk,malware,Worm
+Kiosk,malware,Spyware/Keylogger
+Kiosk,malware,Brute force
+Kiosk,malware,Capture app data
+Kiosk,malware,DoS
+Kiosk,malware,Disable controls
+Kiosk,malware,Capture stored data
+Kiosk,malware,Ransomware
+Kiosk,malware,Export data
+Kiosk,malware,Client-side attack
+Kiosk,malware,Rootkit
+Kiosk,malware,Destroy data
+Kiosk,malware,Ram scraper
+Kiosk,social,Scam
+Kiosk,social,Forgery
+Kiosk,social,Phishing
+Kiosk,social,Unknown
+Kiosk,social,Influence
+Kiosk,social,Propaganda
+Kiosk,social,Pretexting
+Kiosk,social,Bribery
+Kiosk,social,Other
+Kiosk,social,Extortion
+Kiosk,social,Elicitation
+Kiosk,social,Baiting
+Kiosk,environmental,Unknown
+Kiosk,environmental,Power failure
+Kiosk,environmental,Humidity
+Kiosk,error,Malfunction
+Kiosk,error,Physical accidents
+Kiosk,error,Loss
+Kiosk,error,Unknown
+Kiosk,error,Misdelivery
+Kiosk,error,Misinformation
+Kiosk,error,Publishing error
+Kiosk,error,Disposal error
+Kiosk,error,Other
+Kiosk,error,Programming error
+Kiosk,error,Data entry error
+Kiosk,error,Omission
+Kiosk,error,Gaffe
+Kiosk,error,Misconfiguration
+Kiosk,error,Maintenance error
+Kiosk,error,Classification error
+Kiosk,misuse,Unapproved software
+Kiosk,misuse,Illicit content
+Kiosk,misuse,Unapproved workaround
+Kiosk,misuse,Unapproved hardware
+Kiosk,misuse,Unknown
+Kiosk,misuse,Email misuse
+Kiosk,misuse,Possession abuse
+Kiosk,misuse,Other
+Kiosk,misuse,Net misuse
+Kiosk,misuse,Data mishandling
+Kiosk,misuse,Privilege abuse
+Kiosk,misuse,Knowledge abuse
+Kiosk,hacking,MitM
+Kiosk,hacking,XSS
+Kiosk,hacking,Footprinting
+Kiosk,hacking,Forced browsing
+Kiosk,hacking,SSI injection
+Kiosk,hacking,Unknown
+Kiosk,hacking,Buffer overflow
+Kiosk,hacking,Use of stolen creds
+Kiosk,hacking,Cryptanalysis
+Kiosk,hacking,SQLi
+Kiosk,hacking,Brute force
+Kiosk,hacking,Other
+Kiosk,hacking,Path traversal
+Kiosk,hacking,URL redirector abuse
+Kiosk,hacking,DoS
+Kiosk,hacking,Use of backdoor or C2
+Kiosk,hacking,Mail command injection
+Kiosk,hacking,Session fixation
+Kiosk,hacking,RFI
+Kiosk,hacking,Abuse of functionality
+Kiosk,physical,Skimmer
+Kiosk,physical,Bypassed controls
+Kiosk,physical,Snooping
+Kiosk,physical,Tampering
+Kiosk,physical,Unknown
+Kiosk,physical,Assault
+Kiosk,physical,Surveillance
+Kiosk,physical,Connection
+Kiosk,physical,Other
+Kiosk,physical,Wiretapping
+Kiosk,physical,Theft
+Kiosk,physical,Destruction
+Kiosk,physical,Disabled controls
+Flash drive,malware,Spam
+Flash drive,malware,Unknown
+Flash drive,malware,Packet sniffer
+Flash drive,malware,Backdoor
+Flash drive,malware,Exploit vuln
+Flash drive,malware,Other
+Flash drive,malware,Password dumper
+Flash drive,malware,Scan network
+Flash drive,malware,Downloader
+Flash drive,malware,Adminware
+Flash drive,malware,Click fraud
+Flash drive,malware,Adware
+Flash drive,malware,C2
+Flash drive,malware,Worm
+Flash drive,malware,Spyware/Keylogger
+Flash drive,malware,Brute force
+Flash drive,malware,Capture app data
+Flash drive,malware,DoS
+Flash drive,malware,Disable controls
+Flash drive,malware,Capture stored data
+Flash drive,malware,Ransomware
+Flash drive,malware,Export data
+Flash drive,malware,Client-side attack
+Flash drive,malware,Rootkit
+Flash drive,malware,Destroy data
+Flash drive,malware,Ram scraper
+Flash drive,error,Loss
+Flash drive,error,Physical accidents
+Flash drive,error,Misconfiguration
+Flash drive,error,Unknown
+Flash drive,error,Misdelivery
+Flash drive,error,Misinformation
+Flash drive,error,Publishing error
+Flash drive,error,Malfunction
+Flash drive,error,Disposal error
+Flash drive,error,Other
+Flash drive,error,Programming error
+Flash drive,error,Data entry error
+Flash drive,error,Omission
+Flash drive,error,Gaffe
+Flash drive,error,Maintenance error
+Flash drive,error,Classification error
+Flash drive,environmental,Unknown
+Flash drive,environmental,Power failure
+Flash drive,environmental,Humidity
+Flash drive,social,Scam
+Flash drive,social,Phishing
+Flash drive,social,Unknown
+Flash drive,social,Influence
+Flash drive,social,Propaganda
+Flash drive,social,Forgery
+Flash drive,social,Bribery
+Flash drive,social,Other
+Flash drive,social,Pretexting
+Flash drive,social,Extortion
+Flash drive,social,Elicitation
+Flash drive,social,Baiting
+Flash drive,misuse,Unapproved software
+Flash drive,misuse,Illicit content
+Flash drive,misuse,Unapproved workaround
+Flash drive,misuse,Unapproved hardware
+Flash drive,misuse,Unknown
+Flash drive,misuse,Email misuse
+Flash drive,misuse,Possession abuse
+Flash drive,misuse,Other
+Flash drive,misuse,Net misuse
+Flash drive,misuse,Data mishandling
+Flash drive,misuse,Privilege abuse
+Flash drive,misuse,Knowledge abuse
+Flash drive,hacking,MitM
+Flash drive,hacking,XSS
+Flash drive,hacking,Footprinting
+Flash drive,hacking,Forced browsing
+Flash drive,hacking,SSI injection
+Flash drive,hacking,Unknown
+Flash drive,hacking,Buffer overflow
+Flash drive,hacking,Use of stolen creds
+Flash drive,hacking,Cryptanalysis
+Flash drive,hacking,SQLi
+Flash drive,hacking,Brute force
+Flash drive,hacking,Other
+Flash drive,hacking,Path traversal
+Flash drive,hacking,URL redirector abuse
+Flash drive,hacking,DoS
+Flash drive,hacking,Use of backdoor or C2
+Flash drive,hacking,Mail command injection
+Flash drive,hacking,Session fixation
+Flash drive,hacking,RFI
+Flash drive,hacking,Abuse of functionality
+Flash drive,physical,Skimmer
+Flash drive,physical,Bypassed controls
+Flash drive,physical,Snooping
+Flash drive,physical,Tampering
+Flash drive,physical,Unknown
+Flash drive,physical,Assault
+Flash drive,physical,Surveillance
+Flash drive,physical,Connection
+Flash drive,physical,Other
+Flash drive,physical,Wiretapping
+Flash drive,physical,Theft
+Flash drive,physical,Destruction
+Flash drive,physical,Disabled controls
+Former employee,malware,Spam
+Former employee,malware,Unknown
+Former employee,malware,Packet sniffer
+Former employee,malware,Backdoor
+Former employee,malware,Exploit vuln
+Former employee,malware,Other
+Former employee,malware,Password dumper
+Former employee,malware,Scan network
+Former employee,malware,Downloader
+Former employee,malware,Click fraud
+Former employee,malware,Adware
+Former employee,malware,C2
+Former employee,malware,Worm
+Former employee,malware,Spyware/Keylogger
+Former employee,malware,Brute force
+Former employee,malware,Capture app data
+Former employee,malware,DoS
+Former employee,malware,Disable controls
+Former employee,malware,Capture stored data
+Former employee,malware,Ransomware
+Former employee,malware,Export data
+Former employee,malware,Client-side attack
+Former employee,malware,Rootkit
+Former employee,malware,Destroy data
+Former employee,malware,Ram scraper
+Former employee,error,Loss
+Former employee,error,Omission
+Former employee,error,Misconfiguration
+Former employee,error,Unknown
+Former employee,error,Misdelivery
+Former employee,error,Physical accidents
+Former employee,error,Publishing error
+Former employee,error,Malfunction
+Former employee,error,Disposal error
+Former employee,error,Other
+Former employee,error,Programming error
+Former employee,error,Data entry error
+Former employee,error,Gaffe
+Former employee,error,Classification error
+Former employee,environmental,Unknown
+Former employee,environmental,Power failure
+Former employee,social,Phishing
+Former employee,social,Unknown
+Former employee,social,Influence
+Former employee,social,Forgery
+Former employee,social,Bribery
+Former employee,social,Other
+Former employee,social,Pretexting
+Former employee,social,Extortion
+Former employee,social,Elicitation
+Former employee,social,Baiting
+Former employee,misuse,Unapproved software
+Former employee,misuse,Unapproved workaround
+Former employee,misuse,Unapproved hardware
+Former employee,misuse,Unknown
+Former employee,misuse,Email misuse
+Former employee,misuse,Possession abuse
+Former employee,misuse,Other
+Former employee,misuse,Net misuse
+Former employee,misuse,Data mishandling
+Former employee,misuse,Privilege abuse
+Former employee,misuse,Knowledge abuse
+Former employee,hacking,XSS
+Former employee,hacking,Footprinting
+Former employee,hacking,Forced browsing
+Former employee,hacking,SSI injection
+Former employee,hacking,Unknown
+Former employee,hacking,Buffer overflow
+Former employee,hacking,Use of stolen creds
+Former employee,hacking,Cryptanalysis
+Former employee,hacking,SQLi
+Former employee,hacking,Brute force
+Former employee,hacking,MitM
+Former employee,hacking,Path traversal
+Former employee,hacking,DoS
+Former employee,hacking,Use of backdoor or C2
+Former employee,hacking,Mail command injection
+Former employee,hacking,Other
+Former employee,hacking,RFI
+Former employee,hacking,Abuse of functionality
+Former employee,physical,Skimmer
+Former employee,physical,Wiretapping
+Former employee,physical,Snooping
+Former employee,physical,Tampering
+Former employee,physical,Unknown
+Former employee,physical,Surveillance
+Former employee,physical,Other
+Former employee,physical,Destruction
+Former employee,physical,Bypassed controls
+Former employee,physical,Theft
+Former employee,physical,Disabled controls
+Human resources,malware,Spam
+Human resources,malware,Unknown
+Human resources,malware,Packet sniffer
+Human resources,malware,Backdoor
+Human resources,malware,Exploit vuln
+Human resources,malware,Other
+Human resources,malware,Password dumper
+Human resources,malware,Scan network
+Human resources,malware,Downloader
+Human resources,malware,C2
+Human resources,malware,Worm
+Human resources,malware,Spyware/Keylogger
+Human resources,malware,Brute force
+Human resources,malware,Capture app data
+Human resources,malware,Ram scraper
+Human resources,malware,Disable controls
+Human resources,malware,Capture stored data
+Human resources,malware,Ransomware
+Human resources,malware,Export data
+Human resources,malware,Client-side attack
+Human resources,malware,Rootkit
+Human resources,malware,Destroy data
+Human resources,malware,DoS
+Human resources,social,Phishing
+Human resources,social,Influence
+Human resources,social,Pretexting
+Human resources,social,Bribery
+Human resources,social,Other
+Human resources,social,Extortion
+Human resources,social,Elicitation
+Human resources,social,Baiting
+Human resources,environmental,Unknown
+Human resources,environmental,Power failure
+Human resources,error,Loss
+Human resources,error,Omission
+Human resources,error,Misconfiguration
+Human resources,error,Unknown
+Human resources,error,Misdelivery
+Human resources,error,Physical accidents
+Human resources,error,Publishing error
+Human resources,error,Malfunction
+Human resources,error,Disposal error
+Human resources,error,Other
+Human resources,error,Programming error
+Human resources,error,Data entry error
+Human resources,error,Gaffe
+Human resources,misuse,Unapproved software
+Human resources,misuse,Unapproved workaround
+Human resources,misuse,Unapproved hardware
+Human resources,misuse,Unknown
+Human resources,misuse,Email misuse
+Human resources,misuse,Possession abuse
+Human resources,misuse,Other
+Human resources,misuse,Net misuse
+Human resources,misuse,Data mishandling
+Human resources,misuse,Privilege abuse
+Human resources,misuse,Knowledge abuse
+Human resources,hacking,MitM
+Human resources,hacking,XSS
+Human resources,hacking,Footprinting
+Human resources,hacking,Forced browsing
+Human resources,hacking,SSI injection
+Human resources,hacking,Unknown
+Human resources,hacking,Buffer overflow
+Human resources,hacking,Use of stolen creds
+Human resources,hacking,Cryptanalysis
+Human resources,hacking,SQLi
+Human resources,hacking,Brute force
+Human resources,hacking,Other
+Human resources,hacking,Path traversal
+Human resources,hacking,DoS
+Human resources,hacking,Use of backdoor or C2
+Human resources,hacking,Mail command injection
+Human resources,hacking,Abuse of functionality
+Human resources,physical,Skimmer
+Human resources,physical,Theft
+Human resources,physical,Tampering
+Human resources,physical,Unknown
+Human resources,physical,Surveillance
+Human resources,physical,Other
+Human resources,physical,Wiretapping
+Human resources,physical,Bypassed controls
+Human resources,physical,Disabled controls
+Human resources,physical,Destruction
+Proxy,malware,Capture stored data
+Proxy,malware,Packet sniffer
+Proxy,malware,Rootkit
+Proxy,malware,Downloader
+Proxy,malware,Unknown
+Proxy,malware,Ransomware
+Proxy,malware,Brute force
+Proxy,malware,Export data
+Proxy,malware,Worm
+Proxy,malware,Spyware/Keylogger
+Proxy,malware,Backdoor
+Proxy,malware,Exploit vuln
+Proxy,malware,Other
+Proxy,malware,Password dumper
+Proxy,malware,Destroy data
+Proxy,malware,Ram scraper
+Proxy,malware,C2
+Proxy,malware,Disable controls
+Proxy,malware,Scan network
+Proxy,malware,Capture app data
+Proxy,error,Disposal error
+Proxy,error,Loss
+Proxy,error,Unknown
+Proxy,error,Misdelivery
+Proxy,error,Physical accidents
+Proxy,error,Publishing error
+Proxy,error,Malfunction
+Proxy,error,Other
+Proxy,error,Programming error
+Proxy,error,Gaffe
+Proxy,error,Misconfiguration
+Proxy,environmental,Power failure
+Proxy,social,Phishing
+Proxy,social,Pretexting
+Proxy,social,Bribery
+Proxy,social,Other
+Proxy,social,Extortion
+Proxy,social,Baiting
+Proxy,misuse,Unapproved software
+Proxy,misuse,Unapproved hardware
+Proxy,misuse,Email misuse
+Proxy,misuse,Possession abuse
+Proxy,misuse,Net misuse
+Proxy,misuse,Data mishandling
+Proxy,misuse,Privilege abuse
+Proxy,misuse,Knowledge abuse
+Proxy,hacking,XSS
+Proxy,hacking,Forced browsing
+Proxy,hacking,Unknown
+Proxy,hacking,Use of stolen creds
+Proxy,hacking,SQLi
+Proxy,hacking,Brute force
+Proxy,hacking,Other
+Proxy,hacking,Path traversal
+Proxy,hacking,DoS
+Proxy,hacking,Use of backdoor or C2
+Proxy,hacking,Mail command injection
+Proxy,physical,Skimmer
+Proxy,physical,Theft
+Proxy,physical,Tampering
+Proxy,physical,Unknown
+Proxy,physical,Surveillance
+Proxy,physical,Bypassed controls
+Proxy,physical,Disabled controls
+Unknown,malware,Spam
+Unknown,malware,Unknown
+Unknown,malware,Packet sniffer
+Unknown,malware,Backdoor
+Unknown,malware,Exploit vuln
+Unknown,malware,Other
+Unknown,malware,Password dumper
+Unknown,malware,Scan network
+Unknown,malware,Downloader
+Unknown,malware,Adminware
+Unknown,malware,Click fraud
+Unknown,malware,Adware
+Unknown,malware,C2
+Unknown,malware,Worm
+Unknown,malware,Spyware/Keylogger
+Unknown,malware,Brute force
+Unknown,malware,Capture app data
+Unknown,malware,DoS
+Unknown,malware,Disable controls
+Unknown,malware,Capture stored data
+Unknown,malware,Ransomware
+Unknown,malware,Export data
+Unknown,malware,Client-side attack
+Unknown,malware,Rootkit
+Unknown,malware,Destroy data
+Unknown,malware,Ram scraper
+Unknown,error,Disposal error
+Unknown,error,Loss
+Unknown,error,Physical accidents
+Unknown,error,Misconfiguration
+Unknown,error,Unknown
+Unknown,error,Misdelivery
+Unknown,error,Misinformation
+Unknown,error,Publishing error
+Unknown,error,Malfunction
+Unknown,error,Other
+Unknown,error,Programming error
+Unknown,error,Data entry error
+Unknown,error,Omission
+Unknown,error,Gaffe
+Unknown,error,Maintenance error
+Unknown,error,Classification error
+Unknown,environmental,Unknown
+Unknown,environmental,Power failure
+Unknown,environmental,Humidity
+Unknown,social,Scam
+Unknown,social,Forgery
+Unknown,social,Phishing
+Unknown,social,Unknown
+Unknown,social,Influence
+Unknown,social,Propaganda
+Unknown,social,Pretexting
+Unknown,social,Bribery
+Unknown,social,Other
+Unknown,social,Extortion
+Unknown,social,Elicitation
+Unknown,social,Baiting
+Unknown,misuse,Unapproved software
+Unknown,misuse,Illicit content
+Unknown,misuse,Unapproved workaround
+Unknown,misuse,Unapproved hardware
+Unknown,misuse,Unknown
+Unknown,misuse,Email misuse
+Unknown,misuse,Possession abuse
+Unknown,misuse,Other
+Unknown,misuse,Net misuse
+Unknown,misuse,Data mishandling
+Unknown,misuse,Privilege abuse
+Unknown,misuse,Knowledge abuse
+Unknown,hacking,MitM
+Unknown,hacking,XSS
+Unknown,hacking,Footprinting
+Unknown,hacking,Forced browsing
+Unknown,hacking,SSI injection
+Unknown,hacking,Unknown
+Unknown,hacking,Buffer overflow
+Unknown,hacking,Use of stolen creds
+Unknown,hacking,Cryptanalysis
+Unknown,hacking,SQLi
+Unknown,hacking,Brute force
+Unknown,hacking,Other
+Unknown,hacking,Path traversal
+Unknown,hacking,URL redirector abuse
+Unknown,hacking,DoS
+Unknown,hacking,Use of backdoor or C2
+Unknown,hacking,Mail command injection
+Unknown,hacking,Session fixation
+Unknown,hacking,RFI
+Unknown,hacking,Abuse of functionality
+Unknown,physical,Skimmer
+Unknown,physical,Theft
+Unknown,physical,Snooping
+Unknown,physical,Tampering
+Unknown,physical,Unknown
+Unknown,physical,Assault
+Unknown,physical,Surveillance
+Unknown,physical,Connection
+Unknown,physical,Other
+Unknown,physical,Wiretapping
+Unknown,physical,Bypassed controls
+Unknown,physical,Destruction
+Unknown,physical,Disabled controls
+Payment switch,malware,Spam
+Payment switch,malware,Unknown
+Payment switch,malware,Packet sniffer
+Payment switch,malware,Backdoor
+Payment switch,malware,Exploit vuln
+Payment switch,malware,Other
+Payment switch,malware,Password dumper
+Payment switch,malware,Scan network
+Payment switch,malware,Downloader
+Payment switch,malware,C2
+Payment switch,malware,Worm
+Payment switch,malware,Spyware/Keylogger
+Payment switch,malware,Brute force
+Payment switch,malware,Capture app data
+Payment switch,malware,Ram scraper
+Payment switch,malware,Disable controls
+Payment switch,malware,Capture stored data
+Payment switch,malware,Ransomware
+Payment switch,malware,Export data
+Payment switch,malware,Client-side attack
+Payment switch,malware,Rootkit
+Payment switch,malware,Destroy data
+Payment switch,malware,DoS
+Payment switch,social,Phishing
+Payment switch,social,Unknown
+Payment switch,social,Influence
+Payment switch,social,Forgery
+Payment switch,social,Bribery
+Payment switch,social,Other
+Payment switch,social,Pretexting
+Payment switch,social,Extortion
+Payment switch,social,Elicitation
+Payment switch,social,Baiting
+Payment switch,environmental,Unknown
+Payment switch,environmental,Power failure
+Payment switch,error,Loss
+Payment switch,error,Omission
+Payment switch,error,Misconfiguration
+Payment switch,error,Unknown
+Payment switch,error,Misdelivery
+Payment switch,error,Physical accidents
+Payment switch,error,Publishing error
+Payment switch,error,Malfunction
+Payment switch,error,Disposal error
+Payment switch,error,Other
+Payment switch,error,Programming error
+Payment switch,error,Data entry error
+Payment switch,error,Gaffe
+Payment switch,error,Classification error
+Payment switch,misuse,Unapproved software
+Payment switch,misuse,Unapproved workaround
+Payment switch,misuse,Unapproved hardware
+Payment switch,misuse,Unknown
+Payment switch,misuse,Email misuse
+Payment switch,misuse,Possession abuse
+Payment switch,misuse,Other
+Payment switch,misuse,Net misuse
+Payment switch,misuse,Data mishandling
+Payment switch,misuse,Privilege abuse
+Payment switch,misuse,Knowledge abuse
+Payment switch,hacking,MitM
+Payment switch,hacking,XSS
+Payment switch,hacking,Footprinting
+Payment switch,hacking,Forced browsing
+Payment switch,hacking,SSI injection
+Payment switch,hacking,Unknown
+Payment switch,hacking,Buffer overflow
+Payment switch,hacking,Use of stolen creds
+Payment switch,hacking,Cryptanalysis
+Payment switch,hacking,SQLi
+Payment switch,hacking,Brute force
+Payment switch,hacking,Other
+Payment switch,hacking,Path traversal
+Payment switch,hacking,DoS
+Payment switch,hacking,Use of backdoor or C2
+Payment switch,hacking,Mail command injection
+Payment switch,hacking,RFI
+Payment switch,hacking,Abuse of functionality
+Payment switch,physical,Skimmer
+Payment switch,physical,Theft
+Payment switch,physical,Snooping
+Payment switch,physical,Tampering
+Payment switch,physical,Unknown
+Payment switch,physical,Surveillance
+Payment switch,physical,Other
+Payment switch,physical,Wiretapping
+Payment switch,physical,Bypassed controls
+Payment switch,physical,Destruction
+Payment switch,physical,Disabled controls
+PED pad,malware,Spam
+PED pad,malware,Unknown
+PED pad,malware,Packet sniffer
+PED pad,malware,Backdoor
+PED pad,malware,Exploit vuln
+PED pad,malware,Other
+PED pad,malware,Password dumper
+PED pad,malware,Scan network
+PED pad,malware,Downloader
+PED pad,malware,Click fraud
+PED pad,malware,Adware
+PED pad,malware,C2
+PED pad,malware,Worm
+PED pad,malware,Spyware/Keylogger
+PED pad,malware,Brute force
+PED pad,malware,Capture app data
+PED pad,malware,DoS
+PED pad,malware,Disable controls
+PED pad,malware,Capture stored data
+PED pad,malware,Ransomware
+PED pad,malware,Export data
+PED pad,malware,Client-side attack
+PED pad,malware,Rootkit
+PED pad,malware,Destroy data
+PED pad,malware,Ram scraper
+PED pad,social,Scam
+PED pad,social,Forgery
+PED pad,social,Phishing
+PED pad,social,Unknown
+PED pad,social,Influence
+PED pad,social,Pretexting
+PED pad,social,Bribery
+PED pad,social,Other
+PED pad,social,Extortion
+PED pad,social,Elicitation
+PED pad,social,Baiting
+PED pad,environmental,Unknown
+PED pad,environmental,Power failure
+PED pad,environmental,Humidity
+PED pad,error,Loss
+PED pad,error,Physical accidents
+PED pad,error,Malfunction
+PED pad,error,Unknown
+PED pad,error,Misdelivery
+PED pad,error,Misinformation
+PED pad,error,Publishing error
+PED pad,error,Disposal error
+PED pad,error,Other
+PED pad,error,Programming error
+PED pad,error,Data entry error
+PED pad,error,Omission
+PED pad,error,Gaffe
+PED pad,error,Misconfiguration
+PED pad,error,Maintenance error
+PED pad,error,Classification error
+PED pad,misuse,Unapproved software
+PED pad,misuse,Illicit content
+PED pad,misuse,Unapproved workaround
+PED pad,misuse,Unapproved hardware
+PED pad,misuse,Unknown
+PED pad,misuse,Email misuse
+PED pad,misuse,Possession abuse
+PED pad,misuse,Other
+PED pad,misuse,Net misuse
+PED pad,misuse,Data mishandling
+PED pad,misuse,Privilege abuse
+PED pad,misuse,Knowledge abuse
+PED pad,hacking,MitM
+PED pad,hacking,XSS
+PED pad,hacking,Footprinting
+PED pad,hacking,Forced browsing
+PED pad,hacking,SSI injection
+PED pad,hacking,Unknown
+PED pad,hacking,Buffer overflow
+PED pad,hacking,Use of stolen creds
+PED pad,hacking,Cryptanalysis
+PED pad,hacking,SQLi
+PED pad,hacking,Brute force
+PED pad,hacking,Other
+PED pad,hacking,Path traversal
+PED pad,hacking,URL redirector abuse
+PED pad,hacking,DoS
+PED pad,hacking,Use of backdoor or C2
+PED pad,hacking,Mail command injection
+PED pad,hacking,Session fixation
+PED pad,hacking,RFI
+PED pad,hacking,Abuse of functionality
+PED pad,physical,Skimmer
+PED pad,physical,Theft
+PED pad,physical,Snooping
+PED pad,physical,Tampering
+PED pad,physical,Unknown
+PED pad,physical,Connection
+PED pad,physical,Surveillance
+PED pad,physical,Assault
+PED pad,physical,Other
+PED pad,physical,Wiretapping
+PED pad,physical,Bypassed controls
+PED pad,physical,Destruction
+PED pad,physical,Disabled controls
+Payment card,malware,Spam
+Payment card,malware,Unknown
+Payment card,malware,Packet sniffer
+Payment card,malware,Backdoor
+Payment card,malware,Exploit vuln
+Payment card,malware,Other
+Payment card,malware,Password dumper
+Payment card,malware,Scan network
+Payment card,malware,Downloader
+Payment card,malware,Adminware
+Payment card,malware,Click fraud
+Payment card,malware,Adware
+Payment card,malware,C2
+Payment card,malware,Worm
+Payment card,malware,Spyware/Keylogger
+Payment card,malware,Brute force
+Payment card,malware,Capture app data
+Payment card,malware,DoS
+Payment card,malware,Disable controls
+Payment card,malware,Capture stored data
+Payment card,malware,Ransomware
+Payment card,malware,Export data
+Payment card,malware,Client-side attack
+Payment card,malware,Rootkit
+Payment card,malware,Destroy data
+Payment card,malware,Ram scraper
+Payment card,social,Scam
+Payment card,social,Phishing
+Payment card,social,Pretexting
+Payment card,social,Unknown
+Payment card,social,Influence
+Payment card,social,Propaganda
+Payment card,social,Forgery
+Payment card,social,Bribery
+Payment card,social,Other
+Payment card,social,Extortion
+Payment card,social,Elicitation
+Payment card,social,Baiting
+Payment card,environmental,Unknown
+Payment card,environmental,Power failure
+Payment card,environmental,Humidity
+Payment card,error,Disposal error
+Payment card,error,Loss
+Payment card,error,Physical accidents
+Payment card,error,Misconfiguration
+Payment card,error,Unknown
+Payment card,error,Misdelivery
+Payment card,error,Misinformation
+Payment card,error,Publishing error
+Payment card,error,Malfunction
+Payment card,error,Other
+Payment card,error,Programming error
+Payment card,error,Data entry error
+Payment card,error,Omission
+Payment card,error,Gaffe
+Payment card,error,Maintenance error
+Payment card,error,Classification error
+Payment card,misuse,Unapproved software
+Payment card,misuse,Illicit content
+Payment card,misuse,Unapproved workaround
+Payment card,misuse,Unapproved hardware
+Payment card,misuse,Unknown
+Payment card,misuse,Email misuse
+Payment card,misuse,Possession abuse
+Payment card,misuse,Other
+Payment card,misuse,Net misuse
+Payment card,misuse,Data mishandling
+Payment card,misuse,Privilege abuse
+Payment card,misuse,Knowledge abuse
+Payment card,hacking,MitM
+Payment card,hacking,XSS
+Payment card,hacking,Footprinting
+Payment card,hacking,Forced browsing
+Payment card,hacking,SSI injection
+Payment card,hacking,Unknown
+Payment card,hacking,Buffer overflow
+Payment card,hacking,Use of stolen creds
+Payment card,hacking,Cryptanalysis
+Payment card,hacking,SQLi
+Payment card,hacking,Brute force
+Payment card,hacking,Other
+Payment card,hacking,Path traversal
+Payment card,hacking,URL redirector abuse
+Payment card,hacking,DoS
+Payment card,hacking,Use of backdoor or C2
+Payment card,hacking,Mail command injection
+Payment card,hacking,Session fixation
+Payment card,hacking,RFI
+Payment card,hacking,Abuse of functionality
+Payment card,physical,Skimmer
+Payment card,physical,Bypassed controls
+Payment card,physical,Snooping
+Payment card,physical,Tampering
+Payment card,physical,Unknown
+Payment card,physical,Assault
+Payment card,physical,Surveillance
+Payment card,physical,Connection
+Payment card,physical,Other
+Payment card,physical,Wiretapping
+Payment card,physical,Theft
+Payment card,physical,Destruction
+Payment card,physical,Disabled controls
+Customer,malware,Spam
+Customer,malware,Unknown
+Customer,malware,Packet sniffer
+Customer,malware,Backdoor
+Customer,malware,Exploit vuln
+Customer,malware,Other
+Customer,malware,Password dumper
+Customer,malware,Scan network
+Customer,malware,Downloader
+Customer,malware,Adminware
+Customer,malware,Click fraud
+Customer,malware,Adware
+Customer,malware,C2
+Customer,malware,Worm
+Customer,malware,Spyware/Keylogger
+Customer,malware,Brute force
+Customer,malware,Capture app data
+Customer,malware,DoS
+Customer,malware,Disable controls
+Customer,malware,Capture stored data
+Customer,malware,Ransomware
+Customer,malware,Export data
+Customer,malware,Client-side attack
+Customer,malware,Rootkit
+Customer,malware,Destroy data
+Customer,malware,Ram scraper
+Customer,error,Loss
+Customer,error,Physical accidents
+Customer,error,Misconfiguration
+Customer,error,Unknown
+Customer,error,Misdelivery
+Customer,error,Misinformation
+Customer,error,Publishing error
+Customer,error,Malfunction
+Customer,error,Disposal error
+Customer,error,Other
+Customer,error,Programming error
+Customer,error,Data entry error
+Customer,error,Omission
+Customer,error,Gaffe
+Customer,error,Maintenance error
+Customer,error,Classification error
+Customer,environmental,Unknown
+Customer,environmental,Power failure
+Customer,environmental,Humidity
+Customer,social,Scam
+Customer,social,Phishing
+Customer,social,Unknown
+Customer,social,Influence
+Customer,social,Propaganda
+Customer,social,Forgery
+Customer,social,Bribery
+Customer,social,Other
+Customer,social,Pretexting
+Customer,social,Extortion
+Customer,social,Elicitation
+Customer,social,Baiting
+Customer,misuse,Unapproved software
+Customer,misuse,Illicit content
+Customer,misuse,Unapproved workaround
+Customer,misuse,Unapproved hardware
+Customer,misuse,Unknown
+Customer,misuse,Email misuse
+Customer,misuse,Possession abuse
+Customer,misuse,Other
+Customer,misuse,Net misuse
+Customer,misuse,Data mishandling
+Customer,misuse,Privilege abuse
+Customer,misuse,Knowledge abuse
+Customer,hacking,MitM
+Customer,hacking,XSS
+Customer,hacking,Footprinting
+Customer,hacking,Forced browsing
+Customer,hacking,SSI injection
+Customer,hacking,Unknown
+Customer,hacking,Buffer overflow
+Customer,hacking,Use of stolen creds
+Customer,hacking,Cryptanalysis
+Customer,hacking,SQLi
+Customer,hacking,Brute force
+Customer,hacking,Other
+Customer,hacking,Path traversal
+Customer,hacking,URL redirector abuse
+Customer,hacking,DoS
+Customer,hacking,Use of backdoor or C2
+Customer,hacking,Mail command injection
+Customer,hacking,Session fixation
+Customer,hacking,RFI
+Customer,hacking,Abuse of functionality
+Customer,physical,Skimmer
+Customer,physical,Theft
+Customer,physical,Snooping
+Customer,physical,Tampering
+Customer,physical,Unknown
+Customer,physical,Connection
+Customer,physical,Surveillance
+Customer,physical,Assault
+Customer,physical,Other
+Customer,physical,Wiretapping
+Customer,physical,Bypassed controls
+Customer,physical,Destruction
+Customer,physical,Disabled controls
+Remote access,malware,Spam
+Remote access,malware,Unknown
+Remote access,malware,Packet sniffer
+Remote access,malware,Backdoor
+Remote access,malware,Exploit vuln
+Remote access,malware,Other
+Remote access,malware,Password dumper
+Remote access,malware,Scan network
+Remote access,malware,Downloader
+Remote access,malware,Adminware
+Remote access,malware,Click fraud
+Remote access,malware,Adware
+Remote access,malware,C2
+Remote access,malware,Worm
+Remote access,malware,Spyware/Keylogger
+Remote access,malware,Brute force
+Remote access,malware,Capture app data
+Remote access,malware,DoS
+Remote access,malware,Disable controls
+Remote access,malware,Capture stored data
+Remote access,malware,Ransomware
+Remote access,malware,Export data
+Remote access,malware,Client-side attack
+Remote access,malware,Rootkit
+Remote access,malware,Destroy data
+Remote access,malware,Ram scraper
+Remote access,social,Scam
+Remote access,social,Phishing
+Remote access,social,Unknown
+Remote access,social,Influence
+Remote access,social,Propaganda
+Remote access,social,Forgery
+Remote access,social,Bribery
+Remote access,social,Other
+Remote access,social,Pretexting
+Remote access,social,Extortion
+Remote access,social,Elicitation
+Remote access,social,Baiting
+Remote access,environmental,Unknown
+Remote access,environmental,Power failure
+Remote access,environmental,Humidity
+Remote access,error,Disposal error
+Remote access,error,Loss
+Remote access,error,Physical accidents
+Remote access,error,Misconfiguration
+Remote access,error,Unknown
+Remote access,error,Misdelivery
+Remote access,error,Misinformation
+Remote access,error,Publishing error
+Remote access,error,Malfunction
+Remote access,error,Other
+Remote access,error,Programming error
+Remote access,error,Data entry error
+Remote access,error,Omission
+Remote access,error,Gaffe
+Remote access,error,Maintenance error
+Remote access,error,Classification error
+Remote access,misuse,Unapproved software
+Remote access,misuse,Illicit content
+Remote access,misuse,Unapproved workaround
+Remote access,misuse,Unapproved hardware
+Remote access,misuse,Unknown
+Remote access,misuse,Email misuse
+Remote access,misuse,Possession abuse
+Remote access,misuse,Other
+Remote access,misuse,Net misuse
+Remote access,misuse,Data mishandling
+Remote access,misuse,Privilege abuse
+Remote access,misuse,Knowledge abuse
+Remote access,hacking,MitM
+Remote access,hacking,XSS
+Remote access,hacking,Footprinting
+Remote access,hacking,Forced browsing
+Remote access,hacking,SSI injection
+Remote access,hacking,Unknown
+Remote access,hacking,Buffer overflow
+Remote access,hacking,Use of stolen creds
+Remote access,hacking,Cryptanalysis
+Remote access,hacking,SQLi
+Remote access,hacking,Brute force
+Remote access,hacking,Other
+Remote access,hacking,Path traversal
+Remote access,hacking,URL redirector abuse
+Remote access,hacking,DoS
+Remote access,hacking,Use of backdoor or C2
+Remote access,hacking,Mail command injection
+Remote access,hacking,Session fixation
+Remote access,hacking,RFI
+Remote access,hacking,Abuse of functionality
+Remote access,physical,Skimmer
+Remote access,physical,Theft
+Remote access,physical,Snooping
+Remote access,physical,Tampering
+Remote access,physical,Unknown
+Remote access,physical,Connection
+Remote access,physical,Surveillance
+Remote access,physical,Assault
+Remote access,physical,Other
+Remote access,physical,Wiretapping
+Remote access,physical,Bypassed controls
+Remote access,physical,Destruction
+Remote access,physical,Disabled controls
+SAN,malware,Spam
+SAN,malware,Unknown
+SAN,malware,Packet sniffer
+SAN,malware,Backdoor
+SAN,malware,Exploit vuln
+SAN,malware,Other
+SAN,malware,Password dumper
+SAN,malware,Scan network
+SAN,malware,Downloader
+SAN,malware,Click fraud
+SAN,malware,Adware
+SAN,malware,C2
+SAN,malware,Worm
+SAN,malware,Spyware/Keylogger
+SAN,malware,Brute force
+SAN,malware,Capture app data
+SAN,malware,DoS
+SAN,malware,Disable controls
+SAN,malware,Capture stored data
+SAN,malware,Ransomware
+SAN,malware,Export data
+SAN,malware,Client-side attack
+SAN,malware,Rootkit
+SAN,malware,Destroy data
+SAN,malware,Ram scraper
+SAN,error,Disposal error
+SAN,error,Loss
+SAN,error,Omission
+SAN,error,Misconfiguration
+SAN,error,Unknown
+SAN,error,Misdelivery
+SAN,error,Physical accidents
+SAN,error,Publishing error
+SAN,error,Malfunction
+SAN,error,Other
+SAN,error,Programming error
+SAN,error,Data entry error
+SAN,error,Gaffe
+SAN,error,Classification error
+SAN,environmental,Unknown
+SAN,environmental,Power failure
+SAN,social,Phishing
+SAN,social,Unknown
+SAN,social,Influence
+SAN,social,Forgery
+SAN,social,Bribery
+SAN,social,Other
+SAN,social,Pretexting
+SAN,social,Extortion
+SAN,social,Elicitation
+SAN,social,Baiting
+SAN,misuse,Unapproved software
+SAN,misuse,Unapproved workaround
+SAN,misuse,Unapproved hardware
+SAN,misuse,Unknown
+SAN,misuse,Email misuse
+SAN,misuse,Possession abuse
+SAN,misuse,Other
+SAN,misuse,Net misuse
+SAN,misuse,Data mishandling
+SAN,misuse,Privilege abuse
+SAN,misuse,Knowledge abuse
+SAN,hacking,XSS
+SAN,hacking,Footprinting
+SAN,hacking,Forced browsing
+SAN,hacking,SSI injection
+SAN,hacking,Unknown
+SAN,hacking,Buffer overflow
+SAN,hacking,Use of stolen creds
+SAN,hacking,Cryptanalysis
+SAN,hacking,SQLi
+SAN,hacking,Brute force
+SAN,hacking,MitM
+SAN,hacking,Path traversal
+SAN,hacking,DoS
+SAN,hacking,Use of backdoor or C2
+SAN,hacking,Mail command injection
+SAN,hacking,Other
+SAN,hacking,RFI
+SAN,hacking,Abuse of functionality
+SAN,physical,Skimmer
+SAN,physical,Wiretapping
+SAN,physical,Snooping
+SAN,physical,Tampering
+SAN,physical,Unknown
+SAN,physical,Surveillance
+SAN,physical,Other
+SAN,physical,Destruction
+SAN,physical,Bypassed controls
+SAN,physical,Theft
+SAN,physical,Disabled controls
+File,malware,Spam
+File,malware,Unknown
+File,malware,Packet sniffer
+File,malware,Backdoor
+File,malware,Exploit vuln
+File,malware,Other
+File,malware,Password dumper
+File,malware,Scan network
+File,malware,Downloader
+File,malware,Adminware
+File,malware,Click fraud
+File,malware,Adware
+File,malware,C2
+File,malware,Worm
+File,malware,Spyware/Keylogger
+File,malware,Brute force
+File,malware,Capture app data
+File,malware,DoS
+File,malware,Disable controls
+File,malware,Capture stored data
+File,malware,Ransomware
+File,malware,Export data
+File,malware,Client-side attack
+File,malware,Rootkit
+File,malware,Destroy data
+File,malware,Ram scraper
+File,error,Loss
+File,error,Physical accidents
+File,error,Malfunction
+File,error,Unknown
+File,error,Misdelivery
+File,error,Misinformation
+File,error,Publishing error
+File,error,Disposal error
+File,error,Other
+File,error,Programming error
+File,error,Data entry error
+File,error,Omission
+File,error,Gaffe
+File,error,Misconfiguration
+File,error,Maintenance error
+File,error,Classification error
+File,environmental,Unknown
+File,environmental,Power failure
+File,environmental,Humidity
+File,social,Scam
+File,social,Forgery
+File,social,Phishing
+File,social,Unknown
+File,social,Influence
+File,social,Propaganda
+File,social,Pretexting
+File,social,Bribery
+File,social,Other
+File,social,Extortion
+File,social,Elicitation
+File,social,Baiting
+File,misuse,Unapproved software
+File,misuse,Illicit content
+File,misuse,Unapproved workaround
+File,misuse,Unapproved hardware
+File,misuse,Unknown
+File,misuse,Email misuse
+File,misuse,Possession abuse
+File,misuse,Other
+File,misuse,Net misuse
+File,misuse,Data mishandling
+File,misuse,Privilege abuse
+File,misuse,Knowledge abuse
+File,hacking,MitM
+File,hacking,XSS
+File,hacking,Footprinting
+File,hacking,Forced browsing
+File,hacking,SSI injection
+File,hacking,Unknown
+File,hacking,Buffer overflow
+File,hacking,Use of stolen creds
+File,hacking,Cryptanalysis
+File,hacking,SQLi
+File,hacking,Brute force
+File,hacking,Other
+File,hacking,Path traversal
+File,hacking,URL redirector abuse
+File,hacking,DoS
+File,hacking,Use of backdoor or C2
+File,hacking,Mail command injection
+File,hacking,Session fixation
+File,hacking,RFI
+File,hacking,Abuse of functionality
+File,physical,Skimmer
+File,physical,Bypassed controls
+File,physical,Snooping
+File,physical,Tampering
+File,physical,Unknown
+File,physical,Assault
+File,physical,Surveillance
+File,physical,Connection
+File,physical,Other
+File,physical,Wiretapping
+File,physical,Theft
+File,physical,Destruction
+File,physical,Disabled controls
+Tapes,malware,Spam
+Tapes,malware,Unknown
+Tapes,malware,Packet sniffer
+Tapes,malware,Backdoor
+Tapes,malware,Exploit vuln
+Tapes,malware,Other
+Tapes,malware,Password dumper
+Tapes,malware,Scan network
+Tapes,malware,Downloader
+Tapes,malware,Adminware
+Tapes,malware,Click fraud
+Tapes,malware,Adware
+Tapes,malware,C2
+Tapes,malware,Worm
+Tapes,malware,Spyware/Keylogger
+Tapes,malware,Brute force
+Tapes,malware,Capture app data
+Tapes,malware,DoS
+Tapes,malware,Disable controls
+Tapes,malware,Capture stored data
+Tapes,malware,Ransomware
+Tapes,malware,Export data
+Tapes,malware,Client-side attack
+Tapes,malware,Rootkit
+Tapes,malware,Destroy data
+Tapes,malware,Ram scraper
+Tapes,error,Loss
+Tapes,error,Physical accidents
+Tapes,error,Misconfiguration
+Tapes,error,Unknown
+Tapes,error,Misdelivery
+Tapes,error,Misinformation
+Tapes,error,Publishing error
+Tapes,error,Malfunction
+Tapes,error,Disposal error
+Tapes,error,Other
+Tapes,error,Programming error
+Tapes,error,Data entry error
+Tapes,error,Omission
+Tapes,error,Gaffe
+Tapes,error,Maintenance error
+Tapes,error,Classification error
+Tapes,environmental,Unknown
+Tapes,environmental,Power failure
+Tapes,environmental,Humidity
+Tapes,social,Scam
+Tapes,social,Phishing
+Tapes,social,Unknown
+Tapes,social,Influence
+Tapes,social,Propaganda
+Tapes,social,Forgery
+Tapes,social,Bribery
+Tapes,social,Other
+Tapes,social,Pretexting
+Tapes,social,Extortion
+Tapes,social,Elicitation
+Tapes,social,Baiting
+Tapes,misuse,Unapproved software
+Tapes,misuse,Illicit content
+Tapes,misuse,Unapproved workaround
+Tapes,misuse,Unapproved hardware
+Tapes,misuse,Unknown
+Tapes,misuse,Email misuse
+Tapes,misuse,Possession abuse
+Tapes,misuse,Other
+Tapes,misuse,Net misuse
+Tapes,misuse,Data mishandling
+Tapes,misuse,Privilege abuse
+Tapes,misuse,Knowledge abuse
+Tapes,hacking,MitM
+Tapes,hacking,XSS
+Tapes,hacking,Footprinting
+Tapes,hacking,Forced browsing
+Tapes,hacking,SSI injection
+Tapes,hacking,Unknown
+Tapes,hacking,Buffer overflow
+Tapes,hacking,Use of stolen creds
+Tapes,hacking,Cryptanalysis
+Tapes,hacking,SQLi
+Tapes,hacking,Brute force
+Tapes,hacking,Other
+Tapes,hacking,Path traversal
+Tapes,hacking,URL redirector abuse
+Tapes,hacking,DoS
+Tapes,hacking,Use of backdoor or C2
+Tapes,hacking,Mail command injection
+Tapes,hacking,Session fixation
+Tapes,hacking,RFI
+Tapes,hacking,Abuse of functionality
+Tapes,physical,Skimmer
+Tapes,physical,Theft
+Tapes,physical,Snooping
+Tapes,physical,Tampering
+Tapes,physical,Unknown
+Tapes,physical,Connection
+Tapes,physical,Surveillance
+Tapes,physical,Assault
+Tapes,physical,Other
+Tapes,physical,Wiretapping
+Tapes,physical,Bypassed controls
+Tapes,physical,Destruction
+Tapes,physical,Disabled controls
+Database,malware,Spam
+Database,malware,Unknown
+Database,malware,Packet sniffer
+Database,malware,Backdoor
+Database,malware,Exploit vuln
+Database,malware,Other
+Database,malware,Password dumper
+Database,malware,Scan network
+Database,malware,Downloader
+Database,malware,Adminware
+Database,malware,Click fraud
+Database,malware,Adware
+Database,malware,C2
+Database,malware,Worm
+Database,malware,Spyware/Keylogger
+Database,malware,Brute force
+Database,malware,Capture app data
+Database,malware,DoS
+Database,malware,Disable controls
+Database,malware,Capture stored data
+Database,malware,Ransomware
+Database,malware,Export data
+Database,malware,Client-side attack
+Database,malware,Rootkit
+Database,malware,Destroy data
+Database,malware,Ram scraper
+Database,social,Scam
+Database,social,Phishing
+Database,social,Unknown
+Database,social,Influence
+Database,social,Propaganda
+Database,social,Forgery
+Database,social,Bribery
+Database,social,Other
+Database,social,Pretexting
+Database,social,Extortion
+Database,social,Elicitation
+Database,social,Baiting
+Database,environmental,Unknown
+Database,environmental,Power failure
+Database,environmental,Humidity
+Database,error,Loss
+Database,error,Physical accidents
+Database,error,Misconfiguration
+Database,error,Unknown
+Database,error,Misdelivery
+Database,error,Misinformation
+Database,error,Publishing error
+Database,error,Malfunction
+Database,error,Disposal error
+Database,error,Other
+Database,error,Programming error
+Database,error,Data entry error
+Database,error,Omission
+Database,error,Gaffe
+Database,error,Maintenance error
+Database,error,Classification error
+Database,misuse,Unapproved software
+Database,misuse,Illicit content
+Database,misuse,Unapproved workaround
+Database,misuse,Unapproved hardware
+Database,misuse,Unknown
+Database,misuse,Email misuse
+Database,misuse,Possession abuse
+Database,misuse,Other
+Database,misuse,Net misuse
+Database,misuse,Data mishandling
+Database,misuse,Privilege abuse
+Database,misuse,Knowledge abuse
+Database,hacking,MitM
+Database,hacking,XSS
+Database,hacking,Footprinting
+Database,hacking,Forced browsing
+Database,hacking,SSI injection
+Database,hacking,Unknown
+Database,hacking,Buffer overflow
+Database,hacking,Use of stolen creds
+Database,hacking,Cryptanalysis
+Database,hacking,SQLi
+Database,hacking,Brute force
+Database,hacking,Other
+Database,hacking,Path traversal
+Database,hacking,URL redirector abuse
+Database,hacking,DoS
+Database,hacking,Use of backdoor or C2
+Database,hacking,Mail command injection
+Database,hacking,Session fixation
+Database,hacking,RFI
+Database,hacking,Abuse of functionality
+Database,physical,Skimmer
+Database,physical,Bypassed controls
+Database,physical,Snooping
+Database,physical,Tampering
+Database,physical,Unknown
+Database,physical,Assault
+Database,physical,Surveillance
+Database,physical,Connection
+Database,physical,Other
+Database,physical,Wiretapping
+Database,physical,Theft
+Database,physical,Destruction
+Database,physical,Disabled controls
+PBX,malware,Spam
+PBX,malware,Unknown
+PBX,malware,Packet sniffer
+PBX,malware,Backdoor
+PBX,malware,Exploit vuln
+PBX,malware,Other
+PBX,malware,Password dumper
+PBX,malware,Scan network
+PBX,malware,Downloader
+PBX,malware,Click fraud
+PBX,malware,Adware
+PBX,malware,C2
+PBX,malware,Worm
+PBX,malware,Spyware/Keylogger
+PBX,malware,Brute force
+PBX,malware,Capture app data
+PBX,malware,DoS
+PBX,malware,Disable controls
+PBX,malware,Capture stored data
+PBX,malware,Ransomware
+PBX,malware,Export data
+PBX,malware,Client-side attack
+PBX,malware,Rootkit
+PBX,malware,Destroy data
+PBX,malware,Ram scraper
+PBX,error,Malfunction
+PBX,error,Physical accidents
+PBX,error,Loss
+PBX,error,Unknown
+PBX,error,Misdelivery
+PBX,error,Misinformation
+PBX,error,Publishing error
+PBX,error,Disposal error
+PBX,error,Other
+PBX,error,Programming error
+PBX,error,Data entry error
+PBX,error,Omission
+PBX,error,Gaffe
+PBX,error,Misconfiguration
+PBX,error,Classification error
+PBX,environmental,Unknown
+PBX,environmental,Power failure
+PBX,social,Scam
+PBX,social,Forgery
+PBX,social,Phishing
+PBX,social,Unknown
+PBX,social,Influence
+PBX,social,Pretexting
+PBX,social,Bribery
+PBX,social,Other
+PBX,social,Extortion
+PBX,social,Elicitation
+PBX,social,Baiting
+PBX,misuse,Unapproved software
+PBX,misuse,Illicit content
+PBX,misuse,Unapproved workaround
+PBX,misuse,Unapproved hardware
+PBX,misuse,Unknown
+PBX,misuse,Email misuse
+PBX,misuse,Possession abuse
+PBX,misuse,Other
+PBX,misuse,Net misuse
+PBX,misuse,Data mishandling
+PBX,misuse,Privilege abuse
+PBX,misuse,Knowledge abuse
+PBX,hacking,MitM
+PBX,hacking,XSS
+PBX,hacking,Footprinting
+PBX,hacking,Forced browsing
+PBX,hacking,SSI injection
+PBX,hacking,Unknown
+PBX,hacking,Buffer overflow
+PBX,hacking,Use of stolen creds
+PBX,hacking,Cryptanalysis
+PBX,hacking,SQLi
+PBX,hacking,Brute force
+PBX,hacking,Other
+PBX,hacking,Path traversal
+PBX,hacking,URL redirector abuse
+PBX,hacking,DoS
+PBX,hacking,Use of backdoor or C2
+PBX,hacking,Mail command injection
+PBX,hacking,Session fixation
+PBX,hacking,RFI
+PBX,hacking,Abuse of functionality
+PBX,physical,Skimmer
+PBX,physical,Theft
+PBX,physical,Snooping
+PBX,physical,Tampering
+PBX,physical,Unknown
+PBX,physical,Connection
+PBX,physical,Surveillance
+PBX,physical,Assault
+PBX,physical,Other
+PBX,physical,Wiretapping
+PBX,physical,Bypassed controls
+PBX,physical,Destruction
+PBX,physical,Disabled controls
+Call center,malware,Spam
+Call center,malware,Unknown
+Call center,malware,Packet sniffer
+Call center,malware,Backdoor
+Call center,malware,Exploit vuln
+Call center,malware,Other
+Call center,malware,Password dumper
+Call center,malware,Scan network
+Call center,malware,Downloader
+Call center,malware,C2
+Call center,malware,Worm
+Call center,malware,Spyware/Keylogger
+Call center,malware,Brute force
+Call center,malware,Capture app data
+Call center,malware,Ram scraper
+Call center,malware,Disable controls
+Call center,malware,Capture stored data
+Call center,malware,Ransomware
+Call center,malware,Export data
+Call center,malware,Client-side attack
+Call center,malware,Rootkit
+Call center,malware,Destroy data
+Call center,malware,DoS
+Call center,social,Phishing
+Call center,social,Unknown
+Call center,social,Influence
+Call center,social,Forgery
+Call center,social,Bribery
+Call center,social,Other
+Call center,social,Pretexting
+Call center,social,Extortion
+Call center,social,Elicitation
+Call center,social,Baiting
+Call center,environmental,Unknown
+Call center,environmental,Power failure
+Call center,error,Loss
+Call center,error,Omission
+Call center,error,Malfunction
+Call center,error,Unknown
+Call center,error,Misdelivery
+Call center,error,Physical accidents
+Call center,error,Publishing error
+Call center,error,Disposal error
+Call center,error,Other
+Call center,error,Programming error
+Call center,error,Data entry error
+Call center,error,Gaffe
+Call center,error,Misconfiguration
+Call center,error,Classification error
+Call center,misuse,Unapproved software
+Call center,misuse,Unapproved workaround
+Call center,misuse,Unapproved hardware
+Call center,misuse,Unknown
+Call center,misuse,Email misuse
+Call center,misuse,Possession abuse
+Call center,misuse,Other
+Call center,misuse,Net misuse
+Call center,misuse,Data mishandling
+Call center,misuse,Privilege abuse
+Call center,misuse,Knowledge abuse
+Call center,hacking,MitM
+Call center,hacking,XSS
+Call center,hacking,Footprinting
+Call center,hacking,Forced browsing
+Call center,hacking,SSI injection
+Call center,hacking,Unknown
+Call center,hacking,Buffer overflow
+Call center,hacking,Use of stolen creds
+Call center,hacking,Cryptanalysis
+Call center,hacking,SQLi
+Call center,hacking,Brute force
+Call center,hacking,Other
+Call center,hacking,Path traversal
+Call center,hacking,DoS
+Call center,hacking,RFI
+Call center,hacking,Mail command injection
+Call center,hacking,Use of backdoor or C2
+Call center,hacking,Abuse of functionality
+Call center,physical,Skimmer
+Call center,physical,Theft
+Call center,physical,Snooping
+Call center,physical,Tampering
+Call center,physical,Unknown
+Call center,physical,Surveillance
+Call center,physical,Other
+Call center,physical,Wiretapping
+Call center,physical,Bypassed controls
+Call center,physical,Destruction
+Call center,physical,Disabled controls
+Mainframe,malware,Spam
+Mainframe,malware,Unknown
+Mainframe,malware,Packet sniffer
+Mainframe,malware,Backdoor
+Mainframe,malware,Exploit vuln
+Mainframe,malware,Other
+Mainframe,malware,Password dumper
+Mainframe,malware,Scan network
+Mainframe,malware,Downloader
+Mainframe,malware,Click fraud
+Mainframe,malware,Adware
+Mainframe,malware,C2
+Mainframe,malware,Worm
+Mainframe,malware,Spyware/Keylogger
+Mainframe,malware,Brute force
+Mainframe,malware,Capture app data
+Mainframe,malware,DoS
+Mainframe,malware,Disable controls
+Mainframe,malware,Capture stored data
+Mainframe,malware,Ransomware
+Mainframe,malware,Export data
+Mainframe,malware,Client-side attack
+Mainframe,malware,Rootkit
+Mainframe,malware,Destroy data
+Mainframe,malware,Ram scraper
+Mainframe,error,Disposal error
+Mainframe,error,Loss
+Mainframe,error,Physical accidents
+Mainframe,error,Malfunction
+Mainframe,error,Unknown
+Mainframe,error,Misdelivery
+Mainframe,error,Misinformation
+Mainframe,error,Publishing error
+Mainframe,error,Other
+Mainframe,error,Programming error
+Mainframe,error,Data entry error
+Mainframe,error,Omission
+Mainframe,error,Gaffe
+Mainframe,error,Misconfiguration
+Mainframe,error,Maintenance error
+Mainframe,error,Classification error
+Mainframe,environmental,Unknown
+Mainframe,environmental,Power failure
+Mainframe,environmental,Humidity
+Mainframe,social,Scam
+Mainframe,social,Forgery
+Mainframe,social,Phishing
+Mainframe,social,Unknown
+Mainframe,social,Influence
+Mainframe,social,Pretexting
+Mainframe,social,Bribery
+Mainframe,social,Other
+Mainframe,social,Extortion
+Mainframe,social,Elicitation
+Mainframe,social,Baiting
+Mainframe,misuse,Unapproved software
+Mainframe,misuse,Illicit content
+Mainframe,misuse,Unapproved workaround
+Mainframe,misuse,Unapproved hardware
+Mainframe,misuse,Unknown
+Mainframe,misuse,Email misuse
+Mainframe,misuse,Possession abuse
+Mainframe,misuse,Other
+Mainframe,misuse,Net misuse
+Mainframe,misuse,Data mishandling
+Mainframe,misuse,Privilege abuse
+Mainframe,misuse,Knowledge abuse
+Mainframe,hacking,MitM
+Mainframe,hacking,XSS
+Mainframe,hacking,Footprinting
+Mainframe,hacking,Forced browsing
+Mainframe,hacking,SSI injection
+Mainframe,hacking,Unknown
+Mainframe,hacking,Buffer overflow
+Mainframe,hacking,Use of stolen creds
+Mainframe,hacking,Cryptanalysis
+Mainframe,hacking,SQLi
+Mainframe,hacking,Brute force
+Mainframe,hacking,Other
+Mainframe,hacking,Path traversal
+Mainframe,hacking,URL redirector abuse
+Mainframe,hacking,DoS
+Mainframe,hacking,Use of backdoor or C2
+Mainframe,hacking,Mail command injection
+Mainframe,hacking,Session fixation
+Mainframe,hacking,RFI
+Mainframe,hacking,Abuse of functionality
+Mainframe,physical,Skimmer
+Mainframe,physical,Theft
+Mainframe,physical,Snooping
+Mainframe,physical,Tampering
+Mainframe,physical,Unknown
+Mainframe,physical,Connection
+Mainframe,physical,Surveillance
+Mainframe,physical,Assault
+Mainframe,physical,Other
+Mainframe,physical,Wiretapping
+Mainframe,physical,Bypassed controls
+Mainframe,physical,Destruction
+Mainframe,physical,Disabled controls
+DNS,malware,Spam
+DNS,malware,Unknown
+DNS,malware,Packet sniffer
+DNS,malware,Backdoor
+DNS,malware,Exploit vuln
+DNS,malware,Other
+DNS,malware,Password dumper
+DNS,malware,Scan network
+DNS,malware,Downloader
+DNS,malware,Adminware
+DNS,malware,Click fraud
+DNS,malware,Adware
+DNS,malware,C2
+DNS,malware,Worm
+DNS,malware,Spyware/Keylogger
+DNS,malware,Brute force
+DNS,malware,Capture app data
+DNS,malware,DoS
+DNS,malware,Disable controls
+DNS,malware,Capture stored data
+DNS,malware,Ransomware
+DNS,malware,Export data
+DNS,malware,Client-side attack
+DNS,malware,Rootkit
+DNS,malware,Destroy data
+DNS,malware,Ram scraper
+DNS,error,Loss
+DNS,error,Physical accidents
+DNS,error,Misconfiguration
+DNS,error,Unknown
+DNS,error,Misdelivery
+DNS,error,Misinformation
+DNS,error,Publishing error
+DNS,error,Malfunction
+DNS,error,Disposal error
+DNS,error,Other
+DNS,error,Programming error
+DNS,error,Data entry error
+DNS,error,Omission
+DNS,error,Gaffe
+DNS,error,Maintenance error
+DNS,error,Classification error
+DNS,environmental,Unknown
+DNS,environmental,Power failure
+DNS,environmental,Humidity
+DNS,social,Scam
+DNS,social,Phishing
+DNS,social,Unknown
+DNS,social,Influence
+DNS,social,Propaganda
+DNS,social,Forgery
+DNS,social,Bribery
+DNS,social,Other
+DNS,social,Pretexting
+DNS,social,Extortion
+DNS,social,Elicitation
+DNS,social,Baiting
+DNS,misuse,Unapproved software
+DNS,misuse,Illicit content
+DNS,misuse,Unapproved workaround
+DNS,misuse,Unapproved hardware
+DNS,misuse,Unknown
+DNS,misuse,Email misuse
+DNS,misuse,Possession abuse
+DNS,misuse,Other
+DNS,misuse,Net misuse
+DNS,misuse,Data mishandling
+DNS,misuse,Privilege abuse
+DNS,misuse,Knowledge abuse
+DNS,hacking,MitM
+DNS,hacking,XSS
+DNS,hacking,Footprinting
+DNS,hacking,Forced browsing
+DNS,hacking,SSI injection
+DNS,hacking,Unknown
+DNS,hacking,Buffer overflow
+DNS,hacking,Use of stolen creds
+DNS,hacking,Cryptanalysis
+DNS,hacking,SQLi
+DNS,hacking,Brute force
+DNS,hacking,Other
+DNS,hacking,Path traversal
+DNS,hacking,URL redirector abuse
+DNS,hacking,DoS
+DNS,hacking,Use of backdoor or C2
+DNS,hacking,Mail command injection
+DNS,hacking,Session fixation
+DNS,hacking,RFI
+DNS,hacking,Abuse of functionality
+DNS,physical,Skimmer
+DNS,physical,Theft
+DNS,physical,Snooping
+DNS,physical,Tampering
+DNS,physical,Unknown
+DNS,physical,Connection
+DNS,physical,Surveillance
+DNS,physical,Assault
+DNS,physical,Other
+DNS,physical,Wiretapping
+DNS,physical,Bypassed controls
+DNS,physical,Destruction
+DNS,physical,Disabled controls
+Directory,malware,Spam
+Directory,malware,Unknown
+Directory,malware,Packet sniffer
+Directory,malware,Backdoor
+Directory,malware,Exploit vuln
+Directory,malware,Other
+Directory,malware,Password dumper
+Directory,malware,Scan network
+Directory,malware,Downloader
+Directory,malware,Click fraud
+Directory,malware,Adware
+Directory,malware,C2
+Directory,malware,Worm
+Directory,malware,Spyware/Keylogger
+Directory,malware,Brute force
+Directory,malware,Capture app data
+Directory,malware,DoS
+Directory,malware,Disable controls
+Directory,malware,Capture stored data
+Directory,malware,Ransomware
+Directory,malware,Export data
+Directory,malware,Client-side attack
+Directory,malware,Rootkit
+Directory,malware,Destroy data
+Directory,malware,Ram scraper
+Directory,social,Forgery
+Directory,social,Phishing
+Directory,social,Unknown
+Directory,social,Influence
+Directory,social,Pretexting
+Directory,social,Bribery
+Directory,social,Other
+Directory,social,Extortion
+Directory,social,Elicitation
+Directory,social,Baiting
+Directory,environmental,Unknown
+Directory,environmental,Power failure
+Directory,error,Disposal error
+Directory,error,Loss
+Directory,error,Physical accidents
+Directory,error,Malfunction
+Directory,error,Unknown
+Directory,error,Misdelivery
+Directory,error,Misinformation
+Directory,error,Publishing error
+Directory,error,Other
+Directory,error,Programming error
+Directory,error,Data entry error
+Directory,error,Omission
+Directory,error,Gaffe
+Directory,error,Misconfiguration
+Directory,error,Classification error
+Directory,misuse,Unapproved software
+Directory,misuse,Unapproved workaround
+Directory,misuse,Unapproved hardware
+Directory,misuse,Unknown
+Directory,misuse,Email misuse
+Directory,misuse,Possession abuse
+Directory,misuse,Other
+Directory,misuse,Net misuse
+Directory,misuse,Data mishandling
+Directory,misuse,Privilege abuse
+Directory,misuse,Knowledge abuse
+Directory,hacking,MitM
+Directory,hacking,XSS
+Directory,hacking,Footprinting
+Directory,hacking,Forced browsing
+Directory,hacking,SSI injection
+Directory,hacking,Unknown
+Directory,hacking,Buffer overflow
+Directory,hacking,Use of stolen creds
+Directory,hacking,Cryptanalysis
+Directory,hacking,SQLi
+Directory,hacking,Brute force
+Directory,hacking,Other
+Directory,hacking,Path traversal
+Directory,hacking,URL redirector abuse
+Directory,hacking,DoS
+Directory,hacking,Use of backdoor or C2
+Directory,hacking,Mail command injection
+Directory,hacking,Session fixation
+Directory,hacking,RFI
+Directory,hacking,Abuse of functionality
+Directory,physical,Skimmer
+Directory,physical,Theft
+Directory,physical,Snooping
+Directory,physical,Tampering
+Directory,physical,Unknown
+Directory,physical,Surveillance
+Directory,physical,Assault
+Directory,physical,Other
+Directory,physical,Wiretapping
+Directory,physical,Bypassed controls
+Directory,physical,Destruction
+Directory,physical,Disabled controls
+Web application,malware,Spam
+Web application,malware,Unknown
+Web application,malware,Packet sniffer
+Web application,malware,Backdoor
+Web application,malware,Exploit vuln
+Web application,malware,Other
+Web application,malware,Password dumper
+Web application,malware,Scan network
+Web application,malware,Downloader
+Web application,malware,Adminware
+Web application,malware,Click fraud
+Web application,malware,Adware
+Web application,malware,C2
+Web application,malware,Worm
+Web application,malware,Spyware/Keylogger
+Web application,malware,Brute force
+Web application,malware,Capture app data
+Web application,malware,DoS
+Web application,malware,Disable controls
+Web application,malware,Capture stored data
+Web application,malware,Ransomware
+Web application,malware,Export data
+Web application,malware,Client-side attack
+Web application,malware,Rootkit
+Web application,malware,Destroy data
+Web application,malware,Ram scraper
+Web application,error,Loss
+Web application,error,Physical accidents
+Web application,error,Misconfiguration
+Web application,error,Unknown
+Web application,error,Misdelivery
+Web application,error,Misinformation
+Web application,error,Publishing error
+Web application,error,Malfunction
+Web application,error,Disposal error
+Web application,error,Other
+Web application,error,Programming error
+Web application,error,Data entry error
+Web application,error,Omission
+Web application,error,Gaffe
+Web application,error,Maintenance error
+Web application,error,Classification error
+Web application,environmental,Unknown
+Web application,environmental,Power failure
+Web application,environmental,Humidity
+Web application,social,Scam
+Web application,social,Phishing
+Web application,social,Unknown
+Web application,social,Influence
+Web application,social,Propaganda
+Web application,social,Forgery
+Web application,social,Bribery
+Web application,social,Other
+Web application,social,Pretexting
+Web application,social,Extortion
+Web application,social,Elicitation
+Web application,social,Baiting
+Web application,misuse,Unapproved software
+Web application,misuse,Illicit content
+Web application,misuse,Unapproved workaround
+Web application,misuse,Unapproved hardware
+Web application,misuse,Unknown
+Web application,misuse,Email misuse
+Web application,misuse,Possession abuse
+Web application,misuse,Other
+Web application,misuse,Net misuse
+Web application,misuse,Data mishandling
+Web application,misuse,Privilege abuse
+Web application,misuse,Knowledge abuse
+Web application,hacking,MitM
+Web application,hacking,XSS
+Web application,hacking,Footprinting
+Web application,hacking,Forced browsing
+Web application,hacking,SSI injection
+Web application,hacking,Unknown
+Web application,hacking,Buffer overflow
+Web application,hacking,Use of stolen creds
+Web application,hacking,Cryptanalysis
+Web application,hacking,SQLi
+Web application,hacking,Brute force
+Web application,hacking,Other
+Web application,hacking,Path traversal
+Web application,hacking,URL redirector abuse
+Web application,hacking,DoS
+Web application,hacking,Use of backdoor or C2
+Web application,hacking,Mail command injection
+Web application,hacking,Session fixation
+Web application,hacking,RFI
+Web application,hacking,Abuse of functionality
+Web application,physical,Skimmer
+Web application,physical,Bypassed controls
+Web application,physical,Snooping
+Web application,physical,Tampering
+Web application,physical,Unknown
+Web application,physical,Assault
+Web application,physical,Surveillance
+Web application,physical,Connection
+Web application,physical,Other
+Web application,physical,Wiretapping
+Web application,physical,Theft
+Web application,physical,Destruction
+Web application,physical,Disabled controls
+Backup,malware,Spam
+Backup,malware,Unknown
+Backup,malware,Packet sniffer
+Backup,malware,Backdoor
+Backup,malware,Exploit vuln
+Backup,malware,Other
+Backup,malware,Password dumper
+Backup,malware,Scan network
+Backup,malware,Downloader
+Backup,malware,Adminware
+Backup,malware,Click fraud
+Backup,malware,Adware
+Backup,malware,C2
+Backup,malware,Worm
+Backup,malware,Spyware/Keylogger
+Backup,malware,Brute force
+Backup,malware,Capture app data
+Backup,malware,DoS
+Backup,malware,Disable controls
+Backup,malware,Capture stored data
+Backup,malware,Ransomware
+Backup,malware,Export data
+Backup,malware,Client-side attack
+Backup,malware,Rootkit
+Backup,malware,Destroy data
+Backup,malware,Ram scraper
+Backup,error,Disposal error
+Backup,error,Loss
+Backup,error,Physical accidents
+Backup,error,Misconfiguration
+Backup,error,Unknown
+Backup,error,Misdelivery
+Backup,error,Misinformation
+Backup,error,Publishing error
+Backup,error,Malfunction
+Backup,error,Other
+Backup,error,Programming error
+Backup,error,Data entry error
+Backup,error,Omission
+Backup,error,Gaffe
+Backup,error,Maintenance error
+Backup,error,Classification error
+Backup,environmental,Unknown
+Backup,environmental,Power failure
+Backup,environmental,Humidity
+Backup,social,Scam
+Backup,social,Phishing
+Backup,social,Unknown
+Backup,social,Influence
+Backup,social,Extortion
+Backup,social,Forgery
+Backup,social,Bribery
+Backup,social,Other
+Backup,social,Pretexting
+Backup,social,Propaganda
+Backup,social,Elicitation
+Backup,social,Baiting
+Backup,misuse,Unapproved software
+Backup,misuse,Illicit content
+Backup,misuse,Unapproved workaround
+Backup,misuse,Unapproved hardware
+Backup,misuse,Unknown
+Backup,misuse,Email misuse
+Backup,misuse,Possession abuse
+Backup,misuse,Other
+Backup,misuse,Net misuse
+Backup,misuse,Data mishandling
+Backup,misuse,Privilege abuse
+Backup,misuse,Knowledge abuse
+Backup,hacking,MitM
+Backup,hacking,XSS
+Backup,hacking,Footprinting
+Backup,hacking,Forced browsing
+Backup,hacking,SSI injection
+Backup,hacking,Unknown
+Backup,hacking,Buffer overflow
+Backup,hacking,Use of stolen creds
+Backup,hacking,Cryptanalysis
+Backup,hacking,SQLi
+Backup,hacking,Brute force
+Backup,hacking,Other
+Backup,hacking,Path traversal
+Backup,hacking,URL redirector abuse
+Backup,hacking,DoS
+Backup,hacking,Use of backdoor or C2
+Backup,hacking,Mail command injection
+Backup,hacking,Session fixation
+Backup,hacking,RFI
+Backup,hacking,Abuse of functionality
+Backup,physical,Skimmer
+Backup,physical,Theft
+Backup,physical,Snooping
+Backup,physical,Tampering
+Backup,physical,Unknown
+Backup,physical,Connection
+Backup,physical,Surveillance
+Backup,physical,Assault
+Backup,physical,Other
+Backup,physical,Wiretapping
+Backup,physical,Bypassed controls
+Backup,physical,Destruction
+Backup,physical,Disabled controls
+Finance,malware,Spam
+Finance,malware,Unknown
+Finance,malware,Packet sniffer
+Finance,malware,Backdoor
+Finance,malware,Exploit vuln
+Finance,malware,Other
+Finance,malware,Password dumper
+Finance,malware,Scan network
+Finance,malware,Downloader
+Finance,malware,Adminware
+Finance,malware,Click fraud
+Finance,malware,Adware
+Finance,malware,C2
+Finance,malware,Worm
+Finance,malware,Spyware/Keylogger
+Finance,malware,Brute force
+Finance,malware,Capture app data
+Finance,malware,DoS
+Finance,malware,Disable controls
+Finance,malware,Capture stored data
+Finance,malware,Ransomware
+Finance,malware,Export data
+Finance,malware,Client-side attack
+Finance,malware,Rootkit
+Finance,malware,Destroy data
+Finance,malware,Ram scraper
+Finance,social,Scam
+Finance,social,Phishing
+Finance,social,Unknown
+Finance,social,Influence
+Finance,social,Extortion
+Finance,social,Forgery
+Finance,social,Bribery
+Finance,social,Other
+Finance,social,Pretexting
+Finance,social,Propaganda
+Finance,social,Elicitation
+Finance,social,Baiting
+Finance,environmental,Unknown
+Finance,environmental,Power failure
+Finance,environmental,Humidity
+Finance,error,Loss
+Finance,error,Physical accidents
+Finance,error,Misconfiguration
+Finance,error,Unknown
+Finance,error,Misdelivery
+Finance,error,Misinformation
+Finance,error,Publishing error
+Finance,error,Malfunction
+Finance,error,Disposal error
+Finance,error,Other
+Finance,error,Programming error
+Finance,error,Data entry error
+Finance,error,Omission
+Finance,error,Gaffe
+Finance,error,Maintenance error
+Finance,error,Classification error
+Finance,misuse,Unapproved software
+Finance,misuse,Illicit content
+Finance,misuse,Unapproved workaround
+Finance,misuse,Unapproved hardware
+Finance,misuse,Unknown
+Finance,misuse,Email misuse
+Finance,misuse,Possession abuse
+Finance,misuse,Other
+Finance,misuse,Net misuse
+Finance,misuse,Data mishandling
+Finance,misuse,Privilege abuse
+Finance,misuse,Knowledge abuse
+Finance,hacking,MitM
+Finance,hacking,XSS
+Finance,hacking,Footprinting
+Finance,hacking,Forced browsing
+Finance,hacking,SSI injection
+Finance,hacking,Unknown
+Finance,hacking,Buffer overflow
+Finance,hacking,Use of stolen creds
+Finance,hacking,Cryptanalysis
+Finance,hacking,SQLi
+Finance,hacking,Brute force
+Finance,hacking,Other
+Finance,hacking,Path traversal
+Finance,hacking,URL redirector abuse
+Finance,hacking,DoS
+Finance,hacking,Use of backdoor or C2
+Finance,hacking,Mail command injection
+Finance,hacking,Session fixation
+Finance,hacking,RFI
+Finance,hacking,Abuse of functionality
+Finance,physical,Skimmer
+Finance,physical,Theft
+Finance,physical,Snooping
+Finance,physical,Tampering
+Finance,physical,Unknown
+Finance,physical,Connection
+Finance,physical,Surveillance
+Finance,physical,Assault
+Finance,physical,Other
+Finance,physical,Wiretapping
+Finance,physical,Bypassed controls
+Finance,physical,Destruction
+Finance,physical,Disabled controls
+Media,malware,Spam
+Media,malware,Unknown
+Media,malware,Packet sniffer
+Media,malware,Backdoor
+Media,malware,Exploit vuln
+Media,malware,Other
+Media,malware,Password dumper
+Media,malware,Scan network
+Media,malware,Downloader
+Media,malware,Adminware
+Media,malware,Click fraud
+Media,malware,Adware
+Media,malware,C2
+Media,malware,Worm
+Media,malware,Spyware/Keylogger
+Media,malware,Brute force
+Media,malware,Capture app data
+Media,malware,DoS
+Media,malware,Disable controls
+Media,malware,Capture stored data
+Media,malware,Ransomware
+Media,malware,Export data
+Media,malware,Client-side attack
+Media,malware,Rootkit
+Media,malware,Destroy data
+Media,malware,Ram scraper
+Media,error,Loss
+Media,error,Physical accidents
+Media,error,Misconfiguration
+Media,error,Unknown
+Media,error,Misdelivery
+Media,error,Misinformation
+Media,error,Publishing error
+Media,error,Malfunction
+Media,error,Disposal error
+Media,error,Other
+Media,error,Programming error
+Media,error,Data entry error
+Media,error,Omission
+Media,error,Gaffe
+Media,error,Maintenance error
+Media,error,Classification error
+Media,environmental,Unknown
+Media,environmental,Power failure
+Media,environmental,Humidity
+Media,social,Scam
+Media,social,Phishing
+Media,social,Unknown
+Media,social,Influence
+Media,social,Propaganda
+Media,social,Forgery
+Media,social,Bribery
+Media,social,Other
+Media,social,Pretexting
+Media,social,Extortion
+Media,social,Elicitation
+Media,social,Baiting
+Media,misuse,Unapproved software
+Media,misuse,Illicit content
+Media,misuse,Unapproved workaround
+Media,misuse,Unapproved hardware
+Media,misuse,Unknown
+Media,misuse,Email misuse
+Media,misuse,Possession abuse
+Media,misuse,Other
+Media,misuse,Net misuse
+Media,misuse,Data mishandling
+Media,misuse,Privilege abuse
+Media,misuse,Knowledge abuse
+Media,hacking,MitM
+Media,hacking,XSS
+Media,hacking,Footprinting
+Media,hacking,Forced browsing
+Media,hacking,SSI injection
+Media,hacking,Unknown
+Media,hacking,Buffer overflow
+Media,hacking,Use of stolen creds
+Media,hacking,Cryptanalysis
+Media,hacking,SQLi
+Media,hacking,Brute force
+Media,hacking,Other
+Media,hacking,Path traversal
+Media,hacking,URL redirector abuse
+Media,hacking,DoS
+Media,hacking,Use of backdoor or C2
+Media,hacking,Mail command injection
+Media,hacking,Session fixation
+Media,hacking,RFI
+Media,hacking,Abuse of functionality
+Media,physical,Skimmer
+Media,physical,Theft
+Media,physical,Snooping
+Media,physical,Tampering
+Media,physical,Unknown
+Media,physical,Connection
+Media,physical,Surveillance
+Media,physical,Assault
+Media,physical,Other
+Media,physical,Wiretapping
+Media,physical,Bypassed controls
+Media,physical,Destruction
+Media,physical,Disabled controls
+End-user,malware,Spam
+End-user,malware,Unknown
+End-user,malware,Packet sniffer
+End-user,malware,Backdoor
+End-user,malware,Exploit vuln
+End-user,malware,Other
+End-user,malware,Password dumper
+End-user,malware,Scan network
+End-user,malware,Downloader
+End-user,malware,Adminware
+End-user,malware,Click fraud
+End-user,malware,Adware
+End-user,malware,C2
+End-user,malware,Worm
+End-user,malware,Spyware/Keylogger
+End-user,malware,Brute force
+End-user,malware,Capture app data
+End-user,malware,DoS
+End-user,malware,Disable controls
+End-user,malware,Capture stored data
+End-user,malware,Ransomware
+End-user,malware,Export data
+End-user,malware,Client-side attack
+End-user,malware,Rootkit
+End-user,malware,Destroy data
+End-user,malware,Ram scraper
+End-user,social,Scam
+End-user,social,Forgery
+End-user,social,Phishing
+End-user,social,Unknown
+End-user,social,Influence
+End-user,social,Propaganda
+End-user,social,Pretexting
+End-user,social,Bribery
+End-user,social,Other
+End-user,social,Extortion
+End-user,social,Elicitation
+End-user,social,Baiting
+End-user,environmental,Unknown
+End-user,environmental,Power failure
+End-user,environmental,Humidity
+End-user,error,Disposal error
+End-user,error,Loss
+End-user,error,Physical accidents
+End-user,error,Misconfiguration
+End-user,error,Unknown
+End-user,error,Misdelivery
+End-user,error,Misinformation
+End-user,error,Publishing error
+End-user,error,Malfunction
+End-user,error,Other
+End-user,error,Programming error
+End-user,error,Data entry error
+End-user,error,Omission
+End-user,error,Gaffe
+End-user,error,Maintenance error
+End-user,error,Classification error
+End-user,misuse,Unapproved software
+End-user,misuse,Illicit content
+End-user,misuse,Unapproved workaround
+End-user,misuse,Unapproved hardware
+End-user,misuse,Unknown
+End-user,misuse,Email misuse
+End-user,misuse,Possession abuse
+End-user,misuse,Other
+End-user,misuse,Net misuse
+End-user,misuse,Data mishandling
+End-user,misuse,Privilege abuse
+End-user,misuse,Knowledge abuse
+End-user,hacking,MitM
+End-user,hacking,XSS
+End-user,hacking,Footprinting
+End-user,hacking,Forced browsing
+End-user,hacking,SSI injection
+End-user,hacking,Unknown
+End-user,hacking,Buffer overflow
+End-user,hacking,Use of stolen creds
+End-user,hacking,Cryptanalysis
+End-user,hacking,SQLi
+End-user,hacking,Brute force
+End-user,hacking,Other
+End-user,hacking,Path traversal
+End-user,hacking,URL redirector abuse
+End-user,hacking,DoS
+End-user,hacking,Use of backdoor or C2
+End-user,hacking,Mail command injection
+End-user,hacking,Session fixation
+End-user,hacking,RFI
+End-user,hacking,Abuse of functionality
+End-user,physical,Skimmer
+End-user,physical,Theft
+End-user,physical,Snooping
+End-user,physical,Tampering
+End-user,physical,Unknown
+End-user,physical,Assault
+End-user,physical,Surveillance
+End-user,physical,Connection
+End-user,physical,Other
+End-user,physical,Wiretapping
+End-user,physical,Bypassed controls
+End-user,physical,Destruction
+End-user,physical,Disabled controls
+LAN,malware,Spam
+LAN,malware,Unknown
+LAN,malware,Packet sniffer
+LAN,malware,Backdoor
+LAN,malware,Exploit vuln
+LAN,malware,Other
+LAN,malware,Password dumper
+LAN,malware,Scan network
+LAN,malware,Downloader
+LAN,malware,C2
+LAN,malware,Worm
+LAN,malware,Spyware/Keylogger
+LAN,malware,Brute force
+LAN,malware,Capture app data
+LAN,malware,Ram scraper
+LAN,malware,Disable controls
+LAN,malware,Capture stored data
+LAN,malware,Ransomware
+LAN,malware,Export data
+LAN,malware,Client-side attack
+LAN,malware,Rootkit
+LAN,malware,Destroy data
+LAN,malware,DoS
+LAN,error,Loss
+LAN,error,Omission
+LAN,error,Misconfiguration
+LAN,error,Unknown
+LAN,error,Misdelivery
+LAN,error,Physical accidents
+LAN,error,Publishing error
+LAN,error,Malfunction
+LAN,error,Disposal error
+LAN,error,Other
+LAN,error,Programming error
+LAN,error,Data entry error
+LAN,error,Gaffe
+LAN,environmental,Unknown
+LAN,environmental,Power failure
+LAN,social,Phishing
+LAN,social,Pretexting
+LAN,social,Bribery
+LAN,social,Other
+LAN,social,Extortion
+LAN,social,Elicitation
+LAN,social,Baiting
+LAN,misuse,Unapproved software
+LAN,misuse,Unapproved workaround
+LAN,misuse,Unapproved hardware
+LAN,misuse,Unknown
+LAN,misuse,Email misuse
+LAN,misuse,Possession abuse
+LAN,misuse,Other
+LAN,misuse,Net misuse
+LAN,misuse,Data mishandling
+LAN,misuse,Privilege abuse
+LAN,misuse,Knowledge abuse
+LAN,hacking,MitM
+LAN,hacking,XSS
+LAN,hacking,Footprinting
+LAN,hacking,Forced browsing
+LAN,hacking,SQLi
+LAN,hacking,Unknown
+LAN,hacking,Buffer overflow
+LAN,hacking,Use of stolen creds
+LAN,hacking,SSI injection
+LAN,hacking,Brute force
+LAN,hacking,Other
+LAN,hacking,Path traversal
+LAN,hacking,DoS
+LAN,hacking,Use of backdoor or C2
+LAN,hacking,Mail command injection
+LAN,hacking,Abuse of functionality
+LAN,physical,Skimmer
+LAN,physical,Theft
+LAN,physical,Tampering
+LAN,physical,Unknown
+LAN,physical,Surveillance
+LAN,physical,Other
+LAN,physical,Wiretapping
+LAN,physical,Bypassed controls
+LAN,physical,Disabled controls
+LAN,physical,Destruction
+Public WAN,malware,Spam
+Public WAN,malware,Unknown
+Public WAN,malware,Packet sniffer
+Public WAN,malware,Backdoor
+Public WAN,malware,Exploit vuln
+Public WAN,malware,Other
+Public WAN,malware,Password dumper
+Public WAN,malware,Scan network
+Public WAN,malware,Downloader
+Public WAN,malware,Adware
+Public WAN,malware,C2
+Public WAN,malware,Worm
+Public WAN,malware,Spyware/Keylogger
+Public WAN,malware,Brute force
+Public WAN,malware,Capture app data
+Public WAN,malware,Ram scraper
+Public WAN,malware,Disable controls
+Public WAN,malware,Capture stored data
+Public WAN,malware,Ransomware
+Public WAN,malware,Export data
+Public WAN,malware,Client-side attack
+Public WAN,malware,Rootkit
+Public WAN,malware,Destroy data
+Public WAN,malware,DoS
+Public WAN,social,Phishing
+Public WAN,social,Unknown
+Public WAN,social,Influence
+Public WAN,social,Forgery
+Public WAN,social,Bribery
+Public WAN,social,Other
+Public WAN,social,Pretexting
+Public WAN,social,Extortion
+Public WAN,social,Elicitation
+Public WAN,social,Baiting
+Public WAN,environmental,Unknown
+Public WAN,environmental,Power failure
+Public WAN,error,Loss
+Public WAN,error,Omission
+Public WAN,error,Malfunction
+Public WAN,error,Unknown
+Public WAN,error,Misdelivery
+Public WAN,error,Physical accidents
+Public WAN,error,Publishing error
+Public WAN,error,Disposal error
+Public WAN,error,Other
+Public WAN,error,Programming error
+Public WAN,error,Data entry error
+Public WAN,error,Gaffe
+Public WAN,error,Misconfiguration
+Public WAN,error,Classification error
+Public WAN,misuse,Unapproved software
+Public WAN,misuse,Unapproved workaround
+Public WAN,misuse,Unapproved hardware
+Public WAN,misuse,Unknown
+Public WAN,misuse,Email misuse
+Public WAN,misuse,Possession abuse
+Public WAN,misuse,Other
+Public WAN,misuse,Net misuse
+Public WAN,misuse,Data mishandling
+Public WAN,misuse,Privilege abuse
+Public WAN,misuse,Knowledge abuse
+Public WAN,hacking,XSS
+Public WAN,hacking,Footprinting
+Public WAN,hacking,Forced browsing
+Public WAN,hacking,SSI injection
+Public WAN,hacking,Unknown
+Public WAN,hacking,Buffer overflow
+Public WAN,hacking,Use of stolen creds
+Public WAN,hacking,Cryptanalysis
+Public WAN,hacking,SQLi
+Public WAN,hacking,Brute force
+Public WAN,hacking,MitM
+Public WAN,hacking,Path traversal
+Public WAN,hacking,DoS
+Public WAN,hacking,Use of backdoor or C2
+Public WAN,hacking,Mail command injection
+Public WAN,hacking,Other
+Public WAN,hacking,RFI
+Public WAN,hacking,Abuse of functionality
+Public WAN,physical,Skimmer
+Public WAN,physical,Theft
+Public WAN,physical,Snooping
+Public WAN,physical,Tampering
+Public WAN,physical,Unknown
+Public WAN,physical,Surveillance
+Public WAN,physical,Other
+Public WAN,physical,Wiretapping
+Public WAN,physical,Bypassed controls
+Public WAN,physical,Destruction
+Public WAN,physical,Disabled controls
+POS terminal,malware,Spam
+POS terminal,malware,Unknown
+POS terminal,malware,Packet sniffer
+POS terminal,malware,Backdoor
+POS terminal,malware,Exploit vuln
+POS terminal,malware,Other
+POS terminal,malware,Password dumper
+POS terminal,malware,Scan network
+POS terminal,malware,Downloader
+POS terminal,malware,Adminware
+POS terminal,malware,Click fraud
+POS terminal,malware,Adware
+POS terminal,malware,C2
+POS terminal,malware,Worm
+POS terminal,malware,Spyware/Keylogger
+POS terminal,malware,Brute force
+POS terminal,malware,Capture app data
+POS terminal,malware,DoS
+POS terminal,malware,Disable controls
+POS terminal,malware,Capture stored data
+POS terminal,malware,Ransomware
+POS terminal,malware,Export data
+POS terminal,malware,Client-side attack
+POS terminal,malware,Rootkit
+POS terminal,malware,Destroy data
+POS terminal,malware,Ram scraper
+POS terminal,error,Loss
+POS terminal,error,Physical accidents
+POS terminal,error,Misconfiguration
+POS terminal,error,Unknown
+POS terminal,error,Misdelivery
+POS terminal,error,Misinformation
+POS terminal,error,Publishing error
+POS terminal,error,Malfunction
+POS terminal,error,Disposal error
+POS terminal,error,Other
+POS terminal,error,Programming error
+POS terminal,error,Data entry error
+POS terminal,error,Omission
+POS terminal,error,Gaffe
+POS terminal,error,Maintenance error
+POS terminal,error,Classification error
+POS terminal,environmental,Unknown
+POS terminal,environmental,Power failure
+POS terminal,environmental,Humidity
+POS terminal,social,Scam
+POS terminal,social,Phishing
+POS terminal,social,Unknown
+POS terminal,social,Influence
+POS terminal,social,Extortion
+POS terminal,social,Forgery
+POS terminal,social,Bribery
+POS terminal,social,Other
+POS terminal,social,Pretexting
+POS terminal,social,Propaganda
+POS terminal,social,Elicitation
+POS terminal,social,Baiting
+POS terminal,misuse,Unapproved software
+POS terminal,misuse,Illicit content
+POS terminal,misuse,Unapproved workaround
+POS terminal,misuse,Unapproved hardware
+POS terminal,misuse,Unknown
+POS terminal,misuse,Email misuse
+POS terminal,misuse,Possession abuse
+POS terminal,misuse,Other
+POS terminal,misuse,Net misuse
+POS terminal,misuse,Data mishandling
+POS terminal,misuse,Privilege abuse
+POS terminal,misuse,Knowledge abuse
+POS terminal,hacking,MitM
+POS terminal,hacking,XSS
+POS terminal,hacking,Footprinting
+POS terminal,hacking,Forced browsing
+POS terminal,hacking,SSI injection
+POS terminal,hacking,Unknown
+POS terminal,hacking,Buffer overflow
+POS terminal,hacking,Use of stolen creds
+POS terminal,hacking,Cryptanalysis
+POS terminal,hacking,SQLi
+POS terminal,hacking,Brute force
+POS terminal,hacking,Other
+POS terminal,hacking,Path traversal
+POS terminal,hacking,URL redirector abuse
+POS terminal,hacking,DoS
+POS terminal,hacking,Use of backdoor or C2
+POS terminal,hacking,Mail command injection
+POS terminal,hacking,Session fixation
+POS terminal,hacking,RFI
+POS terminal,hacking,Abuse of functionality
+POS terminal,physical,Skimmer
+POS terminal,physical,Theft
+POS terminal,physical,Snooping
+POS terminal,physical,Tampering
+POS terminal,physical,Unknown
+POS terminal,physical,Connection
+POS terminal,physical,Surveillance
+POS terminal,physical,Assault
+POS terminal,physical,Other
+POS terminal,physical,Wiretapping
+POS terminal,physical,Bypassed controls
+POS terminal,physical,Destruction
+POS terminal,physical,Disabled controls
+Router or switch,malware,Spam
+Router or switch,malware,Unknown
+Router or switch,malware,Packet sniffer
+Router or switch,malware,Backdoor
+Router or switch,malware,Exploit vuln
+Router or switch,malware,Other
+Router or switch,malware,Password dumper
+Router or switch,malware,Scan network
+Router or switch,malware,Downloader
+Router or switch,malware,Adminware
+Router or switch,malware,Click fraud
+Router or switch,malware,Adware
+Router or switch,malware,C2
+Router or switch,malware,Worm
+Router or switch,malware,Spyware/Keylogger
+Router or switch,malware,Brute force
+Router or switch,malware,Capture app data
+Router or switch,malware,DoS
+Router or switch,malware,Disable controls
+Router or switch,malware,Capture stored data
+Router or switch,malware,Ransomware
+Router or switch,malware,Export data
+Router or switch,malware,Client-side attack
+Router or switch,malware,Rootkit
+Router or switch,malware,Destroy data
+Router or switch,malware,Ram scraper
+Router or switch,social,Scam
+Router or switch,social,Forgery
+Router or switch,social,Phishing
+Router or switch,social,Unknown
+Router or switch,social,Influence
+Router or switch,social,Propaganda
+Router or switch,social,Pretexting
+Router or switch,social,Bribery
+Router or switch,social,Other
+Router or switch,social,Extortion
+Router or switch,social,Elicitation
+Router or switch,social,Baiting
+Router or switch,environmental,Unknown
+Router or switch,environmental,Power failure
+Router or switch,environmental,Humidity
+Router or switch,error,Loss
+Router or switch,error,Physical accidents
+Router or switch,error,Misconfiguration
+Router or switch,error,Unknown
+Router or switch,error,Misdelivery
+Router or switch,error,Misinformation
+Router or switch,error,Publishing error
+Router or switch,error,Malfunction
+Router or switch,error,Disposal error
+Router or switch,error,Other
+Router or switch,error,Programming error
+Router or switch,error,Data entry error
+Router or switch,error,Omission
+Router or switch,error,Gaffe
+Router or switch,error,Maintenance error
+Router or switch,error,Classification error
+Router or switch,misuse,Unapproved software
+Router or switch,misuse,Illicit content
+Router or switch,misuse,Unapproved workaround
+Router or switch,misuse,Unapproved hardware
+Router or switch,misuse,Unknown
+Router or switch,misuse,Email misuse
+Router or switch,misuse,Possession abuse
+Router or switch,misuse,Other
+Router or switch,misuse,Net misuse
+Router or switch,misuse,Data mishandling
+Router or switch,misuse,Privilege abuse
+Router or switch,misuse,Knowledge abuse
+Router or switch,hacking,MitM
+Router or switch,hacking,XSS
+Router or switch,hacking,Footprinting
+Router or switch,hacking,Forced browsing
+Router or switch,hacking,SSI injection
+Router or switch,hacking,Unknown
+Router or switch,hacking,Buffer overflow
+Router or switch,hacking,Use of stolen creds
+Router or switch,hacking,Cryptanalysis
+Router or switch,hacking,SQLi
+Router or switch,hacking,Brute force
+Router or switch,hacking,Other
+Router or switch,hacking,Path traversal
+Router or switch,hacking,URL redirector abuse
+Router or switch,hacking,DoS
+Router or switch,hacking,Use of backdoor or C2
+Router or switch,hacking,Mail command injection
+Router or switch,hacking,Session fixation
+Router or switch,hacking,RFI
+Router or switch,hacking,Abuse of functionality
+Router or switch,physical,Skimmer
+Router or switch,physical,Theft
+Router or switch,physical,Snooping
+Router or switch,physical,Tampering
+Router or switch,physical,Unknown
+Router or switch,physical,Assault
+Router or switch,physical,Surveillance
+Router or switch,physical,Connection
+Router or switch,physical,Other
+Router or switch,physical,Wiretapping
+Router or switch,physical,Bypassed controls
+Router or switch,physical,Destruction
+Router or switch,physical,Disabled controls
+Firewall,malware,Spam
+Firewall,malware,Unknown
+Firewall,malware,Packet sniffer
+Firewall,malware,Backdoor
+Firewall,malware,Exploit vuln
+Firewall,malware,Other
+Firewall,malware,Password dumper
+Firewall,malware,Scan network
+Firewall,malware,Downloader
+Firewall,malware,C2
+Firewall,malware,Worm
+Firewall,malware,Spyware/Keylogger
+Firewall,malware,Brute force
+Firewall,malware,Capture app data
+Firewall,malware,Ram scraper
+Firewall,malware,Disable controls
+Firewall,malware,Capture stored data
+Firewall,malware,Ransomware
+Firewall,malware,Export data
+Firewall,malware,Client-side attack
+Firewall,malware,Rootkit
+Firewall,malware,Destroy data
+Firewall,malware,DoS
+Firewall,social,Phishing
+Firewall,social,Pretexting
+Firewall,social,Bribery
+Firewall,social,Other
+Firewall,social,Extortion
+Firewall,social,Elicitation
+Firewall,social,Baiting
+Firewall,environmental,Power failure
+Firewall,error,Loss
+Firewall,error,Omission
+Firewall,error,Misconfiguration
+Firewall,error,Unknown
+Firewall,error,Misdelivery
+Firewall,error,Physical accidents
+Firewall,error,Publishing error
+Firewall,error,Malfunction
+Firewall,error,Disposal error
+Firewall,error,Other
+Firewall,error,Programming error
+Firewall,error,Data entry error
+Firewall,error,Gaffe
+Firewall,misuse,Unapproved software
+Firewall,misuse,Unapproved workaround
+Firewall,misuse,Unapproved hardware
+Firewall,misuse,Unknown
+Firewall,misuse,Email misuse
+Firewall,misuse,Possession abuse
+Firewall,misuse,Other
+Firewall,misuse,Net misuse
+Firewall,misuse,Data mishandling
+Firewall,misuse,Privilege abuse
+Firewall,misuse,Knowledge abuse
+Firewall,hacking,MitM
+Firewall,hacking,XSS
+Firewall,hacking,Footprinting
+Firewall,hacking,Forced browsing
+Firewall,hacking,SSI injection
+Firewall,hacking,Unknown
+Firewall,hacking,Buffer overflow
+Firewall,hacking,Use of stolen creds
+Firewall,hacking,SQLi
+Firewall,hacking,Brute force
+Firewall,hacking,Other
+Firewall,hacking,Path traversal
+Firewall,hacking,DoS
+Firewall,hacking,Use of backdoor or C2
+Firewall,hacking,Mail command injection
+Firewall,hacking,Abuse of functionality
+Firewall,physical,Skimmer
+Firewall,physical,Bypassed controls
+Firewall,physical,Tampering
+Firewall,physical,Unknown
+Firewall,physical,Surveillance
+Firewall,physical,Other
+Firewall,physical,Wiretapping
+Firewall,physical,Theft
+Firewall,physical,Destruction
+Firewall,physical,Disabled controls
+Laptop,malware,Spam
+Laptop,malware,Unknown
+Laptop,malware,Packet sniffer
+Laptop,malware,Backdoor
+Laptop,malware,Exploit vuln
+Laptop,malware,Other
+Laptop,malware,Password dumper
+Laptop,malware,Scan network
+Laptop,malware,Downloader
+Laptop,malware,Adminware
+Laptop,malware,Click fraud
+Laptop,malware,Adware
+Laptop,malware,C2
+Laptop,malware,Worm
+Laptop,malware,Spyware/Keylogger
+Laptop,malware,Brute force
+Laptop,malware,Capture app data
+Laptop,malware,DoS
+Laptop,malware,Disable controls
+Laptop,malware,Capture stored data
+Laptop,malware,Ransomware
+Laptop,malware,Export data
+Laptop,malware,Client-side attack
+Laptop,malware,Rootkit
+Laptop,malware,Destroy data
+Laptop,malware,Ram scraper
+Laptop,social,Scam
+Laptop,social,Phishing
+Laptop,social,Unknown
+Laptop,social,Influence
+Laptop,social,Propaganda
+Laptop,social,Forgery
+Laptop,social,Bribery
+Laptop,social,Other
+Laptop,social,Pretexting
+Laptop,social,Extortion
+Laptop,social,Elicitation
+Laptop,social,Baiting
+Laptop,environmental,Unknown
+Laptop,environmental,Power failure
+Laptop,environmental,Humidity
+Laptop,error,Loss
+Laptop,error,Physical accidents
+Laptop,error,Misconfiguration
+Laptop,error,Unknown
+Laptop,error,Misdelivery
+Laptop,error,Misinformation
+Laptop,error,Publishing error
+Laptop,error,Malfunction
+Laptop,error,Disposal error
+Laptop,error,Other
+Laptop,error,Programming error
+Laptop,error,Data entry error
+Laptop,error,Omission
+Laptop,error,Gaffe
+Laptop,error,Maintenance error
+Laptop,error,Classification error
+Laptop,misuse,Unapproved software
+Laptop,misuse,Illicit content
+Laptop,misuse,Unapproved workaround
+Laptop,misuse,Unapproved hardware
+Laptop,misuse,Unknown
+Laptop,misuse,Email misuse
+Laptop,misuse,Possession abuse
+Laptop,misuse,Other
+Laptop,misuse,Net misuse
+Laptop,misuse,Data mishandling
+Laptop,misuse,Privilege abuse
+Laptop,misuse,Knowledge abuse
+Laptop,hacking,MitM
+Laptop,hacking,XSS
+Laptop,hacking,Footprinting
+Laptop,hacking,Forced browsing
+Laptop,hacking,SSI injection
+Laptop,hacking,Unknown
+Laptop,hacking,Buffer overflow
+Laptop,hacking,Use of stolen creds
+Laptop,hacking,Cryptanalysis
+Laptop,hacking,SQLi
+Laptop,hacking,Brute force
+Laptop,hacking,Other
+Laptop,hacking,Path traversal
+Laptop,hacking,URL redirector abuse
+Laptop,hacking,DoS
+Laptop,hacking,Use of backdoor or C2
+Laptop,hacking,Mail command injection
+Laptop,hacking,Session fixation
+Laptop,hacking,RFI
+Laptop,hacking,Abuse of functionality
+Laptop,physical,Skimmer
+Laptop,physical,Bypassed controls
+Laptop,physical,Snooping
+Laptop,physical,Tampering
+Laptop,physical,Unknown
+Laptop,physical,Assault
+Laptop,physical,Surveillance
+Laptop,physical,Connection
+Laptop,physical,Other
+Laptop,physical,Wiretapping
+Laptop,physical,Theft
+Laptop,physical,Destruction
+Laptop,physical,Disabled controls
+Executive,malware,Spam
+Executive,malware,Unknown
+Executive,malware,Packet sniffer
+Executive,malware,Backdoor
+Executive,malware,Exploit vuln
+Executive,malware,Other
+Executive,malware,Password dumper
+Executive,malware,Scan network
+Executive,malware,Downloader
+Executive,malware,Adminware
+Executive,malware,Click fraud
+Executive,malware,Adware
+Executive,malware,C2
+Executive,malware,Worm
+Executive,malware,Spyware/Keylogger
+Executive,malware,Brute force
+Executive,malware,Capture app data
+Executive,malware,DoS
+Executive,malware,Disable controls
+Executive,malware,Capture stored data
+Executive,malware,Ransomware
+Executive,malware,Export data
+Executive,malware,Client-side attack
+Executive,malware,Rootkit
+Executive,malware,Destroy data
+Executive,malware,Ram scraper
+Executive,social,Scam
+Executive,social,Phishing
+Executive,social,Unknown
+Executive,social,Influence
+Executive,social,Propaganda
+Executive,social,Forgery
+Executive,social,Bribery
+Executive,social,Other
+Executive,social,Pretexting
+Executive,social,Extortion
+Executive,social,Elicitation
+Executive,social,Baiting
+Executive,environmental,Unknown
+Executive,environmental,Power failure
+Executive,environmental,Humidity
+Executive,error,Disposal error
+Executive,error,Physical accidents
+Executive,error,Loss
+Executive,error,Unknown
+Executive,error,Misdelivery
+Executive,error,Misinformation
+Executive,error,Publishing error
+Executive,error,Malfunction
+Executive,error,Other
+Executive,error,Programming error
+Executive,error,Data entry error
+Executive,error,Omission
+Executive,error,Gaffe
+Executive,error,Misconfiguration
+Executive,error,Maintenance error
+Executive,error,Classification error
+Executive,misuse,Unapproved software
+Executive,misuse,Illicit content
+Executive,misuse,Unapproved workaround
+Executive,misuse,Unapproved hardware
+Executive,misuse,Unknown
+Executive,misuse,Email misuse
+Executive,misuse,Possession abuse
+Executive,misuse,Other
+Executive,misuse,Net misuse
+Executive,misuse,Data mishandling
+Executive,misuse,Privilege abuse
+Executive,misuse,Knowledge abuse
+Executive,hacking,MitM
+Executive,hacking,XSS
+Executive,hacking,Footprinting
+Executive,hacking,Forced browsing
+Executive,hacking,SSI injection
+Executive,hacking,Unknown
+Executive,hacking,Buffer overflow
+Executive,hacking,Use of stolen creds
+Executive,hacking,Cryptanalysis
+Executive,hacking,SQLi
+Executive,hacking,Brute force
+Executive,hacking,Other
+Executive,hacking,Path traversal
+Executive,hacking,URL redirector abuse
+Executive,hacking,DoS
+Executive,hacking,Use of backdoor or C2
+Executive,hacking,Mail command injection
+Executive,hacking,Session fixation
+Executive,hacking,RFI
+Executive,hacking,Abuse of functionality
+Executive,physical,Skimmer
+Executive,physical,Bypassed controls
+Executive,physical,Snooping
+Executive,physical,Tampering
+Executive,physical,Unknown
+Executive,physical,Assault
+Executive,physical,Surveillance
+Executive,physical,Connection
+Executive,physical,Other
+Executive,physical,Wiretapping
+Executive,physical,Theft
+Executive,physical,Destruction
+Executive,physical,Disabled controls
+VM host,malware,Spam
+VM host,malware,Unknown
+VM host,malware,Packet sniffer
+VM host,malware,Backdoor
+VM host,malware,Exploit vuln
+VM host,malware,Other
+VM host,malware,Password dumper
+VM host,malware,Scan network
+VM host,malware,Downloader
+VM host,malware,Adware
+VM host,malware,C2
+VM host,malware,Worm
+VM host,malware,Spyware/Keylogger
+VM host,malware,Brute force
+VM host,malware,Capture app data
+VM host,malware,Ram scraper
+VM host,malware,Disable controls
+VM host,malware,Capture stored data
+VM host,malware,Ransomware
+VM host,malware,Export data
+VM host,malware,Client-side attack
+VM host,malware,Rootkit
+VM host,malware,Destroy data
+VM host,malware,DoS
+VM host,error,Loss
+VM host,error,Omission
+VM host,error,Disposal error
+VM host,error,Unknown
+VM host,error,Misdelivery
+VM host,error,Physical accidents
+VM host,error,Publishing error
+VM host,error,Malfunction
+VM host,error,Other
+VM host,error,Programming error
+VM host,error,Data entry error
+VM host,error,Gaffe
+VM host,error,Misconfiguration
+VM host,error,Classification error
+VM host,environmental,Unknown
+VM host,environmental,Power failure
+VM host,social,Phishing
+VM host,social,Unknown
+VM host,social,Influence
+VM host,social,Forgery
+VM host,social,Bribery
+VM host,social,Other
+VM host,social,Pretexting
+VM host,social,Extortion
+VM host,social,Elicitation
+VM host,social,Baiting
+VM host,misuse,Unapproved software
+VM host,misuse,Unapproved workaround
+VM host,misuse,Unapproved hardware
+VM host,misuse,Unknown
+VM host,misuse,Email misuse
+VM host,misuse,Possession abuse
+VM host,misuse,Other
+VM host,misuse,Net misuse
+VM host,misuse,Data mishandling
+VM host,misuse,Privilege abuse
+VM host,misuse,Knowledge abuse
+VM host,hacking,XSS
+VM host,hacking,Footprinting
+VM host,hacking,Forced browsing
+VM host,hacking,SSI injection
+VM host,hacking,Unknown
+VM host,hacking,Buffer overflow
+VM host,hacking,Use of stolen creds
+VM host,hacking,Cryptanalysis
+VM host,hacking,SQLi
+VM host,hacking,Brute force
+VM host,hacking,MitM
+VM host,hacking,Path traversal
+VM host,hacking,DoS
+VM host,hacking,Use of backdoor or C2
+VM host,hacking,Mail command injection
+VM host,hacking,Other
+VM host,hacking,RFI
+VM host,hacking,Abuse of functionality
+VM host,physical,Skimmer
+VM host,physical,Theft
+VM host,physical,Snooping
+VM host,physical,Tampering
+VM host,physical,Unknown
+VM host,physical,Surveillance
+VM host,physical,Other
+VM host,physical,Wiretapping
+VM host,physical,Bypassed controls
+VM host,physical,Destruction
+VM host,physical,Disabled controls
+Telephone,malware,Spam
+Telephone,malware,Unknown
+Telephone,malware,Packet sniffer
+Telephone,malware,Backdoor
+Telephone,malware,Exploit vuln
+Telephone,malware,Other
+Telephone,malware,Password dumper
+Telephone,malware,Scan network
+Telephone,malware,Downloader
+Telephone,malware,Adminware
+Telephone,malware,Click fraud
+Telephone,malware,Adware
+Telephone,malware,C2
+Telephone,malware,Worm
+Telephone,malware,Spyware/Keylogger
+Telephone,malware,Brute force
+Telephone,malware,Capture app data
+Telephone,malware,DoS
+Telephone,malware,Disable controls
+Telephone,malware,Capture stored data
+Telephone,malware,Ransomware
+Telephone,malware,Export data
+Telephone,malware,Client-side attack
+Telephone,malware,Rootkit
+Telephone,malware,Destroy data
+Telephone,malware,Ram scraper
+Telephone,error,Loss
+Telephone,error,Physical accidents
+Telephone,error,Misconfiguration
+Telephone,error,Unknown
+Telephone,error,Misdelivery
+Telephone,error,Misinformation
+Telephone,error,Publishing error
+Telephone,error,Malfunction
+Telephone,error,Disposal error
+Telephone,error,Other
+Telephone,error,Programming error
+Telephone,error,Data entry error
+Telephone,error,Omission
+Telephone,error,Gaffe
+Telephone,error,Maintenance error
+Telephone,error,Classification error
+Telephone,environmental,Unknown
+Telephone,environmental,Power failure
+Telephone,environmental,Humidity
+Telephone,social,Scam
+Telephone,social,Phishing
+Telephone,social,Unknown
+Telephone,social,Influence
+Telephone,social,Extortion
+Telephone,social,Forgery
+Telephone,social,Bribery
+Telephone,social,Other
+Telephone,social,Pretexting
+Telephone,social,Propaganda
+Telephone,social,Elicitation
+Telephone,social,Baiting
+Telephone,misuse,Unapproved software
+Telephone,misuse,Illicit content
+Telephone,misuse,Unapproved workaround
+Telephone,misuse,Unapproved hardware
+Telephone,misuse,Unknown
+Telephone,misuse,Email misuse
+Telephone,misuse,Possession abuse
+Telephone,misuse,Other
+Telephone,misuse,Net misuse
+Telephone,misuse,Data mishandling
+Telephone,misuse,Privilege abuse
+Telephone,misuse,Knowledge abuse
+Telephone,hacking,MitM
+Telephone,hacking,XSS
+Telephone,hacking,Footprinting
+Telephone,hacking,Forced browsing
+Telephone,hacking,SSI injection
+Telephone,hacking,Unknown
+Telephone,hacking,Buffer overflow
+Telephone,hacking,Use of stolen creds
+Telephone,hacking,Cryptanalysis
+Telephone,hacking,SQLi
+Telephone,hacking,Brute force
+Telephone,hacking,Other
+Telephone,hacking,Path traversal
+Telephone,hacking,URL redirector abuse
+Telephone,hacking,DoS
+Telephone,hacking,Use of backdoor or C2
+Telephone,hacking,Mail command injection
+Telephone,hacking,Session fixation
+Telephone,hacking,RFI
+Telephone,hacking,Abuse of functionality
+Telephone,physical,Skimmer
+Telephone,physical,Theft
+Telephone,physical,Snooping
+Telephone,physical,Tampering
+Telephone,physical,Unknown
+Telephone,physical,Assault
+Telephone,physical,Surveillance
+Telephone,physical,Connection
+Telephone,physical,Other
+Telephone,physical,Wiretapping
+Telephone,physical,Bypassed controls
+Telephone,physical,Destruction
+Telephone,physical,Disabled controls
+Manager,malware,Spam
+Manager,malware,Unknown
+Manager,malware,Packet sniffer
+Manager,malware,Backdoor
+Manager,malware,Exploit vuln
+Manager,malware,Other
+Manager,malware,Password dumper
+Manager,malware,Scan network
+Manager,malware,Downloader
+Manager,malware,Adminware
+Manager,malware,Click fraud
+Manager,malware,Adware
+Manager,malware,C2
+Manager,malware,Worm
+Manager,malware,Spyware/Keylogger
+Manager,malware,Brute force
+Manager,malware,Capture app data
+Manager,malware,DoS
+Manager,malware,Disable controls
+Manager,malware,Capture stored data
+Manager,malware,Ransomware
+Manager,malware,Export data
+Manager,malware,Client-side attack
+Manager,malware,Rootkit
+Manager,malware,Destroy data
+Manager,malware,Ram scraper
+Manager,social,Scam
+Manager,social,Phishing
+Manager,social,Pretexting
+Manager,social,Unknown
+Manager,social,Influence
+Manager,social,Propaganda
+Manager,social,Forgery
+Manager,social,Bribery
+Manager,social,Other
+Manager,social,Extortion
+Manager,social,Elicitation
+Manager,social,Baiting
+Manager,environmental,Unknown
+Manager,environmental,Power failure
+Manager,environmental,Humidity
+Manager,error,Disposal error
+Manager,error,Loss
+Manager,error,Physical accidents
+Manager,error,Misconfiguration
+Manager,error,Unknown
+Manager,error,Misdelivery
+Manager,error,Misinformation
+Manager,error,Publishing error
+Manager,error,Malfunction
+Manager,error,Other
+Manager,error,Programming error
+Manager,error,Data entry error
+Manager,error,Omission
+Manager,error,Gaffe
+Manager,error,Maintenance error
+Manager,error,Classification error
+Manager,misuse,Unapproved software
+Manager,misuse,Illicit content
+Manager,misuse,Unapproved workaround
+Manager,misuse,Unapproved hardware
+Manager,misuse,Unknown
+Manager,misuse,Email misuse
+Manager,misuse,Possession abuse
+Manager,misuse,Other
+Manager,misuse,Net misuse
+Manager,misuse,Data mishandling
+Manager,misuse,Privilege abuse
+Manager,misuse,Knowledge abuse
+Manager,hacking,MitM
+Manager,hacking,XSS
+Manager,hacking,Footprinting
+Manager,hacking,Forced browsing
+Manager,hacking,SSI injection
+Manager,hacking,Unknown
+Manager,hacking,Buffer overflow
+Manager,hacking,Use of stolen creds
+Manager,hacking,Cryptanalysis
+Manager,hacking,SQLi
+Manager,hacking,Brute force
+Manager,hacking,Other
+Manager,hacking,Path traversal
+Manager,hacking,URL redirector abuse
+Manager,hacking,DoS
+Manager,hacking,Use of backdoor or C2
+Manager,hacking,Mail command injection
+Manager,hacking,Session fixation
+Manager,hacking,RFI
+Manager,hacking,Abuse of functionality
+Manager,physical,Skimmer
+Manager,physical,Bypassed controls
+Manager,physical,Snooping
+Manager,physical,Tampering
+Manager,physical,Unknown
+Manager,physical,Assault
+Manager,physical,Surveillance
+Manager,physical,Connection
+Manager,physical,Other
+Manager,physical,Wiretapping
+Manager,physical,Theft
+Manager,physical,Destruction
+Manager,physical,Disabled controls
+Camera,malware,Spam
+Camera,malware,Unknown
+Camera,malware,Packet sniffer
+Camera,malware,Backdoor
+Camera,malware,Exploit vuln
+Camera,malware,Other
+Camera,malware,Password dumper
+Camera,malware,Scan network
+Camera,malware,Downloader
+Camera,malware,Click fraud
+Camera,malware,Adware
+Camera,malware,C2
+Camera,malware,Worm
+Camera,malware,Spyware/Keylogger
+Camera,malware,Brute force
+Camera,malware,Capture app data
+Camera,malware,DoS
+Camera,malware,Disable controls
+Camera,malware,Capture stored data
+Camera,malware,Ransomware
+Camera,malware,Export data
+Camera,malware,Client-side attack
+Camera,malware,Rootkit
+Camera,malware,Destroy data
+Camera,malware,Ram scraper
+Camera,error,Disposal error
+Camera,error,Physical accidents
+Camera,error,Loss
+Camera,error,Unknown
+Camera,error,Misdelivery
+Camera,error,Misinformation
+Camera,error,Publishing error
+Camera,error,Malfunction
+Camera,error,Other
+Camera,error,Programming error
+Camera,error,Data entry error
+Camera,error,Omission
+Camera,error,Gaffe
+Camera,error,Misconfiguration
+Camera,error,Classification error
+Camera,environmental,Unknown
+Camera,environmental,Power failure
+Camera,social,Scam
+Camera,social,Forgery
+Camera,social,Phishing
+Camera,social,Unknown
+Camera,social,Influence
+Camera,social,Pretexting
+Camera,social,Bribery
+Camera,social,Other
+Camera,social,Extortion
+Camera,social,Elicitation
+Camera,social,Baiting
+Camera,misuse,Unapproved software
+Camera,misuse,Illicit content
+Camera,misuse,Unapproved workaround
+Camera,misuse,Unapproved hardware
+Camera,misuse,Unknown
+Camera,misuse,Email misuse
+Camera,misuse,Possession abuse
+Camera,misuse,Other
+Camera,misuse,Net misuse
+Camera,misuse,Data mishandling
+Camera,misuse,Privilege abuse
+Camera,misuse,Knowledge abuse
+Camera,hacking,MitM
+Camera,hacking,XSS
+Camera,hacking,Footprinting
+Camera,hacking,Forced browsing
+Camera,hacking,SSI injection
+Camera,hacking,Unknown
+Camera,hacking,Buffer overflow
+Camera,hacking,Use of stolen creds
+Camera,hacking,Cryptanalysis
+Camera,hacking,SQLi
+Camera,hacking,Brute force
+Camera,hacking,Other
+Camera,hacking,Path traversal
+Camera,hacking,URL redirector abuse
+Camera,hacking,DoS
+Camera,hacking,Use of backdoor or C2
+Camera,hacking,Mail command injection
+Camera,hacking,Session fixation
+Camera,hacking,RFI
+Camera,hacking,Abuse of functionality
+Camera,physical,Skimmer
+Camera,physical,Theft
+Camera,physical,Snooping
+Camera,physical,Tampering
+Camera,physical,Unknown
+Camera,physical,Connection
+Camera,physical,Surveillance
+Camera,physical,Assault
+Camera,physical,Other
+Camera,physical,Wiretapping
+Camera,physical,Bypassed controls
+Camera,physical,Destruction
+Camera,physical,Disabled controls
+Access reader,malware,Spam
+Access reader,malware,Unknown
+Access reader,malware,Packet sniffer
+Access reader,malware,Backdoor
+Access reader,malware,Exploit vuln
+Access reader,malware,Other
+Access reader,malware,Password dumper
+Access reader,malware,Scan network
+Access reader,malware,Downloader
+Access reader,malware,C2
+Access reader,malware,Worm
+Access reader,malware,Spyware/Keylogger
+Access reader,malware,Brute force
+Access reader,malware,Capture app data
+Access reader,malware,Disable controls
+Access reader,malware,Capture stored data
+Access reader,malware,Ransomware
+Access reader,malware,Export data
+Access reader,malware,Client-side attack
+Access reader,malware,Rootkit
+Access reader,malware,Destroy data
+Access reader,malware,Ram scraper
+Access reader,social,Pretexting
+Access reader,social,Phishing
+Access reader,social,Bribery
+Access reader,social,Other
+Access reader,social,Extortion
+Access reader,social,Baiting
+Access reader,environmental,Power failure
+Access reader,error,Disposal error
+Access reader,error,Loss
+Access reader,error,Misconfiguration
+Access reader,error,Unknown
+Access reader,error,Misdelivery
+Access reader,error,Physical accidents
+Access reader,error,Publishing error
+Access reader,error,Malfunction
+Access reader,error,Other
+Access reader,error,Programming error
+Access reader,error,Gaffe
+Access reader,misuse,Unapproved software
+Access reader,misuse,Unapproved hardware
+Access reader,misuse,Email misuse
+Access reader,misuse,Possession abuse
+Access reader,misuse,Net misuse
+Access reader,misuse,Data mishandling
+Access reader,misuse,Privilege abuse
+Access reader,misuse,Knowledge abuse
+Access reader,hacking,XSS
+Access reader,hacking,Forced browsing
+Access reader,hacking,SQLi
+Access reader,hacking,Unknown
+Access reader,hacking,Footprinting
+Access reader,hacking,Use of stolen creds
+Access reader,hacking,SSI injection
+Access reader,hacking,Brute force
+Access reader,hacking,Other
+Access reader,hacking,Path traversal
+Access reader,hacking,DoS
+Access reader,hacking,Use of backdoor or C2
+Access reader,hacking,Mail command injection
+Access reader,physical,Skimmer
+Access reader,physical,Theft
+Access reader,physical,Tampering
+Access reader,physical,Unknown
+Access reader,physical,Surveillance
+Access reader,physical,Wiretapping
+Access reader,physical,Bypassed controls
+Access reader,physical,Disabled controls
+Mobile phone,malware,Spam
+Mobile phone,malware,Unknown
+Mobile phone,malware,Packet sniffer
+Mobile phone,malware,Backdoor
+Mobile phone,malware,Exploit vuln
+Mobile phone,malware,Other
+Mobile phone,malware,Password dumper
+Mobile phone,malware,Scan network
+Mobile phone,malware,Downloader
+Mobile phone,malware,Adminware
+Mobile phone,malware,Click fraud
+Mobile phone,malware,Adware
+Mobile phone,malware,C2
+Mobile phone,malware,Worm
+Mobile phone,malware,Spyware/Keylogger
+Mobile phone,malware,Brute force
+Mobile phone,malware,Capture app data
+Mobile phone,malware,DoS
+Mobile phone,malware,Disable controls
+Mobile phone,malware,Capture stored data
+Mobile phone,malware,Ransomware
+Mobile phone,malware,Export data
+Mobile phone,malware,Client-side attack
+Mobile phone,malware,Rootkit
+Mobile phone,malware,Destroy data
+Mobile phone,malware,Ram scraper
+Mobile phone,social,Scam
+Mobile phone,social,Forgery
+Mobile phone,social,Phishing
+Mobile phone,social,Unknown
+Mobile phone,social,Influence
+Mobile phone,social,Propaganda
+Mobile phone,social,Pretexting
+Mobile phone,social,Bribery
+Mobile phone,social,Other
+Mobile phone,social,Extortion
+Mobile phone,social,Elicitation
+Mobile phone,social,Baiting
+Mobile phone,environmental,Unknown
+Mobile phone,environmental,Power failure
+Mobile phone,environmental,Humidity
+Mobile phone,error,Loss
+Mobile phone,error,Physical accidents
+Mobile phone,error,Misconfiguration
+Mobile phone,error,Unknown
+Mobile phone,error,Misdelivery
+Mobile phone,error,Misinformation
+Mobile phone,error,Publishing error
+Mobile phone,error,Malfunction
+Mobile phone,error,Disposal error
+Mobile phone,error,Other
+Mobile phone,error,Programming error
+Mobile phone,error,Data entry error
+Mobile phone,error,Omission
+Mobile phone,error,Gaffe
+Mobile phone,error,Maintenance error
+Mobile phone,error,Classification error
+Mobile phone,misuse,Unapproved software
+Mobile phone,misuse,Illicit content
+Mobile phone,misuse,Unapproved workaround
+Mobile phone,misuse,Unapproved hardware
+Mobile phone,misuse,Unknown
+Mobile phone,misuse,Email misuse
+Mobile phone,misuse,Possession abuse
+Mobile phone,misuse,Other
+Mobile phone,misuse,Net misuse
+Mobile phone,misuse,Data mishandling
+Mobile phone,misuse,Privilege abuse
+Mobile phone,misuse,Knowledge abuse
+Mobile phone,hacking,MitM
+Mobile phone,hacking,XSS
+Mobile phone,hacking,Footprinting
+Mobile phone,hacking,Forced browsing
+Mobile phone,hacking,SSI injection
+Mobile phone,hacking,Unknown
+Mobile phone,hacking,Buffer overflow
+Mobile phone,hacking,Use of stolen creds
+Mobile phone,hacking,Cryptanalysis
+Mobile phone,hacking,SQLi
+Mobile phone,hacking,Brute force
+Mobile phone,hacking,Other
+Mobile phone,hacking,Path traversal
+Mobile phone,hacking,URL redirector abuse
+Mobile phone,hacking,DoS
+Mobile phone,hacking,Use of backdoor or C2
+Mobile phone,hacking,Mail command injection
+Mobile phone,hacking,Session fixation
+Mobile phone,hacking,RFI
+Mobile phone,hacking,Abuse of functionality
+Mobile phone,physical,Skimmer
+Mobile phone,physical,Theft
+Mobile phone,physical,Snooping
+Mobile phone,physical,Tampering
+Mobile phone,physical,Unknown
+Mobile phone,physical,Assault
+Mobile phone,physical,Surveillance
+Mobile phone,physical,Connection
+Mobile phone,physical,Other
+Mobile phone,physical,Wiretapping
+Mobile phone,physical,Bypassed controls
+Mobile phone,physical,Destruction
+Mobile phone,physical,Disabled controls
+Partner,malware,Spam
+Partner,malware,Unknown
+Partner,malware,Packet sniffer
+Partner,malware,Backdoor
+Partner,malware,Exploit vuln
+Partner,malware,Other
+Partner,malware,Password dumper
+Partner,malware,Scan network
+Partner,malware,Downloader
+Partner,malware,Click fraud
+Partner,malware,Adware
+Partner,malware,C2
+Partner,malware,Worm
+Partner,malware,Spyware/Keylogger
+Partner,malware,Brute force
+Partner,malware,Capture app data
+Partner,malware,DoS
+Partner,malware,Disable controls
+Partner,malware,Capture stored data
+Partner,malware,Ransomware
+Partner,malware,Export data
+Partner,malware,Client-side attack
+Partner,malware,Rootkit
+Partner,malware,Destroy data
+Partner,malware,Ram scraper
+Partner,social,Scam
+Partner,social,Phishing
+Partner,social,Unknown
+Partner,social,Influence
+Partner,social,Propaganda
+Partner,social,Forgery
+Partner,social,Bribery
+Partner,social,Other
+Partner,social,Pretexting
+Partner,social,Extortion
+Partner,social,Elicitation
+Partner,social,Baiting
+Partner,environmental,Unknown
+Partner,environmental,Power failure
+Partner,environmental,Humidity
+Partner,error,Disposal error
+Partner,error,Physical accidents
+Partner,error,Loss
+Partner,error,Unknown
+Partner,error,Misdelivery
+Partner,error,Misinformation
+Partner,error,Publishing error
+Partner,error,Malfunction
+Partner,error,Other
+Partner,error,Programming error
+Partner,error,Data entry error
+Partner,error,Omission
+Partner,error,Gaffe
+Partner,error,Misconfiguration
+Partner,error,Maintenance error
+Partner,error,Classification error
+Partner,misuse,Unapproved software
+Partner,misuse,Illicit content
+Partner,misuse,Unapproved workaround
+Partner,misuse,Unapproved hardware
+Partner,misuse,Unknown
+Partner,misuse,Email misuse
+Partner,misuse,Possession abuse
+Partner,misuse,Other
+Partner,misuse,Net misuse
+Partner,misuse,Data mishandling
+Partner,misuse,Privilege abuse
+Partner,misuse,Knowledge abuse
+Partner,hacking,MitM
+Partner,hacking,XSS
+Partner,hacking,Footprinting
+Partner,hacking,Forced browsing
+Partner,hacking,SSI injection
+Partner,hacking,Unknown
+Partner,hacking,Buffer overflow
+Partner,hacking,Use of stolen creds
+Partner,hacking,Cryptanalysis
+Partner,hacking,SQLi
+Partner,hacking,Brute force
+Partner,hacking,Other
+Partner,hacking,Path traversal
+Partner,hacking,URL redirector abuse
+Partner,hacking,DoS
+Partner,hacking,Use of backdoor or C2
+Partner,hacking,Mail command injection
+Partner,hacking,Session fixation
+Partner,hacking,RFI
+Partner,hacking,Abuse of functionality
+Partner,physical,Skimmer
+Partner,physical,Theft
+Partner,physical,Snooping
+Partner,physical,Tampering
+Partner,physical,Unknown
+Partner,physical,Connection
+Partner,physical,Surveillance
+Partner,physical,Assault
+Partner,physical,Other
+Partner,physical,Wiretapping
+Partner,physical,Bypassed controls
+Partner,physical,Destruction
+Partner,physical,Disabled controls
+Private WAN,malware,Spam
+Private WAN,malware,Unknown
+Private WAN,malware,Packet sniffer
+Private WAN,malware,Backdoor
+Private WAN,malware,Exploit vuln
+Private WAN,malware,Other
+Private WAN,malware,Password dumper
+Private WAN,malware,Scan network
+Private WAN,malware,Downloader
+Private WAN,malware,C2
+Private WAN,malware,Worm
+Private WAN,malware,Spyware/Keylogger
+Private WAN,malware,Brute force
+Private WAN,malware,Capture app data
+Private WAN,malware,Ram scraper
+Private WAN,malware,Disable controls
+Private WAN,malware,Capture stored data
+Private WAN,malware,Ransomware
+Private WAN,malware,Export data
+Private WAN,malware,Client-side attack
+Private WAN,malware,Rootkit
+Private WAN,malware,Destroy data
+Private WAN,malware,DoS
+Private WAN,error,Loss
+Private WAN,error,Omission
+Private WAN,error,Malfunction
+Private WAN,error,Unknown
+Private WAN,error,Misdelivery
+Private WAN,error,Physical accidents
+Private WAN,error,Publishing error
+Private WAN,error,Disposal error
+Private WAN,error,Other
+Private WAN,error,Programming error
+Private WAN,error,Data entry error
+Private WAN,error,Gaffe
+Private WAN,error,Misconfiguration
+Private WAN,error,Classification error
+Private WAN,environmental,Unknown
+Private WAN,environmental,Power failure
+Private WAN,social,Phishing
+Private WAN,social,Unknown
+Private WAN,social,Influence
+Private WAN,social,Forgery
+Private WAN,social,Bribery
+Private WAN,social,Other
+Private WAN,social,Pretexting
+Private WAN,social,Extortion
+Private WAN,social,Elicitation
+Private WAN,social,Baiting
+Private WAN,misuse,Unapproved software
+Private WAN,misuse,Unapproved workaround
+Private WAN,misuse,Unapproved hardware
+Private WAN,misuse,Unknown
+Private WAN,misuse,Email misuse
+Private WAN,misuse,Possession abuse
+Private WAN,misuse,Other
+Private WAN,misuse,Net misuse
+Private WAN,misuse,Data mishandling
+Private WAN,misuse,Privilege abuse
+Private WAN,misuse,Knowledge abuse
+Private WAN,hacking,MitM
+Private WAN,hacking,XSS
+Private WAN,hacking,Footprinting
+Private WAN,hacking,Forced browsing
+Private WAN,hacking,SSI injection
+Private WAN,hacking,Unknown
+Private WAN,hacking,Buffer overflow
+Private WAN,hacking,Use of stolen creds
+Private WAN,hacking,Cryptanalysis
+Private WAN,hacking,SQLi
+Private WAN,hacking,Brute force
+Private WAN,hacking,Other
+Private WAN,hacking,Path traversal
+Private WAN,hacking,DoS
+Private WAN,hacking,RFI
+Private WAN,hacking,Mail command injection
+Private WAN,hacking,Use of backdoor or C2
+Private WAN,hacking,Abuse of functionality
+Private WAN,physical,Skimmer
+Private WAN,physical,Theft
+Private WAN,physical,Snooping
+Private WAN,physical,Tampering
+Private WAN,physical,Unknown
+Private WAN,physical,Surveillance
+Private WAN,physical,Other
+Private WAN,physical,Wiretapping
+Private WAN,physical,Bypassed controls
+Private WAN,physical,Destruction
+Private WAN,physical,Disabled controls
+Peripheral,malware,Spam
+Peripheral,malware,Unknown
+Peripheral,malware,Packet sniffer
+Peripheral,malware,Backdoor
+Peripheral,malware,Exploit vuln
+Peripheral,malware,Other
+Peripheral,malware,Password dumper
+Peripheral,malware,Scan network
+Peripheral,malware,Downloader
+Peripheral,malware,C2
+Peripheral,malware,Worm
+Peripheral,malware,Spyware/Keylogger
+Peripheral,malware,Brute force
+Peripheral,malware,Capture app data
+Peripheral,malware,Ram scraper
+Peripheral,malware,Disable controls
+Peripheral,malware,Capture stored data
+Peripheral,malware,Ransomware
+Peripheral,malware,Export data
+Peripheral,malware,Client-side attack
+Peripheral,malware,Rootkit
+Peripheral,malware,Destroy data
+Peripheral,malware,DoS
+Peripheral,error,Disposal error
+Peripheral,error,Omission
+Peripheral,error,Loss
+Peripheral,error,Unknown
+Peripheral,error,Misdelivery
+Peripheral,error,Physical accidents
+Peripheral,error,Publishing error
+Peripheral,error,Malfunction
+Peripheral,error,Other
+Peripheral,error,Programming error
+Peripheral,error,Data entry error
+Peripheral,error,Gaffe
+Peripheral,error,Misconfiguration
+Peripheral,error,Classification error
+Peripheral,environmental,Unknown
+Peripheral,environmental,Power failure
+Peripheral,social,Forgery
+Peripheral,social,Phishing
+Peripheral,social,Unknown
+Peripheral,social,Influence
+Peripheral,social,Pretexting
+Peripheral,social,Bribery
+Peripheral,social,Other
+Peripheral,social,Extortion
+Peripheral,social,Elicitation
+Peripheral,social,Baiting
+Peripheral,misuse,Unapproved software
+Peripheral,misuse,Unapproved workaround
+Peripheral,misuse,Unapproved hardware
+Peripheral,misuse,Unknown
+Peripheral,misuse,Email misuse
+Peripheral,misuse,Possession abuse
+Peripheral,misuse,Other
+Peripheral,misuse,Net misuse
+Peripheral,misuse,Data mishandling
+Peripheral,misuse,Privilege abuse
+Peripheral,misuse,Knowledge abuse
+Peripheral,hacking,MitM
+Peripheral,hacking,XSS
+Peripheral,hacking,Footprinting
+Peripheral,hacking,Forced browsing
+Peripheral,hacking,SSI injection
+Peripheral,hacking,Unknown
+Peripheral,hacking,Buffer overflow
+Peripheral,hacking,Use of stolen creds
+Peripheral,hacking,Cryptanalysis
+Peripheral,hacking,SQLi
+Peripheral,hacking,Brute force
+Peripheral,hacking,Other
+Peripheral,hacking,Path traversal
+Peripheral,hacking,DoS
+Peripheral,hacking,Use of backdoor or C2
+Peripheral,hacking,Mail command injection
+Peripheral,hacking,RFI
+Peripheral,hacking,Abuse of functionality
+Peripheral,physical,Skimmer
+Peripheral,physical,Wiretapping
+Peripheral,physical,Snooping
+Peripheral,physical,Tampering
+Peripheral,physical,Unknown
+Peripheral,physical,Surveillance
+Peripheral,physical,Other
+Peripheral,physical,Destruction
+Peripheral,physical,Bypassed controls
+Peripheral,physical,Theft
+Peripheral,physical,Disabled controls
+Code repository,malware,Spam
+Code repository,malware,Unknown
+Code repository,malware,Packet sniffer
+Code repository,malware,Backdoor
+Code repository,malware,Exploit vuln
+Code repository,malware,Other
+Code repository,malware,Password dumper
+Code repository,malware,Scan network
+Code repository,malware,Downloader
+Code repository,malware,Click fraud
+Code repository,malware,Adware
+Code repository,malware,C2
+Code repository,malware,Worm
+Code repository,malware,Spyware/Keylogger
+Code repository,malware,Brute force
+Code repository,malware,Capture app data
+Code repository,malware,DoS
+Code repository,malware,Disable controls
+Code repository,malware,Capture stored data
+Code repository,malware,Ransomware
+Code repository,malware,Export data
+Code repository,malware,Client-side attack
+Code repository,malware,Rootkit
+Code repository,malware,Destroy data
+Code repository,malware,Ram scraper
+Code repository,error,Disposal error
+Code repository,error,Loss
+Code repository,error,Physical accidents
+Code repository,error,Misconfiguration
+Code repository,error,Unknown
+Code repository,error,Misdelivery
+Code repository,error,Misinformation
+Code repository,error,Publishing error
+Code repository,error,Malfunction
+Code repository,error,Other
+Code repository,error,Programming error
+Code repository,error,Data entry error
+Code repository,error,Omission
+Code repository,error,Gaffe
+Code repository,error,Classification error
+Code repository,environmental,Unknown
+Code repository,environmental,Power failure
+Code repository,social,Scam
+Code repository,social,Forgery
+Code repository,social,Phishing
+Code repository,social,Unknown
+Code repository,social,Influence
+Code repository,social,Pretexting
+Code repository,social,Bribery
+Code repository,social,Other
+Code repository,social,Extortion
+Code repository,social,Elicitation
+Code repository,social,Baiting
+Code repository,misuse,Unapproved software
+Code repository,misuse,Illicit content
+Code repository,misuse,Unapproved workaround
+Code repository,misuse,Unapproved hardware
+Code repository,misuse,Unknown
+Code repository,misuse,Email misuse
+Code repository,misuse,Possession abuse
+Code repository,misuse,Other
+Code repository,misuse,Net misuse
+Code repository,misuse,Data mishandling
+Code repository,misuse,Privilege abuse
+Code repository,misuse,Knowledge abuse
+Code repository,hacking,MitM
+Code repository,hacking,XSS
+Code repository,hacking,Footprinting
+Code repository,hacking,Forced browsing
+Code repository,hacking,SSI injection
+Code repository,hacking,Unknown
+Code repository,hacking,Buffer overflow
+Code repository,hacking,Use of stolen creds
+Code repository,hacking,Cryptanalysis
+Code repository,hacking,SQLi
+Code repository,hacking,Brute force
+Code repository,hacking,Other
+Code repository,hacking,Path traversal
+Code repository,hacking,URL redirector abuse
+Code repository,hacking,DoS
+Code repository,hacking,Use of backdoor or C2
+Code repository,hacking,Mail command injection
+Code repository,hacking,Session fixation
+Code repository,hacking,RFI
+Code repository,hacking,Abuse of functionality
+Code repository,physical,Skimmer
+Code repository,physical,Theft
+Code repository,physical,Snooping
+Code repository,physical,Tampering
+Code repository,physical,Unknown
+Code repository,physical,Surveillance
+Code repository,physical,Assault
+Code repository,physical,Other
+Code repository,physical,Wiretapping
+Code repository,physical,Bypassed controls
+Code repository,physical,Destruction
+Code repository,physical,Disabled controls

@@ -1,0 +1,2011 @@
+C:\Python27\python.exe C:/Users/adutta6/PycharmProjects/CyberARMDeployed/CyberARMPowerPlant.py
+The Power Plant has started
+Asset Name : database ----> 
+
+                  Threat ---> 
+                         malware : 151211.801897
+                         social : 156743.940991
+                         environmental : 1844.04636459
+                         error : 330084.299262
+                         misuse : 1873551.10643
+                         hacking : 907270.81138
+                         physical : 79293.9936776
+
+                  Threat Action---> 
+                         misconfiguration : 110797.527025
+                         capture stored data : 14401.1239902
+                         omission : 6924.84543907
+                         bypassed controls : 9220.23182297
+                         ransomware : 68405.3389533
+                         pretexting : 9920.50259434
+                         buffer overflow : 11937.773834
+                         email misuse : 14869.4532256
+                         influence : 5952.3015566
+                         use of stolen creds : 304413.232766
+                         possession abuse : 124531.670765
+                         sqli : 286506.572015
+                         bribery : 63491.2166038
+                         wiretapping : 1844.04636459
+                         data entry error : 4616.56362605
+                         use of backdoor or c2 : 23875.5476679
+                         os commanding : 5968.88691698
+                         session replay : 5968.88691698
+                         forgery : 3968.20103773
+                         unknown : 0.0
+                         unapproved hardware : 14869.4532256
+                         connection : 1844.04636459
+                         backdoor : 25201.9669828
+                         exploit vuln : 3600.28099754
+                         other : 60414.0546308
+                         password dumper : 3600.28099754
+                         session prediction : 5968.88691698
+                         malfunction : 23082.8181302
+                         data mishandling : 120814.307458
+                         privilege abuse : 1440478.28123
+                         knowledge abuse : 137542.442337
+                         abuse of functionality : 71626.6430037
+                         disabled controls : 3688.09272919
+                         xss : 11937.773834
+                         downloader : 3600.28099754
+                         fire : 1844.04636459
+                         misdelivery : 60015.3271386
+                         footprinting : 5968.88691698
+                         adminware : 7200.56199508
+                         spyware/keylogger : 14401.1239902
+                         url redirector abuse : 5968.88691698
+                         assault : 25816.6491043
+                         programming error : 18466.2545042
+                         theft : 36880.9272919
+                         net misuse : 3717.3633064
+                         gaffe : 9233.12725209
+                         c2 : 10800.8429926
+                         cryptanalysis : 5968.88691698
+                         extortion : 9920.50259434
+                         forced browsing : 17906.6607509
+                         loss : 2308.28181302
+                         unapproved workaround : 14869.4532256
+                         phishing : 55554.8145283
+                         publishing error : 73865.0180168
+                         reverse engineering : 5968.88691698
+                         ssi injection : 17906.6607509
+                         brute force : 71626.6430037
+                         dos : 17906.6607509
+Asset Name : laptop ----> 
+
+                  Threat ---> 
+                         malware : 31691.0785619
+                         error : 32623.1691079
+                         social : 13049.2676431
+                         misuse : 26098.5352863
+                         hacking : 22370.1731025
+                         physical : 574167.776298
+
+                  Threat Action---> 
+                         misconfiguration : 1919.00994752
+                         omission : 1919.00994752
+                         ransomware : 19014.6471372
+                         pretexting : 1864.18109188
+                         email misuse : 1864.18109188
+                         possession abuse : 932.090545939
+                         bribery : 1864.18109188
+                         bypassed controls : 15871.3043855
+                         disposal error : 2878.51492128
+                         unknown : 0.0
+                         unapproved hardware : 1864.18109188
+                         backdoor : 2535.28628495
+                         other : 14988.0159787
+                         data mishandling : 5592.54327563
+                         privilege abuse : 12117.1770972
+                         knowledge abuse : 1864.18109188
+                         disabled controls : 68153.2482435
+                         unapproved software : 1864.18109188
+                         spyware/keylogger : 5070.57256991
+                         assault : 2800.81842097
+                         theft : 486408.799108
+                         extortion : 932.090545939
+                         loss : 25906.6342915
+                         snooping : 933.606140322
+                         phishing : 8388.81491345
+                         worm : 1267.64314248
+                         ssi injection : 11185.0865513
+
+Primary Key : 0 == ID : 0
+Version : 1.1
+Expense : 1998
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 27 --> TA_Name : unapproved hardware
+                     ID : 54 --> TA_Name : wiretapping
+
+Primary Key : 1 == ID : 1
+Version : 1.2
+Expense : 4913
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 27 --> TA_Name : unapproved hardware
+                     ID : 29 --> TA_Name : possession abuse
+                     ID : 26 --> TA_Name : unapproved workaround
+
+Primary Key : 2 == ID : 2
+Version : 1.3
+Expense : 4283
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 29 --> TA_Name : possession abuse
+                     ID : 27 --> TA_Name : unapproved hardware
+                     ID : 54 --> TA_Name : wiretapping
+
+Primary Key : 3 == ID : 3
+Version : 1.4
+Expense : 3703
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 29 --> TA_Name : possession abuse
+                     ID : 27 --> TA_Name : unapproved hardware
+                     ID : 26 --> TA_Name : unapproved workaround
+
+Primary Key : 4 == ID : 4
+Version : 1.5
+Expense : 3801
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 27 --> TA_Name : unapproved hardware
+                     ID : 29 --> TA_Name : possession abuse
+
+Primary Key : 5 == ID : 5
+Version : 1.6
+Expense : 1657
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 27 --> TA_Name : unapproved hardware
+                     ID : 29 --> TA_Name : possession abuse
+
+Primary Key : 6 == ID : 6
+Version : 2.1
+Expense : 2119
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 59 --> TA_Name : unapproved software
+                     ID : 6 --> TA_Name : exploit vuln
+                     ID : 4 --> TA_Name : spyware/keylogger
+
+Primary Key : 7 == ID : 7
+Version : 2.2
+Expense : 4818
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 1 --> TA_Name : downloader
+                     ID : 3 --> TA_Name : adminware
+
+Primary Key : 8 == ID : 8
+Version : 2.4
+Expense : 1949
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 44 --> TA_Name : abuse of functionality
+
+Primary Key : 9 == ID : 9
+Version : 3.1
+Expense : 4274
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 55 --> TA_Name : bypassed controls
+                     ID : 17 --> TA_Name : misconfiguration
+
+Primary Key : 10 == ID : 10
+Version : 3.2
+Expense : 3205
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 17 --> TA_Name : misconfiguration
+                     ID : 6 --> TA_Name : exploit vuln
+
+Primary Key : 11 == ID : 11
+Version : 3.4
+Expense : 4169
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 60 --> TA_Name : snooping
+                     ID : 54 --> TA_Name : wiretapping
+
+Primary Key : 12 == ID : 12
+Version : 3.5
+Expense : 4258
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 12 --> TA_Name : forgery
+
+Primary Key : 13 == ID : 15
+Version : 3.6
+Expense : 1917
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 14 == ID : 14
+Version : 3.7
+Expense : 3578
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 5 --> TA_Name : backdoor
+                     ID : 56 --> TA_Name : disabled controls
+
+Primary Key : 15 == ID : 15
+Version : 3.6
+Expense : 4957
+Number of Threat Action : 4
+Threat Action --> 
+                     ID : 48 --> TA_Name : use of backdoor or c2
+                     ID : 5 --> TA_Name : backdoor
+                     ID : 8 --> TA_Name : c2
+                     ID : 52 --> TA_Name : connection
+
+Primary Key : 16 == ID : 17
+Version : 4.1
+Expense : 3185
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 17 == ID : 17
+Version : 4.1
+Expense : 4812
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 6 --> TA_Name : exploit vuln
+                     ID : 38 --> TA_Name : footprinting
+
+Primary Key : 18 == ID : 19
+Version : 4.2
+Expense : 4485
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 19 == ID : 19
+Version : 4.2
+Expense : 4036
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 20 == ID : 20
+Version : 4.3
+Expense : 2949
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 6 --> TA_Name : exploit vuln
+
+Primary Key : 21 == ID : 22
+Version : 4.4
+Expense : 2505
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 22 == ID : 22
+Version : 4.4
+Expense : 4332
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 6 --> TA_Name : exploit vuln
+
+Primary Key : 23 == ID : 24
+Version : 4.5
+Expense : 4692
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 24 == ID : 24
+Version : 4.5
+Expense : 1142
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 6 --> TA_Name : exploit vuln
+
+Primary Key : 25 == ID : 26
+Version : 4.7
+Expense : 3972
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 26 == ID : 26
+Version : 4.7
+Expense : 4097
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 6 --> TA_Name : exploit vuln
+
+Primary Key : 27 == ID : 27
+Version : 4.8
+Expense : 2910
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 14 --> TA_Name : other
+
+Primary Key : 28 == ID : 30
+Version : 5.1
+Expense : 3861
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 29 == ID : 30
+Version : 5.1
+Expense : 2092
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 30 == ID : 30
+Version : 5.1
+Expense : 1028
+Number of Threat Action : 4
+Threat Action --> 
+                     ID : 29 --> TA_Name : possession abuse
+                     ID : 26 --> TA_Name : unapproved workaround
+                     ID : 56 --> TA_Name : disabled controls
+                     ID : 32 --> TA_Name : privilege abuse
+
+Primary Key : 31 == ID : 31
+Version : 5.2
+Expense : 3608
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 29 --> TA_Name : possession abuse
+
+Primary Key : 32 == ID : 33
+Version : 5.3
+Expense : 3751
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 33 == ID : 33
+Version : 5.3
+Expense : 2129
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 43 --> TA_Name : brute force
+                     ID : 40 --> TA_Name : cryptanalysis
+
+Primary Key : 34 == ID : 34
+Version : 5.4
+Expense : 4419
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 26 --> TA_Name : unapproved workaround
+
+Primary Key : 35 == ID : 36
+Version : 5.5
+Expense : 4439
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 36 == ID : 36
+Version : 5.5
+Expense : 4239
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 43 --> TA_Name : brute force
+
+Primary Key : 37 == ID : 38
+Version : 5.6
+Expense : 4622
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 38 == ID : 38
+Version : 5.6
+Expense : 2376
+Number of Threat Action : 5
+Threat Action --> 
+                     ID : 43 --> TA_Name : brute force
+                     ID : 4 --> TA_Name : spyware/keylogger
+                     ID : 39 --> TA_Name : use of stolen creds
+                     ID : 19 --> TA_Name : loss
+                     ID : 51 --> TA_Name : theft
+
+Primary Key : 39 == ID : 40
+Version : 5.7
+Expense : 3766
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 40 == ID : 40
+Version : 5.7
+Expense : 1223
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 43 --> TA_Name : brute force
+                     ID : 40 --> TA_Name : cryptanalysis
+
+Primary Key : 41 == ID : 41
+Version : 5.8
+Expense : 2546
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 42 == ID : 42
+Version : 5.9
+Expense : 4875
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 31 --> TA_Name : data mishandling
+
+Primary Key : 43 == ID : 43
+Version : 6.1
+Expense : 2173
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 44 == ID : 44
+Version : 6.2
+Expense : 4929
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 45 == ID : 45
+Version : 6.4
+Expense : 1987
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 20 --> TA_Name : misdelivery
+                     ID : 30 --> TA_Name : net misuse
+                     ID : 47 --> TA_Name : dos
+
+Primary Key : 46 == ID : 46
+Version : 6.5
+Expense : 1082
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 55 --> TA_Name : bypassed controls
+                     ID : 56 --> TA_Name : disabled controls
+
+Primary Key : 47 == ID : 47
+Version : 6.6
+Expense : 4561
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 55 --> TA_Name : bypassed controls
+                     ID : 56 --> TA_Name : disabled controls
+                     ID : 30 --> TA_Name : net misuse
+
+Primary Key : 48 == ID : 48
+Version : 7.1
+Expense : 1493
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 1 --> TA_Name : downloader
+
+Primary Key : 49 == ID : 49
+Version : 7.2
+Expense : 4150
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 36 --> TA_Name : forced browsing
+                     ID : 42 --> TA_Name : ssi injection
+
+Primary Key : 50 == ID : 50
+Version : 7.3
+Expense : 2729
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 37 --> TA_Name : sqli
+                     ID : 34 --> TA_Name : xss
+
+Primary Key : 51 == ID : 51
+Version : 7.4
+Expense : 4661
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 9 --> TA_Name : phishing
+                     ID : 8 --> TA_Name : c2
+                     ID : 52 --> TA_Name : connection
+
+Primary Key : 52 == ID : 52
+Version : 7.5
+Expense : 2478
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 52 --> TA_Name : connection
+
+Primary Key : 53 == ID : 53
+Version : 7.6
+Expense : 1083
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 8 --> TA_Name : c2
+
+Primary Key : 54 == ID : 54
+Version : 7.7
+Expense : 3509
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 9 --> TA_Name : phishing
+
+Primary Key : 55 == ID : 55
+Version : 7.8
+Expense : 1453
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 9 --> TA_Name : phishing
+                     ID : 34 --> TA_Name : xss
+
+Primary Key : 56 == ID : 56
+Version : 8.1
+Expense : 1410
+Number of Threat Action : 5
+Threat Action --> 
+                     ID : 3 --> TA_Name : adminware
+                     ID : 7 --> TA_Name : password dumper
+                     ID : 2 --> TA_Name : ransomware
+                     ID : 4 --> TA_Name : spyware/keylogger
+                     ID : 57 --> TA_Name : worm
+
+Primary Key : 57 == ID : 57
+Version : 8.2
+Expense : 2473
+Number of Threat Action : 5
+Threat Action --> 
+                     ID : 3 --> TA_Name : adminware
+                     ID : 7 --> TA_Name : password dumper
+                     ID : 2 --> TA_Name : ransomware
+                     ID : 4 --> TA_Name : spyware/keylogger
+                     ID : 57 --> TA_Name : worm
+
+Primary Key : 58 == ID : 58
+Version : 8.3
+Expense : 3978
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 27 --> TA_Name : unapproved hardware
+                     ID : 26 --> TA_Name : unapproved workaround
+                     ID : 54 --> TA_Name : wiretapping
+
+Primary Key : 59 == ID : 59
+Version : 8.4
+Expense : 1957
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 60 == ID : 60
+Version : 8.5
+Expense : 2823
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 61 == ID : 61
+Version : 8.6
+Expense : 4730
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 62 == ID : 62
+Version : 9.1
+Expense : 2738
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 63 == ID : 63
+Version : 9.2
+Expense : 4319
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 64 == ID : 64
+Version : 9.3
+Expense : 3688
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 65 == ID : 65
+Version : 9.4
+Expense : 1157
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 66 == ID : 66
+Version : 9.5
+Expense : 1631
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 38 --> TA_Name : footprinting
+
+Primary Key : 67 == ID : 67
+Version : 9.6
+Expense : 1012
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 68 == ID : 69
+Version : 10.1
+Expense : 1763
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 69 == ID : 69
+Version : 10.1
+Expense : 4534
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 16 --> TA_Name : fire
+                     ID : 19 --> TA_Name : loss
+                     ID : 51 --> TA_Name : theft
+
+Primary Key : 70 == ID : 71
+Version : 10.2
+Expense : 2339
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 71 == ID : 71
+Version : 10.2
+Expense : 2383
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 72 == ID : 73
+Version : 10.3
+Expense : 4921
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 73 == ID : 73
+Version : 10.3
+Expense : 2795
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 74 == ID : 74
+Version : 10.4
+Expense : 3411
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 75 == ID : 75
+Version : 11.1
+Expense : 1068
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 76 == ID : 76
+Version : 3.3
+Expense : 4532
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 77 == ID : 77
+Version : 11.2
+Expense : 4093
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 78 == ID : 78
+Version : 11.3
+Expense : 1626
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 79 == ID : 79
+Version : 11.4
+Expense : 2378
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 80 == ID : 80
+Version : 11.5
+Expense : 3410
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 81 == ID : 81
+Version : 12.1
+Expense : 4953
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 82 == ID : 82
+Version : 12.1.2
+Expense : 2643
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 83 == ID : 83
+Version : 12.3
+Expense : 1741
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 84 == ID : 84
+Version : 12.3.2
+Expense : 4819
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 85 == ID : 85
+Version : 12.4
+Expense : 3026
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 86 == ID : 86
+Version : 12.5
+Expense : 4993
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 87 == ID : 89
+Version : 12.6
+Expense : 3693
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 88 == ID : 89
+Version : 12.6
+Expense : 3533
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 89 == ID : 89
+Version : 12.6
+Expense : 2224
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 90 == ID : 90
+Version : 12.7
+Expense : 4838
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 91 == ID : 91
+Version : 12.9
+Expense : 3014
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 47 --> TA_Name : dos
+
+Primary Key : 92 == ID : 92
+Version : 12.10
+Expense : 2567
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 93 == ID : 93
+Version : 12.2
+Expense : 4435
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 94 == ID : 94
+Version : 13.2
+Expense : 1767
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 0 --> TA_Name : capture stored data
+
+Primary Key : 95 == ID : 95
+Version : 13.3
+Expense : 2970
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 0 --> TA_Name : capture stored data
+                     ID : 28 --> TA_Name : email misuse
+                     ID : 29 --> TA_Name : possession abuse
+
+Primary Key : 96 == ID : 96
+Version : 13.4
+Expense : 3993
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 41 --> TA_Name : reverse engineering
+                     ID : 58 --> TA_Name : disposal error
+
+Primary Key : 97 == ID : 97
+Version : 13.5
+Expense : 3231
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 98 == ID : 98
+Version : 13.6
+Expense : 3989
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 99 == ID : 99
+Version : 13.7
+Expense : 4807
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 48 --> TA_Name : use of backdoor or c2
+
+Primary Key : 100 == ID : 100
+Version : 13.8
+Expense : 2231
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 101 == ID : 101
+Version : 13.9
+Expense : 3406
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 102 == ID : 102
+Version : 14.1
+Expense : 3119
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 103 == ID : 103
+Version : 14.1.2
+Expense : 2811
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 104 == ID : 104
+Version : 14.2
+Expense : 1233
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 105 == ID : 105
+Version : 14.3
+Expense : 2044
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 106 == ID : 106
+Version : 14.4
+Expense : 4493
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 33 --> TA_Name : knowledge abuse
+                     ID : 32 --> TA_Name : privilege abuse
+
+Primary Key : 107 == ID : 107
+Version : 14.5
+Expense : 2712
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 108 == ID : 108
+Version : 14.6
+Expense : 3130
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 109 == ID : 109
+Version : 14.7
+Expense : 4066
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 110 == ID : 110
+Version : 15.1
+Expense : 4810
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 111 == ID : 111
+Version : 15.2
+Expense : 4398
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 112 == ID : 112
+Version : 15.3
+Expense : 3215
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 113 == ID : 113
+Version : 15.4
+Expense : 1495
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 114 == ID : 114
+Version : 15.5
+Expense : 4944
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 115 == ID : 115
+Version : 15.6
+Expense : 2542
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 116 == ID : 116
+Version : 15.7
+Expense : 4964
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 117 == ID : 117
+Version : 15.8
+Expense : 2249
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 118 == ID : 118
+Version : 15.9
+Expense : 3042
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 119 == ID : 119
+Version : 16.1
+Expense : 3407
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 120 == ID : 120
+Version : 16.2
+Expense : 4387
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 121 == ID : 121
+Version : 16.3
+Expense : 3243
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 122 == ID : 122
+Version : 16.4
+Expense : 1210
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 45 --> TA_Name : session prediction
+                     ID : 50 --> TA_Name : session replay
+
+Primary Key : 123 == ID : 123
+Version : 16.5
+Expense : 3989
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 124 == ID : 124
+Version : 16.7
+Expense : 4526
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 125 == ID : 125
+Version : 16.8
+Expense : 3709
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 126 == ID : 126
+Version : 16.9
+Expense : 1669
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 127 == ID : 127
+Version : 16.10
+Expense : 2797
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 15 --> TA_Name : extortion
+                     ID : 28 --> TA_Name : email misuse
+
+Primary Key : 128 == ID : 128
+Version : 16.11
+Expense : 4226
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 40 --> TA_Name : cryptanalysis
+
+Primary Key : 129 == ID : 129
+Version : 16.13
+Expense : 3135
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 130 == ID : 130
+Version : 16.14
+Expense : 3415
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 131 == ID : 131
+Version : 17.1
+Expense : 1354
+Number of Threat Action : 6
+Threat Action --> 
+                     ID : 10 --> TA_Name : pretexting
+                     ID : 11 --> TA_Name : influence
+                     ID : 13 --> TA_Name : bribery
+                     ID : 15 --> TA_Name : extortion
+                     ID : 25 --> TA_Name : gaffe
+                     ID : 33 --> TA_Name : knowledge abuse
+
+Primary Key : 132 == ID : 132
+Version : 17.3
+Expense : 3893
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 133 == ID : 133
+Version : 17.4
+Expense : 1307
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 10 --> TA_Name : pretexting
+                     ID : 11 --> TA_Name : influence
+                     ID : 58 --> TA_Name : disposal error
+
+Primary Key : 134 == ID : 134
+Version : 17.5
+Expense : 1470
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 21 --> TA_Name : publishing error
+
+Primary Key : 135 == ID : 135
+Version : 18.1
+Expense : 2739
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 136 == ID : 136
+Version : 18.2
+Expense : 2776
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 137 == ID : 137
+Version : 18.2.2
+Expense : 4926
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 138 == ID : 138
+Version : 18.3
+Expense : 1940
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 22 --> TA_Name : programming error
+                     ID : 35 --> TA_Name : buffer overflow
+
+Primary Key : 139 == ID : 139
+Version : 18.4
+Expense : 4442
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 35 --> TA_Name : buffer overflow
+
+Primary Key : 140 == ID : 140
+Version : 18.5
+Expense : 2968
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 18 --> TA_Name : omission
+                     ID : 21 --> TA_Name : publishing error
+
+Primary Key : 141 == ID : 141
+Version : 18.6
+Expense : 3966
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 142 == ID : 142
+Version : 18.7
+Expense : 4062
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 143 == ID : 143
+Version : 18.8
+Expense : 4818
+Number of Threat Action : 4
+Threat Action --> 
+                     ID : 18 --> TA_Name : omission
+                     ID : 35 --> TA_Name : buffer overflow
+                     ID : 46 --> TA_Name : url redirector abuse
+                     ID : 49 --> TA_Name : os commanding
+
+Primary Key : 144 == ID : 144
+Version : 18.9
+Expense : 2350
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 145 == ID : 145
+Version : 19.1
+Expense : 2386
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 23 --> TA_Name : malfunction
+
+Primary Key : 146 == ID : 146
+Version : 19.2
+Expense : 2444
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 147 == ID : 147
+Version : 19.3
+Expense : 3911
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 148 == ID : 148
+Version : 19.4
+Expense : 1402
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 53 --> TA_Name : assault
+
+Primary Key : 149 == ID : 149
+Version : 19.6
+Expense : 4539
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 13 --> TA_Name : bribery
+                     ID : 58 --> TA_Name : disposal error
+
+Primary Key : 150 == ID : 150
+Version : 20.1
+Expense : 3632
+Number of Threat Action : 3
+Threat Action --> 
+                     ID : 24 --> TA_Name : data entry error
+                     ID : 45 --> TA_Name : session prediction
+                     ID : 46 --> TA_Name : url redirector abuse
+
+Primary Key : 151 == ID : 151
+Version : 20.2
+Expense : 2596
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 152 == ID : 152
+Version : 20.3
+Expense : 3431
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 153 == ID : 153
+Version : 20.3.2
+Expense : 4876
+Number of Threat Action : 2
+Threat Action --> 
+                     ID : 24 --> TA_Name : data entry error
+                     ID : 49 --> TA_Name : os commanding
+
+Primary Key : 154 == ID : 154
+Version : 20.3.3
+Expense : 3671
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 155 == ID : 155
+Version : 20.4
+Expense : 1297
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 156 == ID : 156
+Version : 20.5
+Expense : 2842
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 157 == ID : 157
+Version : 20.5.2
+Expense : 1405
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 158 == ID : 158
+Version : 20.5.3
+Expense : 2413
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 159 == ID : 159
+Version : 20.7
+Expense : 3021
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 160 == ID : 160
+Version : 20.7.2
+Expense : 2903
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 161 == ID : 161
+Version : 20.7.3
+Expense : 1435
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 162 == ID : 162
+Version : 20.8
+Expense : 2165
+Number of Threat Action : 0
+Threat Action --> 
+
+Primary Key : 163 == ID : 163
+Version : 17.2
+Expense : 3459
+Number of Threat Action : 1
+Threat Action --> 
+                     ID : 22 --> TA_Name : programming error
+
+Asset ID ----> 0
+
+                                  ID 32 : privilege abuse ---> Risk Value: 1440478.28123
+                                  ID 39 : use of stolen creds ---> Risk Value: 304413.232766
+                                  ID 37 : sqli ---> Risk Value: 286506.572015
+                                  ID 33 : knowledge abuse ---> Risk Value: 137542.442337
+                                  ID 29 : possession abuse ---> Risk Value: 124531.670765
+                                  ID 31 : data mishandling ---> Risk Value: 120814.307458
+                                  ID 17 : misconfiguration ---> Risk Value: 110797.527025
+                                  ID 21 : publishing error ---> Risk Value: 73865.0180168
+                                  ID 44 : abuse of functionality ---> Risk Value: 71626.6430037
+                                  ID 43 : brute force ---> Risk Value: 71626.6430037
+                                  ID 2 : ransomware ---> Risk Value: 68405.3389533
+                                  ID 13 : bribery ---> Risk Value: 63491.2166038
+                                  ID 14 : other ---> Risk Value: 60414.0546308
+                                  ID 20 : misdelivery ---> Risk Value: 60015.3271386
+                                  ID 9 : phishing ---> Risk Value: 55554.8145283
+                                  ID 51 : theft ---> Risk Value: 36880.9272919
+                                  ID 53 : assault ---> Risk Value: 25816.6491043
+                                  ID 5 : backdoor ---> Risk Value: 25201.9669828
+                                  ID 48 : use of backdoor or c2 ---> Risk Value: 23875.5476679
+                                  ID 23 : malfunction ---> Risk Value: 23082.8181302
+                                  ID 22 : programming error ---> Risk Value: 18466.2545042
+                                  ID 36 : forced browsing ---> Risk Value: 17906.6607509
+                                  ID 42 : ssi injection ---> Risk Value: 17906.6607509
+                                  ID 47 : dos ---> Risk Value: 17906.6607509
+                                  ID 28 : email misuse ---> Risk Value: 14869.4532256
+                                  ID 27 : unapproved hardware ---> Risk Value: 14869.4532256
+                                  ID 26 : unapproved workaround ---> Risk Value: 14869.4532256
+                                  ID 0 : capture stored data ---> Risk Value: 14401.1239902
+                                  ID 4 : spyware/keylogger ---> Risk Value: 14401.1239902
+                                  ID 35 : buffer overflow ---> Risk Value: 11937.773834
+                                  ID 34 : xss ---> Risk Value: 11937.773834
+                                  ID 8 : c2 ---> Risk Value: 10800.8429926
+                                  ID 10 : pretexting ---> Risk Value: 9920.50259434
+                                  ID 15 : extortion ---> Risk Value: 9920.50259434
+                                  ID 25 : gaffe ---> Risk Value: 9233.12725209
+                                  ID 55 : bypassed controls ---> Risk Value: 9220.23182297
+                                  ID 3 : adminware ---> Risk Value: 7200.56199508
+                                  ID 18 : omission ---> Risk Value: 6924.84543907
+                                  ID 49 : os commanding ---> Risk Value: 5968.88691698
+                                  ID 50 : session replay ---> Risk Value: 5968.88691698
+                                  ID 45 : session prediction ---> Risk Value: 5968.88691698
+                                  ID 38 : footprinting ---> Risk Value: 5968.88691698
+                                  ID 46 : url redirector abuse ---> Risk Value: 5968.88691698
+                                  ID 40 : cryptanalysis ---> Risk Value: 5968.88691698
+                                  ID 41 : reverse engineering ---> Risk Value: 5968.88691698
+                                  ID 11 : influence ---> Risk Value: 5952.3015566
+                                  ID 24 : data entry error ---> Risk Value: 4616.56362605
+                                  ID 12 : forgery ---> Risk Value: 3968.20103773
+                                  ID 30 : net misuse ---> Risk Value: 3717.3633064
+                                  ID 56 : disabled controls ---> Risk Value: 3688.09272919
+                                  ID 6 : exploit vuln ---> Risk Value: 3600.28099754
+                                  ID 7 : password dumper ---> Risk Value: 3600.28099754
+                                  ID 1 : downloader ---> Risk Value: 3600.28099754
+                                  ID 19 : loss ---> Risk Value: 2308.28181302
+                                  ID 54 : wiretapping ---> Risk Value: 1844.04636459
+                                  ID 52 : connection ---> Risk Value: 1844.04636459
+                                  ID 16 : fire ---> Risk Value: 1844.04636459
+
+Asset ID ----> 1
+
+                                  ID 51 : theft ---> Risk Value: 486408.799108
+                                  ID 56 : disabled controls ---> Risk Value: 68153.2482435
+                                  ID 19 : loss ---> Risk Value: 25906.6342915
+                                  ID 2 : ransomware ---> Risk Value: 19014.6471372
+                                  ID 55 : bypassed controls ---> Risk Value: 15871.3043855
+                                  ID 14 : other ---> Risk Value: 14988.0159787
+                                  ID 32 : privilege abuse ---> Risk Value: 12117.1770972
+                                  ID 42 : ssi injection ---> Risk Value: 11185.0865513
+                                  ID 9 : phishing ---> Risk Value: 8388.81491345
+                                  ID 31 : data mishandling ---> Risk Value: 5592.54327563
+                                  ID 4 : spyware/keylogger ---> Risk Value: 5070.57256991
+                                  ID 58 : disposal error ---> Risk Value: 2878.51492128
+                                  ID 53 : assault ---> Risk Value: 2800.81842097
+                                  ID 5 : backdoor ---> Risk Value: 2535.28628495
+                                  ID 17 : misconfiguration ---> Risk Value: 1919.00994752
+                                  ID 18 : omission ---> Risk Value: 1919.00994752
+                                  ID 10 : pretexting ---> Risk Value: 1864.18109188
+                                  ID 28 : email misuse ---> Risk Value: 1864.18109188
+                                  ID 13 : bribery ---> Risk Value: 1864.18109188
+                                  ID 27 : unapproved hardware ---> Risk Value: 1864.18109188
+                                  ID 33 : knowledge abuse ---> Risk Value: 1864.18109188
+                                  ID 59 : unapproved software ---> Risk Value: 1864.18109188
+                                  ID 57 : worm ---> Risk Value: 1267.64314248
+                                  ID 60 : snooping ---> Risk Value: 933.606140322
+                                  ID 29 : possession abuse ---> Risk Value: 932.090545939
+                                  ID 15 : extortion ---> Risk Value: 932.090545939
+
+Name of the asset ::: 0 ------> 
+                               Security Control ID : 30 ---> Cost : 1028
+                               Security Control ID : 106 ---> Cost : 4493
+                               Security Control ID : 38 ---> Cost : 2376
+                               Security Control ID : 50 ---> Cost : 2729
+                               Security Control ID : 131 ---> Cost : 1354
+                               Security Control ID : 1 ---> Cost : 4913
+                               Security Control ID : 2 ---> Cost : 4283
+                               Security Control ID : 3 ---> Cost : 3703
+                               Security Control ID : 4 ---> Cost : 3801
+                               Security Control ID : 5 ---> Cost : 1657
+                               Security Control ID : 31 ---> Cost : 3608
+                               Security Control ID : 95 ---> Cost : 2970
+                               Security Control ID : 42 ---> Cost : 4875
+                               Security Control ID : 9 ---> Cost : 4274
+                               Security Control ID : 10 ---> Cost : 3205
+                               Security Control ID : 134 ---> Cost : 1470
+                               Security Control ID : 140 ---> Cost : 2968
+                               Security Control ID : 8 ---> Cost : 1949
+                               Security Control ID : 33 ---> Cost : 2129
+                               Security Control ID : 36 ---> Cost : 4239
+                               Security Control ID : 40 ---> Cost : 1223
+                               Security Control ID : 56 ---> Cost : 1410
+                               Security Control ID : 57 ---> Cost : 2473
+                               Security Control ID : 149 ---> Cost : 4539
+                               Security Control ID : 27 ---> Cost : 2910
+                               Security Control ID : 45 ---> Cost : 1987
+                               Security Control ID : 51 ---> Cost : 4661
+                               Security Control ID : 54 ---> Cost : 3509
+                               Security Control ID : 55 ---> Cost : 1453
+                               Security Control ID : 69 ---> Cost : 4534
+                               Security Control ID : 148 ---> Cost : 1402
+                               Security Control ID : 15 ---> Cost : 4957
+                               Security Control ID : 14 ---> Cost : 3578
+                               Security Control ID : 99 ---> Cost : 4807
+                               Security Control ID : 145 ---> Cost : 2386
+                               Security Control ID : 163 ---> Cost : 3459
+                               Security Control ID : 138 ---> Cost : 1940
+                               Security Control ID : 49 ---> Cost : 4150
+                               Security Control ID : 91 ---> Cost : 3014
+                               Security Control ID : 127 ---> Cost : 2797
+                               Security Control ID : 0 ---> Cost : 1998
+                               Security Control ID : 58 ---> Cost : 3978
+                               Security Control ID : 34 ---> Cost : 4419
+                               Security Control ID : 94 ---> Cost : 1767
+                               Security Control ID : 6 ---> Cost : 2119
+                               Security Control ID : 139 ---> Cost : 4442
+                               Security Control ID : 143 ---> Cost : 4818
+                               Security Control ID : 53 ---> Cost : 1083
+                               Security Control ID : 133 ---> Cost : 1307
+                               Security Control ID : 46 ---> Cost : 1082
+                               Security Control ID : 47 ---> Cost : 4561
+                               Security Control ID : 7 ---> Cost : 4818
+                               Security Control ID : 153 ---> Cost : 4876
+                               Security Control ID : 122 ---> Cost : 1210
+                               Security Control ID : 150 ---> Cost : 3632
+                               Security Control ID : 17 ---> Cost : 4812
+                               Security Control ID : 66 ---> Cost : 1631
+                               Security Control ID : 128 ---> Cost : 4226
+                               Security Control ID : 96 ---> Cost : 3993
+                               Security Control ID : 20 ---> Cost : 2949
+                               Security Control ID : 24 ---> Cost : 1142
+                               Security Control ID : 48 ---> Cost : 1493
+
+
+Name of the asset ::: 1 ------> 
+                               Security Control ID : 38 ---> Cost : 2376
+                               Security Control ID : 69 ---> Cost : 4534
+                               Security Control ID : 14 ---> Cost : 3578
+                               Security Control ID : 30 ---> Cost : 1028
+                               Security Control ID : 46 ---> Cost : 1082
+                               Security Control ID : 47 ---> Cost : 4561
+                               Security Control ID : 56 ---> Cost : 1410
+                               Security Control ID : 57 ---> Cost : 2473
+                               Security Control ID : 9 ---> Cost : 4274
+                               Security Control ID : 27 ---> Cost : 2910
+                               Security Control ID : 106 ---> Cost : 4493
+                               Security Control ID : 49 ---> Cost : 4150
+                               Security Control ID : 51 ---> Cost : 4661
+                               Security Control ID : 54 ---> Cost : 3509
+                               Security Control ID : 55 ---> Cost : 1453
+                               Security Control ID : 42 ---> Cost : 4875
+                               Security Control ID : 6 ---> Cost : 2119
+                               Security Control ID : 133 ---> Cost : 1307
+                               Security Control ID : 148 ---> Cost : 1402
+                               Security Control ID : 131 ---> Cost : 1354
+                               Security Control ID : 5 ---> Cost : 1657
+
+
+Asset Name : 0
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
+************** Alarm: All threat actions Not Covered for asset : 0
+
+Asset Name : 1
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 25, 26, 27, 29, 30, 31, 32, 33, 34, 36, 39, 42, 43, 51, 52, 53, 55, 56, 57, 58, 59]
+[2, 4, 5, 9, 10, 13, 14, 15, 17, 18, 19, 27, 28, 29, 31, 32, 33, 42, 51, 53, 55, 56, 57, 58, 59, 60]
+************** Alarm: All threat actions Not Covered for asset : 1
+[30, 106, 38, 50, 131, 1, 2, 3, 4, 5, 31, 95, 42, 9, 10, 134, 140, 8, 33, 36, 40, 56, 57, 149, 27, 45, 51, 54, 55, 69, 148, 15, 14, 99, 145, 163, 138, 49, 91, 127, 0, 58, 34, 94, 6, 139, 143, 53, 133, 46, 47, 7, 153, 122, 150, 17, 66, 128, 96, 20, 24, 48]
+[32, 39, 37, 33, 29, 31, 17, 21, 44, 43, 2, 13, 14, 20, 9, 51, 53, 5, 48, 23, 22, 36, 42, 47, 28, 27, 26, 0, 4, 35, 34, 8, 10, 15, 25, 55, 3, 18, 49, 50, 45, 38, 46, 40, 41, 11, 24, 12, 30, 56, 6, 7, 1, 19, 54, 52, 16]
+<--------------------------------------------------- Asset Name : database ----------------------------------------------------------------------->
+
+ Threat Action 32
+
+Probability : {u'misuse': 0.7688492063492063}
+                        ---> Applicable : [30, 106]
+                        ---> Forceable  : [30, 106]
+                        ---> SC Index  : {106: 1, 30: 0}
+
+ Threat Action 39
+
+Probability : {u'hacking': 0.33552631578947345}
+                        ---> Applicable : [38]
+                        ---> Forceable  : [38]
+                        ---> SC Index  : {38: 0}
+
+ Threat Action 37
+
+Probability : {u'hacking': 0.3157894736842104}
+                        ---> Applicable : [50]
+                        ---> Forceable  : [50]
+                        ---> SC Index  : {50: 0}
+
+ Threat Action 33
+
+Probability : {u'misuse': 0.0734126984126984}
+                        ---> Applicable : [131, 106]
+                        ---> Forceable  : [131, 106]
+                        ---> SC Index  : {106: 1, 131: 0}
+
+ Threat Action 29
+
+Probability : {u'misuse': 0.06646825396825397}
+                        ---> Applicable : [1, 2, 3, 4, 5, 30, 31, 95]
+                        ---> Forceable  : [1, 2, 3, 4, 5, 30, 31, 95]
+                        ---> SC Index  : {1: 0, 2: 1, 3: 2, 4: 3, 5: 4, 95: 7, 30: 5, 31: 6}
+
+ Threat Action 31
+
+Probability : {u'misuse': 0.06448412698412698}
+                        ---> Applicable : [42]
+                        ---> Forceable  : [42]
+                        ---> SC Index  : {42: 0}
+
+ Threat Action 17
+
+Probability : {u'error': 0.3356643356643357}
+                        ---> Applicable : [9, 10]
+                        ---> Forceable  : [9, 10]
+                        ---> SC Index  : {9: 0, 10: 1}
+
+ Threat Action 21
+
+Probability : {u'error': 0.2237762237762238}
+                        ---> Applicable : [134, 140]
+                        ---> Forceable  : [134, 140]
+                        ---> SC Index  : {140: 1, 134: 0}
+
+ Threat Action 44
+
+Probability : {u'hacking': 0.0789473684210526}
+                        ---> Applicable : [8]
+                        ---> Forceable  : [8]
+                        ---> SC Index  : {8: 0}
+
+ Threat Action 43
+
+Probability : {u'hacking': 0.0789473684210526}
+                        ---> Applicable : [33, 36, 38, 40]
+                        ---> Forceable  : [33, 36, 38, 40]
+                        ---> SC Index  : {40: 3, 33: 0, 36: 1, 38: 2}
+
+ Threat Action 2
+
+Probability : {u'malware': 0.4523809523809524}
+                        ---> Applicable : [56, 57]
+                        ---> Forceable  : [56, 57]
+                        ---> SC Index  : {56: 0, 57: 1}
+
+ Threat Action 13
+
+Probability : {u'social': 0.4050632911392405}
+                        ---> Applicable : [131, 149]
+                        ---> Forceable  : [131, 149]
+                        ---> SC Index  : {131: 0, 149: 1}
+
+ Threat Action 14
+
+Probability : {u'misuse': 0.000992063492063492, u'hacking': 0.03289473684210525, u'error': 0.06293706293706294, u'social': 0.05063291139240506}
+                        ---> Applicable : [27]
+                        ---> Forceable  : [27]
+                        ---> SC Index  : {27: 0}
+
+ Threat Action 20
+
+Probability : {u'error': 0.18181818181818182}
+                        ---> Applicable : [45]
+                        ---> Forceable  : [45]
+                        ---> SC Index  : {45: 0}
+
+ Threat Action 9
+
+Probability : {u'social': 0.35443037974683544}
+                        ---> Applicable : [51, 54, 55]
+                        ---> Forceable  : [51, 54, 55]
+                        ---> SC Index  : {51: 0, 54: 1, 55: 2}
+
+ Threat Action 51
+
+Probability : {u'physical': 0.46511627906976744}
+                        ---> Applicable : [38, 69]
+                        ---> Forceable  : [38, 69]
+                        ---> SC Index  : {69: 1, 38: 0}
+
+ Threat Action 53
+
+Probability : {u'physical': 0.32558139534883723}
+                        ---> Applicable : [148]
+                        ---> Forceable  : [148]
+                        ---> SC Index  : {148: 0}
+
+ Threat Action 5
+
+Probability : {u'malware': 0.16666666666666669}
+                        ---> Applicable : [15, 14]
+                        ---> Forceable  : [15, 14]
+                        ---> SC Index  : {14: 1, 15: 0}
+
+ Threat Action 48
+
+Probability : {u'hacking': 0.026315789473684195}
+                        ---> Applicable : [15, 99]
+                        ---> Forceable  : [15, 99]
+                        ---> SC Index  : {99: 1, 15: 0}
+
+ Threat Action 23
+
+Probability : {u'error': 0.06993006993006992}
+                        ---> Applicable : [145]
+                        ---> Forceable  : [145]
+                        ---> SC Index  : {145: 0}
+
+ Threat Action 22
+
+Probability : {u'error': 0.05594405594405595}
+                        ---> Applicable : [163, 138]
+                        ---> Forceable  : [163, 138]
+                        ---> SC Index  : {138: 1, 163: 0}
+
+ Threat Action 36
+
+Probability : {u'hacking': 0.01973684210526315}
+                        ---> Applicable : [49]
+                        ---> Forceable  : [49]
+                        ---> SC Index  : {49: 0}
+
+ Threat Action 42
+
+Probability : {u'hacking': 0.01973684210526315}
+                        ---> Applicable : [49]
+                        ---> Forceable  : [49]
+                        ---> SC Index  : {49: 0}
+
+ Threat Action 47
+
+Probability : {u'hacking': 0.01973684210526315}
+                        ---> Applicable : [45, 91]
+                        ---> Forceable  : [45, 91]
+                        ---> SC Index  : {91: 1, 45: 0}
+
+ Threat Action 28
+
+Probability : {u'misuse': 0.007936507936507936}
+                        ---> Applicable : [127, 95]
+                        ---> Forceable  : [127, 95]
+                        ---> SC Index  : {95: 1, 127: 0}
+
+ Threat Action 27
+
+Probability : {u'misuse': 0.007936507936507936}
+                        ---> Applicable : [0, 1, 2, 3, 4, 5, 58]
+                        ---> Forceable  : [0, 1, 2, 3, 4, 5, 58]
+                        ---> SC Index  : {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 58: 6}
+
+ Threat Action 26
+
+Probability : {u'misuse': 0.007936507936507936}
+                        ---> Applicable : [30, 34, 58, 3, 1]
+                        ---> Forceable  : [30, 34, 58, 3, 1]
+                        ---> SC Index  : {1: 4, 34: 1, 3: 3, 58: 2, 30: 0}
+
+ Threat Action 0
+
+Probability : {u'malware': 0.09523809523809523}
+                        ---> Applicable : [94, 95]
+                        ---> Forceable  : [94, 95]
+                        ---> SC Index  : {94: 0, 95: 1}
+
+ Threat Action 4
+
+Probability : {u'malware': 0.09523809523809523}
+                        ---> Applicable : [38, 56, 57, 6]
+                        ---> Forceable  : [38, 56, 57, 6]
+                        ---> SC Index  : {56: 1, 57: 2, 6: 3, 38: 0}
+
+ Threat Action 35
+
+Probability : {u'hacking': 0.013157894736842098}
+                        ---> Applicable : [138, 139, 143]
+                        ---> Forceable  : [138, 139, 143]
+                        ---> SC Index  : {138: 0, 139: 1, 143: 2}
+
+ Threat Action 34
+
+Probability : {u'hacking': 0.013157894736842098}
+                        ---> Applicable : [50, 55]
+                        ---> Forceable  : [50, 55]
+                        ---> SC Index  : {50: 0, 55: 1}
+
+ Threat Action 8
+
+Probability : {u'malware': 0.07142857142857142}
+                        ---> Applicable : [15, 51, 53]
+                        ---> Forceable  : [15, 51, 53]
+                        ---> SC Index  : {51: 1, 53: 2, 15: 0}
+
+ Threat Action 10
+
+Probability : {u'social': 0.06329113924050633}
+                        ---> Applicable : [131, 133]
+                        ---> Forceable  : [131, 133]
+                        ---> SC Index  : {131: 0, 133: 1}
+
+ Threat Action 15
+
+Probability : {u'social': 0.06329113924050633}
+                        ---> Applicable : [131, 127]
+                        ---> Forceable  : [131, 127]
+                        ---> SC Index  : {131: 0, 127: 1}
+
+ Threat Action 25
+
+Probability : {u'error': 0.027972027972027975}
+                        ---> Applicable : [131]
+                        ---> Forceable  : [131]
+                        ---> SC Index  : {131: 0}
+
+ Threat Action 55
+
+Probability : {u'physical': 0.11627906976744186}
+                        ---> Applicable : [9, 46, 47]
+                        ---> Forceable  : [9, 46, 47]
+                        ---> SC Index  : {9: 0, 46: 1, 47: 2}
+
+ Threat Action 3
+
+Probability : {u'malware': 0.047619047619047616}
+                        ---> Applicable : [7, 56, 57]
+                        ---> Forceable  : [7, 56, 57]
+                        ---> SC Index  : {56: 1, 57: 2, 7: 0}
+
+ Threat Action 18
+
+Probability : {u'error': 0.02097902097902098}
+                        ---> Applicable : [143, 140]
+                        ---> Forceable  : [143, 140]
+                        ---> SC Index  : {140: 1, 143: 0}
+
+ Threat Action 49
+
+Probability : {u'hacking': 0.006578947368421049}
+                        ---> Applicable : [143, 153]
+                        ---> Forceable  : [143, 153]
+                        ---> SC Index  : {153: 1, 143: 0}
+
+ Threat Action 50
+
+Probability : {u'hacking': 0.006578947368421049}
+                        ---> Applicable : [122]
+                        ---> Forceable  : [122]
+                        ---> SC Index  : {122: 0}
+
+ Threat Action 45
+
+Probability : {u'hacking': 0.006578947368421049}
+                        ---> Applicable : [122, 150]
+                        ---> Forceable  : [122, 150]
+                        ---> SC Index  : {122: 0, 150: 1}
+
+ Threat Action 38
+
+Probability : {u'hacking': 0.006578947368421049}
+                        ---> Applicable : [17, 66]
+                        ---> Forceable  : [17, 66]
+                        ---> SC Index  : {17: 0, 66: 1}
+
+ Threat Action 46
+
+Probability : {u'hacking': 0.006578947368421049}
+                        ---> Applicable : [143, 150]
+                        ---> Forceable  : [143, 150]
+                        ---> SC Index  : {150: 1, 143: 0}
+
+ Threat Action 40
+
+Probability : {u'hacking': 0.006578947368421049}
+                        ---> Applicable : [128, 33, 40]
+                        ---> Forceable  : [128, 33, 40]
+                        ---> SC Index  : {128: 0, 33: 1, 40: 2}
+
+ Threat Action 41
+
+Probability : {u'hacking': 0.006578947368421049}
+                        ---> Applicable : [96]
+                        ---> Forceable  : [96]
+                        ---> SC Index  : {96: 0}
+
+ Threat Action 11
+
+Probability : {u'social': 0.0379746835443038}
+                        ---> Applicable : [131, 133]
+                        ---> Forceable  : [131, 133]
+                        ---> SC Index  : {131: 0, 133: 1}
+
+ Threat Action 24
+
+Probability : {u'error': 0.013986013986013988}
+                        ---> Applicable : [150, 153]
+                        ---> Forceable  : [150, 153]
+                        ---> SC Index  : {153: 1, 150: 0}
+
+ Threat Action 12
+
+Probability : {u'social': 0.02531645569620253}
+                        ---> Applicable : [12]
+                        ---> Forceable  : []
+                        ---> SC Index  : {}
+
+ Threat Action 30
+
+Probability : {u'misuse': 0.001984126984126984}
+                        ---> Applicable : [45, 47]
+                        ---> Forceable  : [45, 47]
+                        ---> SC Index  : {45: 0, 47: 1}
+
+ Threat Action 56
+
+Probability : {u'physical': 0.046511627906976744}
+                        ---> Applicable : [14, 30, 46, 47]
+                        ---> Forceable  : [14, 30, 46, 47]
+                        ---> SC Index  : {46: 2, 30: 1, 14: 0, 47: 3}
+
+ Threat Action 6
+
+Probability : {u'malware': 0.023809523809523808}
+                        ---> Applicable : [6, 10, 17, 20, 22, 24, 26]
+                        ---> Forceable  : [6, 10, 17, 20, 24]
+                        ---> SC Index  : {24: 4, 17: 2, 10: 1, 20: 3, 6: 0}
+
+ Threat Action 7
+
+Probability : {u'malware': 0.023809523809523808}
+                        ---> Applicable : [56, 57]
+                        ---> Forceable  : [56, 57]
+                        ---> SC Index  : {56: 0, 57: 1}
+
+ Threat Action 1
+
+Probability : {u'malware': 0.023809523809523808}
+                        ---> Applicable : [7, 48]
+                        ---> Forceable  : [7, 48]
+                        ---> SC Index  : {48: 1, 7: 0}
+
+ Threat Action 19
+
+Probability : {u'error': 0.006993006993006994}
+                        ---> Applicable : [38, 69]
+                        ---> Forceable  : [38, 69]
+                        ---> SC Index  : {69: 1, 38: 0}
+
+ Threat Action 54
+
+Probability : {u'physical': 0.023255813953488372}
+                        ---> Applicable : [0, 2, 11, 58]
+                        ---> Forceable  : [0, 2, 58]
+                        ---> SC Index  : {0: 0, 2: 1, 58: 2}
+
+ Threat Action 52
+
+Probability : {u'physical': 0.023255813953488372}
+                        ---> Applicable : [15, 51, 52]
+                        ---> Forceable  : [15, 51]
+                        ---> SC Index  : {51: 1, 15: 0}
+
+ Threat Action 16
+
+Probability : {u'environmental': 1.0}
+                        ---> Applicable : [69]
+                        ---> Forceable  : [69]
+                        ---> SC Index  : {69: 0}
+[38, 69, 14, 30, 46, 47, 56, 57, 9, 27, 106, 49, 51, 54, 55, 42, 6, 133, 148, 131, 5]
+[51, 56, 19, 2, 55, 14, 32, 42, 9, 31, 4, 58, 53, 5, 17, 18, 10, 28, 13, 27, 33, 59, 57, 60, 29, 15]
+<--------------------------------------------------- Asset Name : laptop ----------------------------------------------------------------------->
+
+ Threat Action 51
+
+Probability : {u'physical': 0.8471544715447155}
+                        ---> Applicable : [38, 69]
+                        ---> Forceable  : [38, 69]
+                        ---> SC Index  : {69: 1, 38: 0}
+
+ Threat Action 56
+
+Probability : {u'physical': 0.11869918699186992}
+                        ---> Applicable : [14, 30, 46, 47]
+                        ---> Forceable  : [14, 30, 46, 47]
+                        ---> SC Index  : {46: 2, 30: 1, 14: 0, 47: 3}
+
+ Threat Action 19
+
+Probability : {u'error': 0.7941176470588236}
+                        ---> Applicable : [38, 69]
+                        ---> Forceable  : [38, 69]
+                        ---> SC Index  : {69: 1, 38: 0}
+
+ Threat Action 2
+
+Probability : {u'malware': 0.6}
+                        ---> Applicable : [56, 57]
+                        ---> Forceable  : [56, 57]
+                        ---> SC Index  : {56: 0, 57: 1}
+
+ Threat Action 55
+
+Probability : {u'physical': 0.027642276422764227}
+                        ---> Applicable : [9, 46, 47]
+                        ---> Forceable  : [9, 46, 47]
+                        ---> SC Index  : {9: 0, 46: 1, 47: 2}
+
+ Threat Action 14
+
+Probability : {u'malware': 0.12, u'hacking': 0.5000000000000003}
+                        ---> Applicable : [27]
+                        ---> Forceable  : [27]
+                        ---> SC Index  : {27: 0}
+
+ Threat Action 32
+
+Probability : {u'misuse': 0.4642857142857143}
+                        ---> Applicable : [30, 106]
+                        ---> Forceable  : [30, 106]
+                        ---> SC Index  : {106: 1, 30: 0}
+
+ Threat Action 42
+
+Probability : {u'hacking': 0.5000000000000003}
+                        ---> Applicable : [49]
+                        ---> Forceable  : [49]
+                        ---> SC Index  : {49: 0}
+
+ Threat Action 9
+
+Probability : {u'social': 0.6428571428571429}
+                        ---> Applicable : [51, 54, 55]
+                        ---> Forceable  : [51, 54, 55]
+                        ---> SC Index  : {51: 0, 54: 1, 55: 2}
+
+ Threat Action 31
+
+Probability : {u'misuse': 0.21428571428571427}
+                        ---> Applicable : [42]
+                        ---> Forceable  : [42]
+                        ---> SC Index  : {42: 0}
+
+ Threat Action 4
+
+Probability : {u'malware': 0.15999999999999998}
+                        ---> Applicable : [38, 56, 57, 6]
+                        ---> Forceable  : [38, 56, 57, 6]
+                        ---> SC Index  : {56: 1, 57: 2, 6: 3, 38: 0}
+
+ Threat Action 58
+
+Probability : {u'error': 0.08823529411764706}
+                        ---> Applicable : [96, 133, 149]
+                        ---> Forceable  : [133]
+                        ---> SC Index  : {133: 0}
+
+ Threat Action 53
+
+Probability : {u'physical': 0.004878048780487805}
+                        ---> Applicable : [148]
+                        ---> Forceable  : [148]
+                        ---> SC Index  : {148: 0}
+
+ Threat Action 5
+
+Probability : {u'malware': 0.07999999999999999}
+                        ---> Applicable : [15, 14]
+                        ---> Forceable  : [14]
+                        ---> SC Index  : {14: 0}
+
+ Threat Action 17
+
+Probability : {u'error': 0.058823529411764705}
+                        ---> Applicable : [9, 10]
+                        ---> Forceable  : [9]
+                        ---> SC Index  : {9: 0}
+
+ Threat Action 18
+
+Probability : {u'error': 0.058823529411764705}
+                        ---> Applicable : [143, 140]
+                        ---> Forceable  : []
+                        ---> SC Index  : {}
+
+ Threat Action 10
+
+Probability : {u'social': 0.14285714285714285}
+                        ---> Applicable : [131, 133]
+                        ---> Forceable  : [131, 133]
+                        ---> SC Index  : {131: 0, 133: 1}
+
+ Threat Action 28
+
+Probability : {u'misuse': 0.07142857142857142}
+                        ---> Applicable : [127, 95]
+                        ---> Forceable  : []
+                        ---> SC Index  : {}
+
+ Threat Action 13
+
+Probability : {u'social': 0.14285714285714285}
+                        ---> Applicable : [131, 149]
+                        ---> Forceable  : [131]
+                        ---> SC Index  : {131: 0}
+
+ Threat Action 27
+
+Probability : {u'misuse': 0.07142857142857142}
+                        ---> Applicable : [0, 1, 2, 3, 4, 5, 58]
+                        ---> Forceable  : [5]
+                        ---> SC Index  : {5: 0}
+
+ Threat Action 33
+
+Probability : {u'misuse': 0.07142857142857142}
+                        ---> Applicable : [131, 106]
+                        ---> Forceable  : [131, 106]
+                        ---> SC Index  : {106: 1, 131: 0}
+
+ Threat Action 59
+
+Probability : {u'misuse': 0.07142857142857142}
+                        ---> Applicable : [6]
+                        ---> Forceable  : [6]
+                        ---> SC Index  : {6: 0}
+
+ Threat Action 57
+
+Probability : {u'malware': 0.039999999999999994}
+                        ---> Applicable : [56, 57]
+                        ---> Forceable  : [56, 57]
+                        ---> SC Index  : {56: 0, 57: 1}
+
+ Threat Action 60
+
+Probability : {u'physical': 0.0016260162601626018}
+                        ---> Applicable : [11]
+                        ---> Forceable  : []
+                        ---> SC Index  : {}
+
+ Threat Action 29
+
+Probability : {u'misuse': 0.03571428571428571}
+                        ---> Applicable : [1, 2, 3, 4, 5, 30, 31, 95]
+                        ---> Forceable  : [5, 30]
+                        ---> SC Index  : {5: 0, 30: 1}
+
+ Threat Action 15
+
+Probability : {u'social': 0.07142857142857142}
+                        ---> Applicable : [131, 127]
+                        ---> Forceable  : [131]
+                        ---> SC Index  : {131: 0}
+
+Process finished with exit code 0
