@@ -12,6 +12,13 @@ affordable_budget = [100000, 100000]
 def SMT_Solver(asset_index,security_control_list,threat_action_list,threat_list,asset_enterprise_list):
     # USER_DEFINED_SMT_TRUE = 1
     # USER_DEFINED_SMT_FALSE = 0
+    print "Check the imposed risk by all threats"
+    gloabl_imposed_risk = 0
+    for threat in threat_id_for_all_assets[asset_index]:
+        gloabl_imposed_risk += threat_list[threat].threat_impact_asset[asset_index]
+        # print "Threat ID %s : %s Value %s" % (threat,threat_list[threat].primary_key,threat_list[threat].threat_impact_asset[asset_index])
+    print "Maximum Risk %s" % (gloabl_imposed_risk)
+
     threat_action_id_to_position_roll = {}
     for threat_act_index in range(len(threat_action_id_list_for_all_assets[asset_index])):
         threat_action_id_to_position_roll[threat_action_id_list_for_all_assets[asset_index][threat_act_index]] = threat_act_index
@@ -52,6 +59,7 @@ def SMT_Solver(asset_index,security_control_list,threat_action_list,threat_list,
     print "Security Controls  %s" % (security_control_cost_SMT)
     total_security_control_cost_SMT = Real("total_investment_cost")
     threat_failure_probability_SMT = [Real("T_f_%s" % (i)) for i in threat_id_for_all_assets[asset_index]]
+    residual_risk_SMT = Real("residual_risk_SMT")
     print "Threat Failure Probability %s" % (threat_failure_probability_SMT)
 
     ################################################################################### Create SMT Environment #######################################################################
@@ -126,18 +134,21 @@ def SMT_Solver(asset_index,security_control_list,threat_action_list,threat_list,
         print "Threat Impact : %s" % (threat_list[threat].threat_impact_asset[asset_index])
 
         ######################################################## 1.5 Threat Failure Probability ####################################################
-        print "************************************** Predict Threat Failure Probability ******************************************"
-        for threat_index in range(len(threat_failure_probability_SMT)):
-            threat_id = threat_id_for_all_assets[asset_index][threat_index]
-            print "Threat ID %s" % (threat_id)
-            print "Threat ID SMT %s" % (threat_failure_probability_SMT[threat_index])
-            print "Threat Action of ID %s" % (threat_list[threat_id].asset_threat_action)
-            print "Threat ACtion ID SMT %s" % (threat_defense_success_SMT[threat_index])
-            print "Threat Impact %s" % (threat_list[threat_id].threat_impact_asset[asset_index])
-            if len(threat_list[threat_id].asset_threat_action) > 0:
-                cyberARM.add(threat_failure_probability_SMT[threat_index]==(1-reduce(lambda x,y:x*y,threat_defense_success_SMT[threat_index])))
-            else:
-                cyberARM.add(threat_failure_probability_SMT[threat_index] == 1)
+    print "************************************** Predict Threat Failure Probability ******************************************"
+    for threat_index in range(len(threat_failure_probability_SMT)):
+        threat_id = threat_id_for_all_assets[asset_index][threat_index]
+        print "Threat ID %s" % (threat_id)
+        print "Threat ID SMT %s" % (threat_failure_probability_SMT[threat_index])
+        print "Threat Action of ID %s" % (threat_list[threat_id].asset_threat_action)
+        print "Threat ACtion ID SMT %s" % (threat_defense_success_SMT[threat_index])
+        print "Threat Impact %s" % (threat_list[threat_id].threat_impact_asset[asset_index])
+        if len(threat_list[threat_id].asset_threat_action) > 0:
+            cyberARM.add(threat_failure_probability_SMT[threat_index]==((1-reduce(lambda x,y:x*y,threat_defense_success_SMT[threat_index]))*threat_list[threat_id].threat_impact_asset[asset_index]))
+        else:
+            cyberARM.add(threat_failure_probability_SMT[threat_index] == threat_list[threat_id].threat_impact_asset[asset_index])
+
+        ################################################## 1.6 Affordable Risk ########################################################
+        cyberARM.add(residual_risk_SMT==sum(threat_failure_probability_SMT))
 
     satisfiability = cyberARM.check()
     if satisfiability == z3.sat:
@@ -147,8 +158,10 @@ def SMT_Solver(asset_index,security_control_list,threat_action_list,threat_list,
 
         ##################################################### Threat Failure Probability #################################
         for i in range(len(threat_failure_probability_SMT)):
-            print "ID %s Success Prob %s Value %s" % (threat_id_for_all_assets[asset_index][i],threat_failure_probability_SMT[i],recommended_CDM[threat_failure_probability_SMT[i]])
-
+            print "ID %s Impact %s Success Prob %s Value %s" % (threat_id_for_all_assets[asset_index][i],threat_list[threat_id_for_all_assets[asset_index][i]].threat_impact_asset[asset_index],threat_failure_probability_SMT[i],recommended_CDM[threat_failure_probability_SMT[i]])
+        print "************************************************* \nFinal Stage"
+        print "Total Risk %s" % (gloabl_imposed_risk)
+        print "Residual Risk %s" % (recommended_CDM[residual_risk_SMT])
         ############################################## TA ####################################
         print "TA_51_0 %s" % (recommended_CDM[threat_action_security_control_prob_SMT[threat_action_id_to_position_roll[51]][0]])
         print "TA_51_1 %s" % (recommended_CDM[threat_action_security_control_prob_SMT[threat_action_id_to_position_roll[51]][1]])
