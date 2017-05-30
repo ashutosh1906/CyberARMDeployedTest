@@ -1,4 +1,4 @@
-import ProjectConfigFile,Utitilities,TestCases
+import ProjectConfigFile,Utitilities,TestCases, SMTUtilities
 from z3 import *
 import time
 ################################################################################## Global Variables ################################################################
@@ -6,7 +6,8 @@ threat_action_name_list = []
 selected_security_controls = []
 threat_id_for_all_assets = []
 threat_action_id_list_for_all_assets = []
-affordable_budget = [100000, 100000]
+affordable_budget = [200000, 200000]
+affordable_risk = [2000000,180000]
 ################################################################################## End Global Variables ################################################################
 
 def SMT_Solver(asset_index,security_control_list,threat_action_list,threat_list,asset_enterprise_list):
@@ -38,7 +39,7 @@ def SMT_Solver(asset_index,security_control_list,threat_action_list,threat_list,
                                     for i in threat_action_id_list_for_all_assets[asset_index]
                                  ]
     threat_action_success_prob_SMT = [Real("TA_%s"%(i)) for i in threat_action_id_list_for_all_assets[asset_index]]
-    print threat_action_security_control_prob_SMT[1][2]
+    # print threat_action_security_control_prob_SMT[1][2]
     for i in range(len(threat_action_security_control_prob_SMT)):
         ta_id = threat_action_id_list_for_all_assets[asset_index][i]
         print "Threat Action : (%s,%s,%s)" % (threat_action_security_control_prob_SMT[i], threat_action_list[ta_id].asset_applicable_security_controls,
@@ -77,7 +78,7 @@ def SMT_Solver(asset_index,security_control_list,threat_action_list,threat_list,
     total_security_control_cost_constraint = (total_security_control_cost_SMT == sum(security_control_cost_SMT))
     cyberARM.add(security_control_cost_constraint)
     cyberARM.add(total_security_control_cost_constraint)
-    cyberARM.add(total_security_control_cost_SMT > 40000)
+    # cyberARM.add(total_security_control_cost_SMT > 40000)
     cyberARM.add(total_security_control_cost_SMT <= affordable_budget[asset_index])
 
     ########################################### 1.2 Security Control Selection Constraint ######################################
@@ -149,20 +150,22 @@ def SMT_Solver(asset_index,security_control_list,threat_action_list,threat_list,
 
         ################################################## 1.6 Affordable Risk ########################################################
         cyberARM.add(residual_risk_SMT==sum(threat_failure_probability_SMT))
+        cyberARM.add(residual_risk_SMT <= affordable_risk[asset_index])
 
     satisfiability = cyberARM.check()
     if satisfiability == z3.sat:
         print "Model is ---> "
         recommended_CDM = cyberARM.model()
-        print recommended_CDM
+        # print recommended_CDM
 
         ##################################################### Threat Failure Probability #################################
         for i in range(len(threat_failure_probability_SMT)):
             print "ID %s Impact %s Success Prob %s Value %s" % (threat_id_for_all_assets[asset_index][i],threat_list[threat_id_for_all_assets[asset_index][i]].threat_impact_asset[asset_index],threat_failure_probability_SMT[i],recommended_CDM[threat_failure_probability_SMT[i]])
         print "************************************************* \nFinal Stage"
         print "Total Risk %s" % (gloabl_imposed_risk)
-        print "Residual Risk %s" % (recommended_CDM[residual_risk_SMT])
+        print "Residual Risk %s\n" % (recommended_CDM[residual_risk_SMT])
         ############################################## TA ####################################
+        SMTUtilities.smtSelectSecurityControls(recommended_CDM,security_controls_bool_SMT)
         print "TA_51_0 %s" % (recommended_CDM[threat_action_security_control_prob_SMT[threat_action_id_to_position_roll[51]][0]])
         print "TA_51_1 %s" % (recommended_CDM[threat_action_security_control_prob_SMT[threat_action_id_to_position_roll[51]][1]])
 
@@ -205,11 +208,14 @@ def select_threat(threat_list,asset_enterprise_list):
 
 
 def startProcessing(security_control_list,selected_security_controls,threat_action_name_list,threat_action_list,asset_enterprise_list,risk_threat_action,threat_list,threat_name_to_id):
-    for i in range(len(selected_security_controls)):
-        security_control_asset_threat_action_coverage(threat_action_list,security_control_list,selected_security_controls[i],threat_action_name_list[i],i,asset_enterprise_list,risk_threat_action)
+    # for i in range(len(selected_security_controls)):
+    #     security_control_asset_threat_action_coverage(threat_action_list,security_control_list,selected_security_controls[i],threat_action_name_list[i],i,asset_enterprise_list,risk_threat_action)
     select_threat(threat_list,asset_enterprise_list)
     end_index = len(selected_security_controls)
-    for i in range(1,end_index):
+    for i in range(0,end_index):
+        security_control_asset_threat_action_coverage(threat_action_list, security_control_list,
+                                                      selected_security_controls[i], threat_action_name_list[i], i,
+                                                      asset_enterprise_list, risk_threat_action)
         print threat_action_id_list_for_all_assets[i]
         Utitilities.printSecurityControlObject(selected_security_controls[i],security_control_list)
         print selected_security_controls[i]
