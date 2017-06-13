@@ -38,7 +38,7 @@ def read_json_threat_report(threat_report,file,asset_statistics,asset_type_enume
                             asset_exact_name = specific_asset[SPECIFIC_ASSET_COMMON_KEY][(specific_asset[SPECIFIC_ASSET_COMMON_KEY].index('-')+2):]
                         else:
                             asset_exact_name = specific_asset[SPECIFIC_ASSET_COMMON_KEY]#[(specific_asset[SPECIFIC_ASSET_COMMON_KEY].index('-')+2):]
-                        asset_exact_name = asset_exact_name.lower()
+                        asset_exact_name = asset_exact_name.lower()  ################# ignore capital small letter combination ###############
                         asset_list_report.append(asset_exact_name)
                         if asset_exact_name not in asset_statistics.keys():
                             asset_statistics[asset_exact_name] = {}
@@ -94,12 +94,12 @@ def find_threat_statistics_all(asset_statistics,asset_type_enumeration,threat_th
     ################################################################## Statistics #######################################################################
     # print asset_statistics
     # print asset_type_enumeration
-    # threat_threat_action_file = open(FILE_NAME,'w')
+    # # threat_threat_action_file = open(FILE_NAME,'w')
     # for asset_name in asset_statistics.keys():
     #     for threat in asset_statistics[asset_name].keys():
     #         for threat_action in asset_statistics[asset_name][threat].keys():
-    #             # print "(%s,%s,%s) : %s" % (asset_name,threat,threat_action,asset_statistics[asset_name][threat][threat_action])
-    #             threat_threat_action_file.write("%s,%s,%s : %s\n" % (asset_name,threat,threat_action,asset_statistics[asset_name][threat][threat_action]))
-    # threat_threat_action_file.close()
+    #             print "(%s,%s,%s) : %s" % (asset_name,threat,threat_action,asset_statistics[asset_name][threat][threat_action])
+    #             # threat_threat_action_file.write("%s,%s,%s : %s\n" % (asset_name,threat,threat_action,asset_statistics[asset_name][threat][threat_action]))
+    # # threat_threat_action_file.close()
 
 

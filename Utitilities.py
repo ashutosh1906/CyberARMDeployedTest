@@ -1,5 +1,14 @@
 import ProjectConfigFile
 
+def printAssetList(asset_type_enumeration):
+    asset_file = open('Asset_List','w')
+    print "******************List of the asset  names************************"
+    for asset in asset_type_enumeration:
+        if asset.lower()=='unknown':
+            continue
+        asset_file.write(asset+'\n')
+    asset_file.close()
+
 def printThreat(threat_list,threat_name_to_id):
     for threat in threat_list:
         print "ID : %s ---> Name : (%s,%s)" % (threat.primary_key,threat.threat_name,threat_name_to_id[threat.threat_name])
@@ -97,8 +106,8 @@ def printAllStatistics(prob_threat,threat_threatAction_asset,prob_threat_action_
 
 def printAllStatisticsGivenAssets(prob_threat,threat_threatAction_asset,prob_threat_action_threat,threat_threat_action_possible_pair,enterprise_asset_list_given):
     for threat in threat_threat_action_possible_pair.keys():
-        print "___________________________All Possible threat action for this threat _____________________________"
-        print threat_threat_action_possible_pair
+        print "___________________________All Possible threat action for this threat %s" % (threat)
+        print threat_threat_action_possible_pair[threat]
 
     for asset in enterprise_asset_list_given:
         print "\n%s -----> \n"%(asset)
@@ -188,3 +197,21 @@ def printSelectedSecurityControls(security_control_list,selected_security_contro
             print "                              ",
             print "Security Control ID : %s ---> Cost : %s" % (sec_con,security_control_list[sec_con].investment_cost)
         print ""
+
+def print_risk_threat_action(risk_threat_action):
+    print "\n***************************** Risk Threat Action For Assets ******************************"
+    risk_index = 0
+    for risk_threat_action_asset in risk_threat_action:
+        print "For the Asset Number: %s" % (risk_index)
+        print risk_threat_action_asset
+        risk_index += 1
+
+
+def print_risk_threat(risk_threat):
+    print "\n************************************ Risk Threat For Assets ***********************************"
+    risk_index = 0
+    for risk_threat_asset in risk_threat:
+        print "For the Asset Number: %s" % (risk_index)
+        print risk_threat_asset
+        risk_index += 1
+

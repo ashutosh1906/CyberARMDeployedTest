@@ -7,8 +7,22 @@ class ThreatAction(object):
         self.security_control_index = {}
         self.number_security_controls = 0
         self.asset_applicable_security_controls = []
+        self.global_asset_applicable_security = []
         self.asset_security_control_index = {}
+        self.global_asset_security_control_index = []
         self.asset_number_security_controls = 0
+
+    def prepare_global_asset_applicable_security_controls(self,selected_security_controls):
+        for i in range(len(selected_security_controls)):
+            self.global_asset_applicable_security.append([])
+            self.global_asset_security_control_index.append({})
+            number_threat_action = 0
+            for sec_control in selected_security_controls[i]:
+                if sec_control in self.applicable_security_controls:
+                    if sec_control not in self.global_asset_applicable_security[i]:
+                        self.global_asset_applicable_security[i].append(sec_control)
+                        self.global_asset_security_control_index[i][sec_control] = number_threat_action
+                        number_threat_action += 1
 
     def clearAssetSpecificList(self):
         self.asset_number_security_controls = 0
@@ -44,3 +58,9 @@ class ThreatAction(object):
             print "                                      Threat Name : %s Prob %s" % (i,self.prob_given_threat_asset[asset_name][i])
 
 
+    def printGlobalAssetThreatActionProperties(self):
+        print "\nThreat Action ID: %s, Name: %s" % (self.primary_key,self.threat_action_name)
+        print " ::::::::::::: Applicable Security Controls ----> "
+        for i in range(len(self.global_asset_applicable_security)):
+            print "                                                    %s" % (self.global_asset_applicable_security[i])
+            print "                                                    %s" % (self.global_asset_security_control_index[i])

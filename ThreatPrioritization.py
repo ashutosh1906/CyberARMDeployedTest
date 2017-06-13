@@ -1,4 +1,4 @@
-import ProjectConfigFile
+import ProjectConfigFile,Utitilities
 ######################################################### Calculate Risk ###########################################################
 def calculateRisk(prob_threat,prob_threat_action_threat,asset_enterprise_list,risk_threat_action,risk_threat):
     for asset_des in asset_enterprise_list:
@@ -103,6 +103,11 @@ def calculate_threat_threatAction_prob_distribution(prob_threat_threat_action,th
 
 
 def threat_prioritization_main(prob_threat,prob_threat_threat_action,prob_threat_threat_action_alternative,prob_threat_action_threat,risk_threat_action,risk_threat,threat_threatAction_asset,asset_enterprise_list):
+    # print "Threat Threat Action Asset %s" % (threat_threatAction_asset)
     calculate_threatAction_threat_prob_distribution(prob_threat,prob_threat_action_threat,threat_threatAction_asset)
+    print "Prob of threat action given threat and asset %s" % (prob_threat_action_threat)
     calculate_threat_threatAction_prob_distribution(prob_threat_threat_action,threat_threatAction_asset)
+    print "Prob of threat given threat action and asset %s" % (prob_threat_threat_action)
     calculateRisk(prob_threat,prob_threat_action_threat,asset_enterprise_list,risk_threat_action,risk_threat)
+    Utitilities.print_risk_threat_action(risk_threat_action)
+    Utitilities.print_risk_threat(risk_threat)

@@ -15,6 +15,7 @@ MISUSE_COST = DESTROY_C | DESTROY_I | DESTROY_A
 PHYSICAL_COST = DESTROY_C | DESTROY_I | DESTROY_A
 THREAT_MAP_COST = {}
 THREAT_PRIORITIZATION_THRESHOLD = 0.05
+CHOSEN_NUMBER_THREAT_ACTION = 4
 
 ######################################### Kill chain phase dimension ##################################################
 RECON_KEY = 'recon'

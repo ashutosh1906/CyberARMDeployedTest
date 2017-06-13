@@ -12,7 +12,18 @@ class SecurityControl(object):
         self.threat_action_effectiveness = {}
         self.number_threat_action = 0
         self.asset_threat_action_list = []
+        self.global_asset_threat_action_list = []
         self.investment_cost = random.randint(1000,5000)
+
+    def prepare_global_asset_threat_action_list(self,threat_action_id_list_for_all_assets):
+        if len(self.global_asset_threat_action_list) > 0:
+            return
+        for i in range(len(threat_action_id_list_for_all_assets)):
+            self.global_asset_threat_action_list.append([])
+            for threat_action in threat_action_id_list_for_all_assets[i]:
+                if threat_action in self.threat_action:
+                    if threat_action not in self.global_asset_threat_action_list[i]:
+                        self.global_asset_threat_action_list[i].append(threat_action)
 
     def clearAllThreatActions(self):
         del self.asset_threat_action_list[:]
@@ -32,3 +43,9 @@ class SecurityControl(object):
         print "Threat Action : ---------> "
         for threat_act in self.asset_threat_action_list:
             print "                                  Threat Action ID : %s ------- Effectiveness : %s" % (threat_act,self.threat_action_effectiveness[threat_act])
+
+    def printGlobalAssetThreatActionProperties(self):
+        print "\nSecurity Control ID: %s, Name: %s" % (self.primary_key,self.sc_name)
+        print " ::::::::::::: Applicable Against Threat Actions ----> "
+        for i in range(len(self.global_asset_threat_action_list)):
+            print "                                                       %s" % (self.global_asset_threat_action_list[i])
